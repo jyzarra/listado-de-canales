@@ -1,4 +1,5 @@
 #EXTM3U
 
-#EXITINF:-1,tvg-name="TNT"
-http://regioplay.xyz/php/SR_REGIO_513022_/regio22dd.php?c=tnt&k=SrRegio2022&dos=.m3u8
+*** INFANTILES ***
+#EXTINF:-1, TOONCAST
+http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=108&p=3&k=srregio&f=.m3u8 
