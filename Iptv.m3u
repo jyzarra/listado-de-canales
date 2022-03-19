@@ -48,3 +48,23 @@ http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=2373&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, BIT ME  
 http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=2591&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", ENERGEEK
+https://regioplay.xyz/php/SR_REGIO_513022_/energeek.php?f=.m3u8
+
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", ENERGEEK 2
+https://regioplay.xyz/php/SR_REGIO_513022_/energeek2.php?f=.m3u8
+
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", LATINO KIDS
+https://regioplay.xyz/php/SR_REGIO_513022_/latinokids.php?f=.m3u8
+
+
+
+
+
+
+
+
+
+
+
