@@ -58,8 +58,11 @@ https://regioplay.xyz/php/SR_REGIO_513022_/energeek2.php?f=.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", LATINO KIDS
 https://regioplay.xyz/php/SR_REGIO_513022_/latinokids.php?f=.m3u8
 
+#EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png", CSTV 
+https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
 
-
+#EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png", Chavo TV 
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 
 
 
