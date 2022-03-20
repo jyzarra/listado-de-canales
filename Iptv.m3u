@@ -76,6 +76,41 @@ https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg", Paka Paka 
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="988" tvg-name="Vintage TV" tvg-logo="https://www.m3u.cl/logo/988_Vintage_TV.png", Vintage TV 
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1071" tvg-name="APlus TV" tvg-logo="https://www.m3u.cl/logo/1071_APlus_TV.png", APlus TV 
+https://stmv1.voxtvhd.com.br/aplustv/aplustv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg", Pequeradio TV 
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1080" tvg-name="Super 3" tvg-logo="https://www.m3u.cl/logo/1080_Super_3.png", Super 3 
+https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="628" tvg-name="Xabarin TV" tvg-logo="https://www.m3u.cl/logo/628_Xabarin_TV.png", Xabarin TV 
+http://infantil-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+
+
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
