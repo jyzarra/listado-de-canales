@@ -175,20 +175,11 @@ https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/chunklist_w2091399943.m3u8?
 #EXTINF:-1, RAKUTEN TV FAMILIA
 http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, ACS NETWORK TV
+https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
-#
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1, GARFIELD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&PlaylistM3UCL
 
 
 
