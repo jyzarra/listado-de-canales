@@ -199,14 +199,14 @@ https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1, JETIX TV
 http://jetixjahh20.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, TELECLASICOS
+https://tvdatta.com:3574/stream/play.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TELE PLUS
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?WebM3UCL&PlaylistM3UCL
 
 
 
-
-
-
-
-
-
+#
 
 
