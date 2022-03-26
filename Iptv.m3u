@@ -1,56 +1,57 @@
 #EXTM3U
 
 *** INFANTILES ***
+
 #EXTINF:-1, TOONCAST
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=108&p=3&k=srregio&f=.m3u8 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=108&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-id="1110" tvg-name="Fox Kids" tvg-logo="https://www.m3u.cl/logo/1110_Fox_Kids.png", Fox Kids 
 http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, DISCOVERY KIDS
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=109&p=3&k=srregio&f=.m3u8  
+ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=109&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, NICK
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=331&p=3&k=srregio&f=.m3u8  
+ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=331&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, DISNEY XD
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=111&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=111&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, CARTOON NETWORK
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=112&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=112&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, DISNEY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, BOOMERANG
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=115&p=3&k=srregio&f=.m3u8 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=115&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, BABY TV 
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=116&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=116&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, NICK JR
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=117&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=117&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, DISNEY JR
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=118&p=3&k=srregio&f=.m3u8 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=118&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, NICKTOONS SD 
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=1708&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1708&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, BABY FIRST
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=1984&p=3&k=srregio&f=.m3u8  
+ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1984&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, NICK 2  
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=2147&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2147&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, NAT GEO KIDS  
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=2373&p=3&k=srregio&f=.m3u8 
+ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2373&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, BIT ME  
-http://regioplay.xyz/php/SR_REGIO_513022_/tpa.php?c=2591&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2591&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", ENERGEEK
-https://regioplay.xyz/php/SR_REGIO_513022_/energeek.php?f=.m3u8
+#EXTINF:-1, ENERGEEK
+https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", ENERGEEK 2
 https://regioplay.xyz/php/SR_REGIO_513022_/energeek2.php?f=.m3u8
