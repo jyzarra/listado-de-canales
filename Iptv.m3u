@@ -203,6 +203,9 @@ https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1, JETIX TV
 http://jetixjahh20.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 
+
+*** CINE ***
+
 #EXTINF:-1, TELECLASICOS
 https://tvdatta.com:3574/stream/play.m3u8?PlaylistM3UCL
 
@@ -271,6 +274,36 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=138&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, FXM 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=332&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, MORBIDO
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=140&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, CINECANAL
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=149&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, CINEMAX 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=158&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, AMC  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=328&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, DE PELICULA 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=335&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, PARAMOUNT CHANNEL 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1726&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, AZ CINEMA 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1787&p=3&k=srregio&f=.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
