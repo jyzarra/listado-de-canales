@@ -168,7 +168,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60142258a
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Inspiranime
-https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w244602407.m3u8?PlaylistM3UCL
+https://videostreaming.cloudserverlatam.com:443/anime/anime/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, ROLANDINHO TV
 https://inliveserver.com:1936/rola99ndinho/rola99ndinho/chunklist_w89008837.m3u8?PlaylistM3UCL
@@ -218,18 +218,59 @@ http://k3.usastreams.com:1935/telesur/telesur/chunklist_w503102185.m3u8?Playlist
 #EXTINF:-1, Tokusato 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&PlaylistM3UCL
 
+#EXTINF:-1, EVA RETRO
+https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, PlanetaTV Movies
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, A3CINE 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=3112&p=3&k=srregio&f=.m3u8 
 
+#EXTINF:-1, TBS SD  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=81&p=3&k=srregio&f=.m3u8 
 
+#EXTINF:-1, DE PELICULA + 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=121&p=3&k=srregio&f=.m3u8  
 
+#EXTINF:-1, GOLDEN +
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=122&p=3&k=srregio&f=.m3u8  
 
+#EXTINF:-1, GOLDEN
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=123&p=3&k=srregio&f=.m3u8  
 
+#EXTINF:-1, GOLDEN EDGE
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=124&p=3&k=srregio&f=.m3u8 
 
+#EXTINF:-1, TNT 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=126&p=3&k=srregio&f=.m3u8  
 
+#EXTINF:-1, TCM
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=128&p=3&k=srregio&f=.m3u8  
 
+#EXTINF:-1, SPACE
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=129&p=3&k=srregio&f=.m3u8  
 
+#EXTINF:-1, AMC 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=131&p=3&k=srregio&f=.m3u8  
 
+#EXTINF:-1, STUDIO UNIVERSAL
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=132&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, I SAT  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=135&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, EUROPA CHANNEL 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=136&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, FILMS & ARTS
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=137&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, FXM
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=138&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, FXM 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=332&p=3&k=srregio&f=.m3u8
 
 
 
