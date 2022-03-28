@@ -230,7 +230,7 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, A3CINE 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=3112&p=3&k=srregio&f=.m3u8 
 
-#EXTINF:-1, TBS SD  
+#EXTINF:-1, TBS 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=81&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, DE PELICULA + 
@@ -272,8 +272,8 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=137&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, FXM
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=138&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1, FXM 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=332&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, STARZ CHANNER
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=201&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, MORBIDO
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=140&p=3&k=srregio&f=.m3u8
@@ -296,17 +296,35 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1726&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, AZ CINEMA 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1787&p=3&k=srregio&f=.m3u8
 
+#EXTINF:-1, TELEMUNDO INTERNACIONAL 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=85&p=3&k=srregio&f=.m3u8
 
+#EXTINF:-1, SONY  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=48&p=3&k=srregio&f=.m3u8
 
+#EXTINF:-1, WARNER 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=205&p=3&k=srregio&f=.m3u8  
 
+#EXTINF:-1, UNIVERSAL 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=207&p=3&k=srregio&f=.m3u8  
 
+#EXTINF:-1, FX 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=209&p=3&k=srregio&f=.m3u8
 
+#EXTINF:-1, TRUTV 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=215&p=3&k=srregio&f=.m3u8  
 
+#EXTINF:-1, HOLA TV 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=219&p=3&k=srregio&f=.m3u8 
 
+#EXTINF:-1, COMEDY CENTRAL
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=340&p=3&k=srregio&f=.m3u8
 
+#EXTINF:-1, UNICABLE
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1499&p=3&k=srregio&f=.m3u8  
 
-
-
+#EXTINF:-1, MAS CHIC
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1842&p=3&k=srregio&f=.m3u8  
 
 
 
