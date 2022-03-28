@@ -204,7 +204,7 @@ https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/
 http://jetixjahh20.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 
 
-*** CINE ***
+*** CINE y ENTRETENIMIENTO***
 
 #EXTINF:-1, TELECLASICOS
 https://tvdatta.com:3574/stream/play.m3u8?PlaylistM3UCL
@@ -229,6 +229,9 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, A3CINE 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=3112&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, A3SERIES
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2113&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, TBS 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=81&p=3&k=srregio&f=.m3u8 
@@ -325,6 +328,55 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1499&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, MAS CHIC
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1842&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, SUNDANCE TV
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=69&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, TNT SERIES
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=71&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, GLITZ
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=76&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, GOURMET 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=74&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, FOX LIFE
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=77&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, DISTRITO COMEDIA 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=78&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, TRUTV
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=79&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, TL NOVELAS 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=83&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, LIFETIME 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=94&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, ANTENA 3
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=199&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, UNICABLE
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1499&p=3&k=srregio&f=.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
