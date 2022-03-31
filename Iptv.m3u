@@ -203,8 +203,17 @@ https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1, JETIX TV
 http://jetixjahh20.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, Anime Zone TV
+http://tvpremiumhd.club/lista-gratuita/182017/on/live.php?id=azxtv.com/hls/stream.m3u8
+
+
 
 *** CINE y ENTRETENIMIENTO***
+
+
+
+#EXTINF:-1, EXTREMATV
+http://tvpremiumhd.club/lista-gratuita/182017/on/live.php?id=livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1, TELECLASICOS
 https://tvdatta.com:3574/stream/play.m3u8?PlaylistM3UCL
