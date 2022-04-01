@@ -18,7 +18,7 @@ http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=111&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, CARTOON NETWORK
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=112&p=3&k=srregio&f=.m3u8
+https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1, DISNEY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8
