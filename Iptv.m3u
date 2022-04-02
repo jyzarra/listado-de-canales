@@ -3,16 +3,16 @@
 *** INFANTILES ***
 
 #EXTINF:-1, TOONCAST
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=108&p=3&k=srregio&f=.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 #EXTINF:-1 tvg-id="1110" tvg-name="Fox Kids" tvg-logo="https://www.m3u.cl/logo/1110_Fox_Kids.png", Fox Kids 
 http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, DISCOVERY KIDS
- http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=109&p=3&k=srregio&f=.m3u8
+ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
 #EXTINF:-1, NICK
- http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=331&p=3&k=srregio&f=.m3u8
+ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
 
 #EXTINF:-1, DISNEY XD
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=111&p=3&k=srregio&f=.m3u8
@@ -21,7 +21,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=111&p=3&k=srregio&f=.m3u8
 https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1, DISNEY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 
 #EXTINF:-1, BOOMERANG
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
@@ -30,10 +30,10 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=116&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, NICK JR
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=117&p=3&k=srregio&f=.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
 
 #EXTINF:-1, DISNEY JR
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=118&p=3&k=srregio&f=.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
 
 #EXTINF:-1, NICKTOONS 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1708&p=3&k=srregio&f=.m3u8
@@ -224,6 +224,27 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?WebM3UCL&Playl
 #EXTINF:-1, HBO
 https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, HBO2 
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+#EXTINF:-1, HBO PLUS
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+
+#EXTINF:-1, HBO MUNDI
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+
+#EXTINF:-1, HBO POP
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+
+#EXTINF:-1, HBO XTREME
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+
+#EXTINF:-1, HBO Family
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+
+#EXTINF:-1, HBO signature
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
+
 #EXTINF:-1, Telesur el Canal de los Chicos
 http://k3.usastreams.com:1935/telesur/telesur/chunklist_w503102185.m3u8?PlaylistM3UCL
 
@@ -294,7 +315,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=140&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=149&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, CINEMAX 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=158&p=3&k=srregio&f=.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
 #EXTINF:-1, AMC  
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=328&p=3&k=srregio&f=.m3u8  
