@@ -15,7 +15,7 @@ http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
  https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
 
 #EXTINF:-1, DISNEY XD
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=111&p=3&k=srregio&f=.m3u8
+https://edge4-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 
 #EXTINF:-1, CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
@@ -27,7 +27,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/Disn
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
 
 #EXTINF:-1, BABY TV 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=116&p=3&k=srregio&f=.m3u8
+https://edge4-sl.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
 
 #EXTINF:-1, NICK JR
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
@@ -58,6 +58,9 @@ https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, LATINO KIDS
 https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w191003441.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, DRAGON BALL Z SUPER
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/191_.m3u8?token=7SCg3A4aovI8gwDHuK5RkQ&expires=1648903865&ip=190.124.29.46
 
 #EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png", CSTV 
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
