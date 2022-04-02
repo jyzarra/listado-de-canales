@@ -263,6 +263,9 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=3112&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, A3SERIES
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2113&p=3&k=srregio&f=.m3u8
 
+#EXTINF:-1, A&E
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
+
 #EXTINF:-1, TBS 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=81&p=3&k=srregio&f=.m3u8 
 
@@ -279,13 +282,16 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=123&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=124&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, TNT 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=126&p=3&k=srregio&f=.m3u8  
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+
+#EXTINF:-1, TNT SERIES
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 
 #EXTINF:-1, TCM
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=128&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, SPACE
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=129&p=3&k=srregio&f=.m3u8  
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
 #EXTINF:-1, AMC 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=131&p=3&k=srregio&f=.m3u8  
@@ -306,7 +312,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=137&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=138&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, STARZ CHANNER
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=201&p=3&k=srregio&f=.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
 #EXTINF:-1, MORBIDO
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=140&p=3&k=srregio&f=.m3u8
@@ -342,7 +348,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=205&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=207&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, FX 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=209&p=3&k=srregio&f=.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 
 #EXTINF:-1, TRUTV 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=215&p=3&k=srregio&f=.m3u8  
@@ -361,9 +367,6 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1842&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, SUNDANCE TV
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=69&p=3&k=srregio&f=.m3u8 
-
-#EXTINF:-1, TNT SERIES
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=71&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, GLITZ
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=76&p=3&k=srregio&f=.m3u8 
