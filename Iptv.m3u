@@ -11,14 +11,11 @@ http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, DISCOVERY KIDS
  https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
-
-
-
 #EXTINF:-1, NICK
- https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+ https://h4.ustvgo.la/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjIgMTE6MDc6NDMgQU0maGFzaF92YWx1ZT1IbmJkRis1QUpsMUlKbDgwWXRVdW93PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1, DISNEY XD
-https://edge4-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+https://h4.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjIgMTA6NDQ6MzUgQU0maGFzaF92YWx1ZT1Dclg5T0EzckJVeXRiQk5vSXhNb1lRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1, CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
