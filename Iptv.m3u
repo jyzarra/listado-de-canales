@@ -3,7 +3,7 @@
 *** INFANTILES ***
 
 #EXTINF:-1, TOONCAST
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 #EXTINF:-1 tvg-id="1110" tvg-name="Fox Kids" tvg-logo="https://www.m3u.cl/logo/1110_Fox_Kids.png", Fox Kids 
 http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
@@ -12,7 +12,7 @@ http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
 #EXTINF:-1, NICK
-https://h4.ustvgo.la/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjIgMTE6MDc6NDMgQU0maGFzaF92YWx1ZT1IbmJkRis1QUpsMUlKbDgwWXRVdW93PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://edge2-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:-1, DISNEY XD
 https://h4.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjIgMTA6NDQ6MzUgQU0maGFzaF92YWx1ZT1Dclg5T0EzckJVeXRiQk5vSXhNb1lRPT0mdmFsaWRtaW51dGVzPTI0MA==
