@@ -6,7 +6,7 @@
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 #EXTINF:-1 tvg-id="1110" tvg-name="Fox Kids" tvg-logo="https://www.m3u.cl/logo/1110_Fox_Kids.png", Fox Kids 
-http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
+http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, DISCOVERY KIDS
 https://edge4-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
@@ -119,6 +119,12 @@ https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8?PlaylistM3UCL
 #EXTINF:-1, MI TV CLASICA
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, RLOTV
+https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, DREIKO TV
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1, CROSSING TV
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL&PlaylistM3UCL
 
@@ -204,25 +210,50 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=
 https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel%3D665%26ads.wurl_name%3DWildBrainPresentsCaillou%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D&PlaylistM3UCL
 
 #EXTINF:-1, JETIX TV
-http://jetixjahh20.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
+http://jetixjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Anime Zone TV
-http://tvpremiumhd.club/lista-gratuita/182017/on/live.php?id=azxtv.com/hls/stream.m3u8
-
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 
 
 *** CINE y ENTRETENIMIENTO***
 
 
+#EXTINF:-1, ORBI TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, MEGA CINE TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, EXTREMATV
-http://tvpremiumhd.club/lista-gratuita/182017/on/live.php?id=livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TELEMAX
+http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+
+#EXTINF:1, ViWis tv
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 
 #EXTINF:-1, TELECLASICOS
 https://tvdatta.com:3574/stream/play.m3u8?PlaylistM3UCL
 
+#EXTINF:-1. RETROPLUS TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1484383379.m3u8?PlaylistM3UCL
+
 #EXTINF:-1, TELE PLUS
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?WebM3UCL&PlaylistM3UCL
+
+#EXTINF:-1, GEN TV 
+https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL&PlaylistM3UCL
+
+#EXTINF:-1, UCV tv
+http://unlimited1-cl-vtr.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, chilevision
+https://marine2.miplay.cl/chilevision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, HBO
 https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8?PlaylistM3UCL
@@ -395,7 +426,11 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=94&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, ANTENA 3
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=199&p=3&k=srregio&f=.m3u8 
 
+#EXTINF:-1, PANAMERICANA TV
+https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, MEGA 
+https://marine2.miplay.cl/mega/playlist.m3u8?PlaylistM3UCL
 
 *** CULTURALES ***
 
