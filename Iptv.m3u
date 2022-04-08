@@ -6,7 +6,7 @@
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 #EXTINF:-1, BOING
-https://live.mitele.es/hls/live/2005334/boing/master.m3u8?hdnts=st=1649404363~exp=1649404453~acl=/*~hmac=a68160ede16ecf43567b0f7d46a4f29f77e82bb8fe5715639a924880824819b4
+https://live.mitele.es:443/hls/live/2005334/boing/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="1110" tvg-name="Fox Kids" tvg-logo="https://www.m3u.cl/logo/1110_Fox_Kids.png", Fox Kids 
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
