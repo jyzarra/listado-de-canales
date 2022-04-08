@@ -3,12 +3,10 @@
 *** INFANTILES ***
 
 #EXTINF:-1, TOONCAST
-https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+https://vsd83.mycdn.me/hls/2327585884715.m3u8/sig/IDhn4bqSzs4/expires/1649492801644/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/4040169102891/video.m3u8?p
 
 #EXTINF:-1, BOING
 https://live.mitele.es/hls/live/2005334/boing/master-archive.m3u8?startTime=1&?hdnts=st=1649405209~exp=1649405299~acl=/*~hmac=8d1abee68b81443f1632363fd656744e3fb4a615208dd5a2b8e080f2aa1987d3
-
-
 
 #EXTINF:-1 tvg-id="1110" tvg-name="Fox Kids" tvg-logo="https://www.m3u.cl/logo/1110_Fox_Kids.png", Fox Kids 
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
@@ -17,7 +15,7 @@ http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 https://edge4-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
 #EXTINF:-1, NICK
-https://edge2-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon-mp4a_144800_spa=20000.m3u8
+https://usher.ttvnw.net/api/channel/hls/teen5303.m3u8?allow_source=true&fast_bread=true&p=9143408&play_session_id=bfb7a2d247132698b4a7c9e6e4b53d62&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=47cc58084fa2f0084c076c484cdb40067e7ceba9&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22teen5303%22%2C%22channel_id%22%3A781897013%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22d56650a2ab7b81ba%22%2C%22expires%22%3A1649408166%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.124.29.46%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.9.0
 
 #EXTINF:-1, DISNEY XD
 https://h4.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjIgMTA6NDQ6MzUgQU0maGFzaF92YWx1ZT1Dclg5T0EzckJVeXRiQk5vSXhNb1lRPT0mdmFsaWRtaW51dGVzPTI0MA==
@@ -40,20 +38,20 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
 #EXTINF:-1, DISNEY JR
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
 
-#EXTINF:-1, NICKTOONS 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1708&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, TEENNICK 
+http://23.148.145.49:9001/televall2022/732_.m3u8?token=AdXFw3ENKFdFP0yS6IMqBw&expires=1649419840
 
 #EXTINF:-1, BABY FIRST
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1984&p=3&k=srregio&f=.m3u8
+https://edge4-sl.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
 
-#EXTINF:-1, NICK 2  
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2147&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, 
+
 
 #EXTINF:-1, NAT GEO KIDS  
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2373&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, BIT ME  
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2591&p=3&k=srregio&f=.m3u8
+http://23.148.145.49:9001/televall2022/207_.m3u8?token=azcJbI3PY1OrlNGT7Cobeg&expires=1649419661
 
 #EXTINF:-1, ENERGEEK
 https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?PlaylistM3UCL
@@ -65,7 +63,7 @@ https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
 https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w191003441.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, DRAGON BALL Z SUPER
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/191_.m3u8?token=7SCg3A4aovI8gwDHuK5RkQ&expires=1648903865&ip=190.124.29.46
+https://vsd82.mycdn.me/hls/2272922503751.m3u8/sig/ki_IYQDUDSE/expires/1649493117320/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/5348300365383/video.m3u8?p
 
 #EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png", CSTV 
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
@@ -83,7 +81,7 @@ https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?Play
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg", Paka Paka 
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+https://edge4-sl.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
 
 #EXTINF:-1 tvg-id="988" tvg-name="Vintage TV" tvg-logo="https://www.m3u.cl/logo/988_Vintage_TV.png", Vintage TV 
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8?PlaylistM3UCL
@@ -242,10 +240,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?Playl
 #EXTINF:-1, ViWis tv
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 
-
 #EXTINF:-1, TC
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl47iWBmnN5tkOEpc63F1VsI)/dm/3/x7wijay/s/live-3
-
 
 #EXTINF:-1, TELECLASICOS
 https://tvdatta.com:3574/stream/play.m3u8?PlaylistM3UCL
@@ -306,6 +302,9 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=3112&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, A3SERIES
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2113&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, CINE LATINO
+http://23.148.145.49:9001/televall2022/535_.m3u8?token=dBpCVcNOTmgkn0CbTGtC3w&expires=1649421084
 
 #EXTINF:-1, A&E
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
