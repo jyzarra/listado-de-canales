@@ -15,7 +15,7 @@ http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 https://edge4-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
 #EXTINF:-1, NICK
-https://usher.ttvnw.net/api/channel/hls/teen5303.m3u8
+https://usher.ttvnw.net/api/channel/hls/teen5303.m3u8?
 
 #EXTINF:-1, DISNEY XD
 https://h4.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjIgMTA6NDQ6MzUgQU0maGFzaF92YWx1ZT1Dclg5T0EzckJVeXRiQk5vSXhNb1lRPT0mdmFsaWRtaW51dGVzPTI0MA==
