@@ -228,8 +228,11 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, MEGA CINE TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, EXTREMATV
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png", Extrema TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png", Teleuno
+https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1, TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
@@ -727,6 +730,11 @@ https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8?PlaylistM3UCL
 
 
 
+#EXTINF:-1 tvg-logo= "https://es.wikipedia.org/wiki/TC_Televisi%C3%B3n#/media/Archivo:Tc_logo.png"  TC  
+https://5c21f7ec1999d.streamlock.net/8054/8054/chunklist_w1625333686.m3u8
+
+#EXTINF:-1 tvg-logo=  "https://es.wikipedia.org/wiki/Archivo:Teleamazonas_Logo.png"
+https://playback.akamaized.net/streams/1359588_4428723_lsiwrfawqfx1anaob6k_1/media/1359588_4428723_lsiwrfawqfx1anaob6k_1@628000p.m3u8?
 
 
 
