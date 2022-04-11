@@ -3,7 +3,7 @@
 *** INFANTILES ***
 
 #EXTINF:-1, TOONCAST
-https://vsd64.mycdn.me/hls/2327585884715.m3u8/sig/bR9SeHOiols/expires/1649610819102/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/4040169102891/video.m3u8?p
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 #EXTINF:-1, BOING
 https://live.mitele.es/hls/live/2005334/boing/master-archive.m3u8?startTime=1&?hdnts=st=1649405209~exp=1649405299~acl=/*~hmac=8d1abee68b81443f1632363fd656744e3fb4a615208dd5a2b8e080f2aa1987d3
@@ -15,11 +15,17 @@ http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 https://edge4-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
 #EXTINF:-1, NICK
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuYEjUQP4hT00aX4ygXSHTH3ZoAvavir-d6Lie8jV3OxfbLTyJHQtPjXBLonRQaDrvOz_FKlzPHQ7UXblo945AYD2ktpt9nkxpfB-oBYDD_XwExY6Ze70YwK6FJ8l8fUWVsFlZ6SX9h7oRzp_1xKXVKaGWXZgD6S8LvM122mDUHxg-LWd6QZeX9_DkwaEAOC2g1vOSRXAWbJOl11_pp5mgM8iNUYA3_AI9PN_7ygq9s_gVYp3mw148qFx5UmOke3d_Fb5YfZUJ9s9YUtUHYAKdcOQzBBvn7sGpld3yBUK-gUDxEnspsI_f0iNEVBVIeVxjMCS_OYHrgccu9yXmFsJjfnV-hZPQWMzmDVe3yYufafskU-DVIS040JoRX1MRuALRuqL3QP-_JWB7TrpqcicQErp7JSH4k-HbAoGGQfFoCz_3x0ravnrp8V5BRPhh_XBRlpEixbAOhMyRrDZmS_DGfbZ0lB-WJiD0OiKXCEMomsNLZ2MSHARa6xskdT-3uotBrsWSCCccLs0spA67-YJR36IAJB55EQMfpnw7HDOXg-UTynxHn1NwpH35uUjBb6TWXBk8MTakw_0YkPiKc7tRRY7_fHgHma5Btq07c915N6dv1a1WFu0M-vYNuGiRLivQTORQYIKOEffZDlxI6VmzcloVdhRtRzyj-47mqGL5D8skUud_b9yGoXDjef6ZGbwKKco91hiYhrmDituAcYKno8rgfzRbROKd5OKBJ7B8U9e1Ujen3npNBySyUsAnwr8gZSM3b0dRv7Nwi2Fu8eg-AR4VcHMU8e6Ixew9R9xF9lFzbXF9r7x3kaDJOp5XCbgKrh1mcJQSABKglldS13ZXN0LTIwuAM.m3u8
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+
+#EXTINF:-1, TOONCAST
+https://edge5-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 
+#EXTINF:-1,  NICK
+https://edge3.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u8
 
-
+#EXTINF:-1, NICK
+https://edge3.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u8
 
 #EXTINF:-1, DISNEY XD
 https://h4.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjIgMTA6NDQ6MzUgQU0maGFzaF92YWx1ZT1Dclg5T0EzckJVeXRiQk5vSXhNb1lRPT0mdmFsaWRtaW51dGVzPTI0MA==
