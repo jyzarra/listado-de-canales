@@ -6,7 +6,7 @@
 https://edge-live14-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc1_1532000=10004.m3u8
 
 #EXTINF:-1, BOING
-https://live.mitele.es/hls/live/2005334/boing/master.m3u8
+https://live.mitele.es:443/hls/live/2005334/boing/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="1110" tvg-name="Fox Kids" tvg-logo="https://www.m3u.cl/logo/1110_Fox_Kids.png", Fox Kids 
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
