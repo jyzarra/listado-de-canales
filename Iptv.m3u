@@ -2,8 +2,674 @@
 
 *** INFANTILES ***
 
+
+*** INFANTILES ***
+
 #EXTINF:-1, TOONCAST
-https://vsd127.mycdn.me:443/hls/2425259625003.m3u8/sig/JnkmpVCC8X0/expires/1649878717787/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/4123303681579/2425259625003_high/index.m3u8
+https://vsd101.mycdn.me/hls/2425259625003.m3u8/sig/CWefvEr9Bwo/expires/1649902671330/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/4123303681579/video.m3u8?p
+
+#EXTINF:-1, BOING
+https://live.mitele.es:443/hls/live/2005334/boing/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="1110" tvg-name="Fox Kids" tvg-logo="https://www.m3u.cl/logo/1110_Fox_Kids.png", Fox Kids 
+http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, DISCOVERY KIDS
+https://edge4-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+
+#EXTINF:-1, NICK
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+
+#EXTINF:-1, 
+
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1,
+
+
+#EXTINF:-1, DISNEY XD
+https://h4.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjIgMTA6NDQ6MzUgQU0maGFzaF92YWx1ZT1Dclg5T0EzckJVeXRiQk5vSXhNb1lRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1, CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1, DISNEY CHANNEL
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+#EXTINF:-1, CARTOONITO
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
+
+#EXTINF:-1, BABY TV 
+https://edge4-sl.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
+
+#EXTINF:-1, NICK JR
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
+
+#EXTINF:-1, DISNEY JR
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
+
+#EXTINF:-1, TEENNICK 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion | AR
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, NAT GEO KIDS  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2373&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1,   
+
+#EXTINF:-1 tvg-id="" tvg-name="BitMe" tvg-logo="" group-title="INFANTILES MRZUTV.NET",BitMe
+http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3035
+
+#EXTINF:-1, ENERGEEK
+https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, ENERGEEK 2
+https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, LATINO KIDS
+https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w191003441.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, DRAGON BALL Z SUPER
+https://vsd82.mycdn.me/hls/2272922503751.m3u8/sig/ki_IYQDUDSE/expires/1649493117320/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/5348300365383/video.m3u8?p
+
+#EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png", CSTV 
+https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png", Chavo TV 
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1015" tvg-name="PlanetaTV Kids" tvg-logo="https://www.m3u.cl/logo/1015_PlanetaTV_Kids.png", PlanetaTV Kids 
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1035" tvg-name="Kids90" tvg-logo="https://www.m3u.cl/logo/1035_Kids90.png", Kids90 
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="48" tvg-name="Cloud Server Kids" tvg-logo="https://www.m3u.cl/logo/48_Cloud_Server_Kids.png", Cloud Server Kids 
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg", Paka Paka 
+https://edge4-sl.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
+
+#EXTINF:-1 tvg-id="988" tvg-name="Vintage TV" tvg-logo="https://www.m3u.cl/logo/988_Vintage_TV.png", Vintage TV 
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1071" tvg-name="APlus TV" tvg-logo="https://www.m3u.cl/logo/1071_APlus_TV.png", APlus TV 
+https://stmv1.voxtvhd.com.br/aplustv/aplustv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg", Pequeradio TV 
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1080" tvg-name="Super 3" tvg-logo="https://www.m3u.cl/logo/1080_Super_3.png", Super 3 
+https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="628" tvg-name="Xabarin TV" tvg-logo="https://www.m3u.cl/logo/628_Xabarin_TV.png", Xabarin TV 
+http://infantil-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id=629' tvg-name="Dos Kids" tvg-logo="https://www.shutterstock.com/es/image-vector/kids-channel-logo-icon-design-template-1070489084.png", Dos Kids TV
+http://138.36.253.12:8009/play/a003/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, BABY SHARK TV
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, LOS SIMPSONS
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, EL REINO INFANTIL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51f247aa-de6a-4551-a331-ffa4c5dc6b64&userId=&serverSideAds=true&PlaylistM3UCL
+
+#EXTINF:-1, PLANETA junior
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8?PlaylistM3UC
+
+#EXTINF:-1, KIDSFLIX
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop&PlaylistM3UCL
+
+#EXTINF:-1, CARTOON FUN TIME
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, MI TV CLASICA
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, RLOTV
+https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, DREIKO TV
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, CROSSING TV
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL&PlaylistM3UCL
+
+#EXTINF:-1, TOONS CLASICO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&PlaylistM3UCL
+
+#EXTINF:-1,PLUTO TV NICK
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&PlaylistM3UCL
+
+#EXTINF:-1, PLUTO TV  NICK Jr
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=998&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&PlaylistM3UCL
+
+#EXTINF:-1, PLUTO TV NICK CLASICO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&PlaylistM3UCL
+
+#EXTINF:-1, PLUTO TV Junior
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=&PlaylistM3UCL
+
+#EXTINF:-1, PLUTO TV Bob Esponja
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING&PlaylistM3UCL
+
+#EXTINF:-1, PLUTO TV KIDS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=910&deviceId=5f1aab1d29b39600073e243f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&PlaylistM3UCL
+
+#EXTINF:-1, PLUTO TV ANIMAKIDS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=905&deviceId=5f1aabee6f4a2c00076a322c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&PlaylistM3UCL
+
+#EXTINF:-1, PLUTO TV ANIME
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING&PlaylistM3UCL
+
+#EXTINF:-1, PLUTO TV ANIME CLASICO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING&PlaylistM3UCL
+
+#EXTINF:-1, PLUTO TV One Piece
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING&PlaylistM3UCL
+
+#EXTINF:-1, CHICOS IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TOON GOOGLE
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514&PlaylistM3UCL
+
+#EXTINF:-1, RETRO CARTOONS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&PlaylistM3UCL
+
+#EXTINF:-1, Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Inspiranime
+https://videostreaming.cloudserverlatam.com:443/anime/anime/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, ROLANDINHO TV
+https://inliveserver.com:1936/rola99ndinho/rola99ndinho/chunklist_w89008837.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, OK TeVe
+https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/chunklist_w2091399943.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, RAKUTEN TV FAMILIA
+http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, ACS NETWORK TV
+https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+
+#EXTINF:-1, GARFIELD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&PlaylistM3UCL
+
+#EXTINF:-1, MAGIC KIDS TV
+https://v.poastcdn.org/streaming-playlists/hls/4d4a1bdd-3c34-4d2f-8afb-635cb1ac333d/0.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Animax
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, KURIAKOS KIDS 
+http://c2.manasat.com:1935/kkids/kkids2/playlist-480p.m3u8?WebM3UCL&PlaylistM3UCL
+
+#EXTINF:-1, ANGRY BIRDS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D&PlaylistM3UCL
+
+#EXTINF:-1, CALLOU
+https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel%3D665%26ads.wurl_name%3DWildBrainPresentsCaillou%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D&PlaylistM3UCL
+
+#EXTINF:-1, JETIX TV
+http://jetixjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Anime Zone TV
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+
+*** CINE y ENTRETENIMIENTO***
+
+
+#EXTINF:-1, ORBI TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, MEGA CINE TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png", Extrema TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png", Teleuno
+https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-1, TELEMAX
+http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+
+#EXTINF:-1, ViWis tv
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+
+#EXTINF:-1, TC
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl47iWBmnN5tkOEpc63F1VsI)/dm/3/x7wijay/s/live-3
+
+#EXTINF:-1, TELECLASICOS
+https://tvdatta.com:3574/stream/play.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, RETROPLUS TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1484383379.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, TELE PLUS
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?WebM3UCL&PlaylistM3UCL
+
+#EXTINF:-1, GEN TV 
+https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL&PlaylistM3UCL
+
+#EXTINF:-1, UCV tv
+http://unlimited1-cl-vtr.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, chilevision
+https://marine2.miplay.cl/chilevision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, HBO
+https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, HBO2 
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+#EXTINF:-1, HBO PLUS
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+
+#EXTINF:-1, HBO MUNDI
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+
+#EXTINF:-1, HBO POP
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+
+#EXTINF:-1, HBO XTREME
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+
+#EXTINF:-1, HBO Family
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+
+#EXTINF:-1, HBO signature
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
+
+#EXTINF:-1, Telesur el Canal de los Chicos
+http://k3.usastreams.com:1935/telesur/telesur/chunklist_w503102185.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Tokusato 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&PlaylistM3UCL
+
+#EXTINF:-1, EVA RETRO
+https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, PlanetaTV Movies
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, A3CINE 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=3112&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, A3SERIES
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2113&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, CINE LATINO
+http://23.148.145.49:9001/televall2022/535_.m3u8?token=dBpCVcNOTmgkn0CbTGtC3w&expires=1649421084
+
+#EXTINF:-1, A&E
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
+
+#EXTINF:-1, TBS 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=81&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, DE PELICULA + 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=121&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, GOLDEN +
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=122&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, GOLDEN
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=123&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, GOLDEN EDGE
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=124&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, TNT 
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+
+#EXTINF:-1, TNT SERIES
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+
+#EXTINF:-1, TCM
+https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
+
+#EXTINF:-1, SPACE
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+
+#EXTINF:-1, AMC 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=131&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, STUDIO UNIVERSAL
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=132&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, I SAT  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=135&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, EUROPA CHANNEL 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=136&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, FILMS & ARTS
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=137&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, FXM
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=138&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, STARZ CHANNER
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1, MORBIDO
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=140&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, CINECANAL
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+
+#EXTINF:-1, CINEMAX 
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+
+#EXTINF:-1, AMC  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=328&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, DE PELICULA 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=335&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, PARAMOUNT CHANNEL 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1726&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, AZ CINEMA 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1787&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, TELEMUNDO INTERNACIONAL 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=85&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, SONY  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=48&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, WARNER 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=205&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, UNIVERSAL 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=207&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, FX 
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+
+#EXTINF:-1, TRUTV 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=215&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, HOLA TV 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=219&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, COMEDY CENTRAL
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=340&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, UNICABLE
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1499&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, MAS CHIC
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1842&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, SUNDANCE TV
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=69&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, GLITZ
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=76&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, GOURMET 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=74&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, FOX LIFE
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=77&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, DISTRITO COMEDIA 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=78&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, TRUTV
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=79&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, TL NOVELAS 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=83&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, LIFETIME 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=94&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, ANTENA 3
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=199&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png", Estrella TV
+https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d0743d852c7c3b8f6f5996ac0780fefc.png", Nitida TV
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png", Estrella TV
+https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1, MEGA 
+https://marine2.miplay.cl/mega/playlist.m3u8?PlaylistM3UCL
+
+*** CULTURALES ***
+
+#EXTINF:-1, DISCOVERY ID
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2376&p=3&k=srregio&f=.m3u8  
+ 
+ #EXTINF:-1, GARAGE TV 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=75&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, DISCOVERY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=86&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, ANIMAL PLANET
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2378&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, HISTORY
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=89&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, NAT GEO  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=91&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, NAT GEO WILD
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=92&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, DISCOVERY THEATER
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=95&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, H&H
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=96&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, TLC
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=97&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, DISCOVERY SCIENCE  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=98&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, DISCOVERY CIVILIZATION
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=99&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, DISCOVERY WORLD
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=101&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, TVE
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=198&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, SHOPPING
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1943&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, FOOD NETWORK 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2145&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, STAR TVE 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2375&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, DISCOVERY TURBO
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2379&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, CURIOSITY STREAM
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2594&p=3&k=srregio&f=.m3u8  
+
+
+*** MUSICA ***
+
+#EXTINF:-1, MTV LIVE
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=211&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, MTV
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=212&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, MTV HITS 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=213&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, VH1 CLASSIC 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=214&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, TELEHIT URBANO 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=218&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, TELEHIT +
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=220&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, BANDAMAX 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=221&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, AZ CLIC
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=223&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, VH1 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=334&p=3&k=srregio&f=.m3u8 
+
+
+*** NOTICIAS ***
+
+#EXTINF:-1, FOROTV 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=4&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, ADN 40 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=184&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, CNN Español 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=187&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, NTN 24
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=194&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, JUSTICIA TV 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=196&p=3&k=srregio&f=.m3u8 
+
+ #EXTINF:-1, DW 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=203&p=3&k=srregio&f=.m3u8  
+
+ #EXTINF:-1, MILENIO 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1250&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, EXCELSIOR TV
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1449&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, EL FINANCIERO 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1649&p=3&k=srregio&f=.m3u8  
+ 
+#EXTINF:-1, RT ESPAÑOL
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2091&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, FRANCE 24
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2402&p=3&k=srregio&f=.m3u8
+
+
+*** DEPORTES ***
+
+
+#EXTINF:-1, ESPN + 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=167&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, ESPN 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=168&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, ESPN 2
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=169&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, FOX SPORTS
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=170&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, FOX SPORTS 2
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=172&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, FOX SPORTS 3 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=178&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, GOLF
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=179&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, AYM SPORTS
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=180&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, ESPN 3 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=345&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, TUDN
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1049&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, ADRENALINA SPORTS 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1799&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, LAS
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2089&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, HAVOC
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2148&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, TVC DEPORTES
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2157&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, CLARO SPORTS  
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, FUEL TV 
+http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2587&p=3&k=srregio&f=.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1, BOING
 https://live.mitele.es:443/hls/live/2005334/boing/bitrate_4.m3u8
