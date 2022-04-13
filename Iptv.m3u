@@ -61,7 +61,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, NAT GEO KIDS  
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2373&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1,   
+#EXTINF:-1, 3ABN KIDS 
+https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/HQs/chunklist.m3u8
 
 #EXTINF:-1, BiTME
 
@@ -76,7 +77,7 @@ https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
 https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w191003441.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, DRAGON BALL Z SUPER
-https://vsd82.mycdn.me/hls/2272922503751.m3u8/sig/ki_IYQDUDSE/expires/1649493117320/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/5348300365383/video.m3u8?p
+https://vsd137.mycdn.me/hls/2315293952583.m3u8/sig/0XnPvge0wik/expires/1649921748042/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/5385441189447/video.m3u8?p
 
 #EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png", CSTV 
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
@@ -99,8 +100,8 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
 #EXTINF:-1 tvg-id="988" tvg-name="Vintage TV" tvg-logo="https://www.m3u.cl/logo/988_Vintage_TV.png", Vintage TV 
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1071" tvg-name="APlus TV" tvg-logo="https://www.m3u.cl/logo/1071_APlus_TV.png", APlus TV 
-https://stmv1.voxtvhd.com.br/aplustv/aplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, APlus TV 
+https://stmv1.voxtvhd.com.br/aplustv/aplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg", Pequeradio TV 
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
@@ -132,7 +133,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_b
 #EXTINF:-1, CARTOON FUN TIME
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png", Mi TV Televisión Clásica
+#EXTINF:-1, Mi TV Clásica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
 #EXTINF:-1, RLOTV
@@ -190,7 +191,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514&PlaylistM3U
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&PlaylistM3UCL
 
 #EXTINF:-1, Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?PlaylistM3UCL
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1, Inspiranime
 https://videostreaming.cloudserverlatam.com:443/anime/anime/playlist.m3u8?PlaylistM3UCL
@@ -241,7 +242,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, MEGA CINE TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png", Extrema TV
+#EXTINF:-1, Extrema TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png", Teleuno
@@ -253,8 +254,8 @@ https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
-#EXTINF:-1, 
-
+#EXTINF:-1, TELEVEN
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
@@ -446,7 +447,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=69&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=76&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, GOURMET 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=74&p=3&k=srregio&f=.m3u8
+https://vsd121.mycdn.me/hls/2391762143955.m3u8/sig/2rPm0GyDcPU/expires/1649922699284/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3806860353235/video.m3u8?p
 
 #EXTINF:-1, FOX LIFE
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=77&p=3&k=srregio&f=.m3u8  
@@ -460,20 +461,20 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=79&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, TL NOVELAS 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=83&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1, LIFETIME 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=94&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, 
+
 
 #EXTINF:-1, ANTENA 3
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=199&p=3&k=srregio&f=.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png", Estrella TV
+#EXTINF:-1, tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png", Estrella TV
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d0743d852c7c3b8f6f5996ac0780fefc.png", Nitida TV
+#EXTINF:-1, tvg-logo="https://i2.paste.pics/d0743d852c7c3b8f6f5996ac0780fefc.png", Nitida TV
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png", Estrella TV
-https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
+#EXTINF:-1, E! ENTERTAIMENT TV
+https://vsd130.mycdn.me/hls/2451913247443.m3u8/sig/pI2Fz899kqA/expires/1649922779245/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3858319089363/video.m3u8?p
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana
 https://cdnh71.iblups.com/hls/ptv2.m3u8
@@ -484,7 +485,7 @@ https://marine2.miplay.cl/mega/playlist.m3u8?PlaylistM3UCL
 *** CULTURALES ***
 
 #EXTINF:-1, DISCOVERY ID
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2376&p=3&k=srregio&f=.m3u8  
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CucETuooPyGlEFlAkgBlc1rGgBnnsXIjvEEqd5nOc332P0ediomJuLo0xWtrcPeikK431b54Mbqc-v5CWZi8DQei79UYWiL57mUemwLBxGK3apkV0K2MEIti9-vS0Ky3w305QcmQH2rj_-KCYC5DfbME0fQj2Vw9H4Sap5KaYcf4TqS2OxhfMPTFCx_3bDvGBSSU1Hid1zCjVHLMsVmqRuDrqImUFx0Sj6AaYlqh8Mge-dTYmzluhhayGOHpCx8KzcV7duASWVgDatmMyiV0mvdtnQ4H421PPRq9ISZ0EP5OS66KkHrn4cg7SvJpHXkw7n7kZ8NRUFQrSZr7CYsIXcYU1Q4YHSzmLvqZ1-R6ixKsH-_ulW6_AjBZ2nCkr9Hl_t7sQUSRwWQvWr3huqby9QHzO7zYh3AJCQ-rsNJ7AkZBH_9cVUjwWHB8sTQdyC8lM-oIs63D3J-VsEUv-kRuGsVV_Put7N8iX7o50v9KwtNSaX4FOTfE0rhnPYzdBbdE-4fTTWyO4LHYLzu6BRIqnqfIy86SwnmevRuNGGjd-46GsZ7TC7DX_zhMitOxCKGuQRK-0M2NG3V3vKfZgYW2R32qdN2Pvm5JB-QfcLnCjQ2lol7uO9aTctdb7Jzvv00DRl-AuVYT1fADEeh9JeRz1ylsSKx-qLZ8pIPrf1yc05HdGw2PO0GRlR_4O1Bsn7aqIbq3MKuIwDIHO56pc5xGqhsk_MxXEY60_bu_ZMW3C82tpel7n3lY2Gsd4PTuk8ux58aMbFLkJHcMgQm3cPXZn9IVzkm1X0xSQMfyimEAbQtmWbtc6IRLhlEuGgzfHiE588uaARUnLkUgASoJZXUtd2VzdC0yMLwD.m3u8
  
 #EXTINF:-1, GARAGE TV 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=75&p=3&k=srregio&f=.m3u8  
@@ -498,6 +499,9 @@ https://vsd119.mycdn.me/hls/2448977955539.m3u8/sig/tjv1YuhXo9w/expires/164992075
 #EXTINF:-1, HISTORY
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CucEjE5hreIjvgr0Yq3xGolp0jWj41Qi4LIL92IwjSVMvbbMlzLhqYNZKB3NXf2IqxRPU5fpuWCv4iE-lr051fS-lgqNBIFFfI4LDrwufbffmTdog-HhAJbho5CHDvioLTs5FLwjbLZPb2YPNjME_z3stIA3rweBg9y_2s0dmOS6HcQTko9HpeWw29XxhUdRnbqWNVwLat-Who5ul4e6HImcFXzs742eEOA1N2k87X6Y-C-wcRE-0f4emrUDZJ-YwlR9LJXvFynPelyiEIC6imv0PyIBIwYtNMsdik42-Wu0w_EEFQtCKU8PiehWvpFYWjlwcvjTvVtNlKh7UBEmzLvcPXqtlgQib-vdc_B22Hn9Jiek9tDnjTXaBlLeTEJJ4eOLfv4y6NOPen0lSNSdPZiGfomq5JgYSda0xMhzdDTugzi8vizeRdq8PpZ7JIQw1bSHGm4dinvaC7Bupfg3RyK4Ez3MSiIFYtrqxGjnjocZbZ0m94kFzqygjVeZQu6YiiGd2Wau2khKpZYRF_mUaZPuD1-peABsX-_11ciLgQ4bBmo81EBEsm3CyW51YGXe6rZqGuisK6Jn1Cw8Dix-fc10sTBHQQojjN3rUm979mnqQsLjl-qPmZ7ZXgVSdZlVRcDui-7aOJLBnyGUeqK3JYpbIGv0XKG_Md3dr_-Eo1HkgYAfWhrMV7bM5G8Mnt0fBDFH3dp2Ioo9CAVRS17SkXV_MU1lFti-WQ5HvnU76H_OMBM__IQAyXpp48PAdd_qqNIRPMkdXbp5qSC5fM92c6f7_NHXqEMKAl0se0R-8BSPHXNJzH8einM0Ggx2ZEo4wBORFNVP4_cgASoJZXUtd2VzdC0yMLwD.m3u8
 
+#EXTINF-1, HISTORY 2
+https://vsd72.mycdn.me/hls/2391777610451.m3u8/sig/gS8-SCsgBkE/expires/1649921969146/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3806872936147/video.m3u8?p
+
 #EXTINF:-1, NAT GEO  
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuwEWFUAiLOJfyYiFdbOhHU_4bI66V0nj4p0oAuq6YDA4PqKA6EftNvPGX2TawRfA94PiIhXYDL-kAm0_PpIzVLOBmTokhHqnT2kBYiq26ClzkUajWBuFMUyUKpLOC5vh0y6YeD6loFv55LQyaP-5T2b4XSqchO-2GWPUEi5yYXYQdsnPemmJoIDb4dghhOaOUzE6dxjbg_wxO0TpCRbaWxoET-lAQ4eQsMwVzQniPvdI2CZEVKW2_52cMOvLZD1rM8OvNpy1t4WcPYy9GNlyO5_qIbbTVQYm2xsrQSvX-LlflIa8VYIsrTBe7dE1B6coXmZaroDsOeX3vnbfejz4ryR7-k3_iGTm209AxERXwvq9Gap-IeKKM1MAC7Ou-weg2tkGVH004WMfOEJ2DuMwLuOai559QywD820njRDFXDhlrCdE8QLLDEwA1vMO_s660Xk4jgWTNAHV0e6_djGlhCV9yCL1Syqs9U32URIggfRBmPsuwNsRWcLAtu7MEsTW2aSzCUMdoEGK8hkw22D2PsgYt8hNTA11B89oKVniBfOijzOetwwauq5Ew2E5mM7A-Xil1Vn14-33ECp-Pj8A_z7-Tahp86p1foqMj7tVjJRiHMGGpoOceCR4HrvOBPvLIrmch26UDBgl4-SphAxulTGMXqyGjFOxePakj9IWwPD1dZcORV5qrsqn_w7cnCGCB9XYfbzkwCOrs9v4qEVn6ypYCs6cww7IZwXHUg1mLEijGNDfXNzmCoPdAPKWDgpFpsRmwwYnMT_DS3FHzTMDGpLMfq5a7J7sQ2-PgKLCzTB_ThWhrlkI2LMxB3ukXIaDIExptMyNJUK8zOhASABKglldS13ZXN0LTIwvAM.m3u8
 
@@ -508,10 +512,10 @@ https://vsd128.mycdn.me/hls/2391757687507.m3u8/sig/39L6-EO_mdE/expires/164992110
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=95&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, H&H
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=96&p=3&k=srregio&f=.m3u8 
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuYEWHOkPs5BzUJH6JmPfGF8_Lxtgx5zkvMhEgXg46rZ22AmE6dgRLPJon375mn7me64xEA1m88EFzKLYS3fWaCZa7OKEigHBPxGqkvFNO_-A-XuwpVuAJMIOibQhVjpdOHejeg111LSeGqAFExd6hsKYvxLeZby_CNqUu3jeipIXK0VRyAEO1a6OQFySKB4V2bJ3EAJGmo1SgsjQSGiM3TEKgJMedOPN3ldcnOEDXokoVtY6HlHAEA6BEuKz336aEVwBBr3w2klTyhEQzH_8rKowSAAbdXcREwESLX9xm4o9FxGZ7W3iPfm8OwhkkSmvG4Ltb6YohhK0wEdbZditWKHEOFuwwXamFxBtqjNZJ_D6O_wgC90Y0q6qOsCgIiquOLC3oGWzq5MoVD6sYDHGSCzS5mcpwU3BMaBQ85Py3suv9H7PevF7N5YPK9R3FmZZRZv941u18AbPAMR5v332w1WHW1FfCEAZVP8Cn01TAk1gh3hxXGRdtWUpvqcs6YQ31vDCdTnBiOCfb3kBSxABCvg9nA4xGOWsSYKocd1k5VNFeiEvwrXGhDUXHkKbdn37bWzNZ4We6JFaL3nuGEBK2t17YITuaqNeYH8mOJK8JFaVesDojAH_xUasyfjHfcw5qb4YDcjXlOSpml-Ovh2bmAv06hnT33NNnt76TJO3MSM9JMlhBOECd-LISOcTZefW2ICN515XzyZvb98xe8IscqDO2fAjB3jEnOSzYX6_s6t7G2IohL4EdMVgugwoH9ZkkY6IyAQy4f2pkapfDGz5uCBVuc3LcwSdYmSUTvtK_rBUeUBQjrTzHAaDCRDeuNn7bX9d9LSLiABKglldS13ZXN0LTIwvAM.m3u8
 
 #EXTINF:-1, TLC
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=97&p=3&k=srregio&f=.m3u8
+https://vsd79.mycdn.me/hls/2391772957395.m3u8/sig/ghWmq18oUBI/expires/1649922299723/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3806868872915/video.m3u8?p
 
 #EXTINF:-1, DISCOVERY SCIENCE  
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=98&p=3&k=srregio&f=.m3u8  
@@ -535,10 +539,13 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2145&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2375&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, DISCOVERY TURBO
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2379&p=3&k=srregio&f=.m3u8  
+https://vsd71.mycdn.me/hls/2391770991315.m3u8/sig/UQMO2lsgrXc/expires/1649922227117/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3806867496659/video.m3u8?p
 
 #EXTINF:-1, CURIOSITY STREAM
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2594&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, lifetime
+https://vsd75.mycdn.me/hls/2391763520211.m3u8/sig/PtwZW7Vt1Xs/expires/1649922550110/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3806861729491/video.m3u8?p
 
 
 *** MUSICA ***
@@ -547,7 +554,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2594&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=211&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, MTV
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=212&p=3&k=srregio&f=.m3u8  
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuYETbko2t0xMtTtNRyU7O9Vw5aMmMnHxn3xw_odyxEUldH2OuhEKPDuKe54giqDG_ip287pP8KKcXVDpdc0UQn--1adV4A1NQTiZiV3UpzibFoub99CsEYZtgRNFLGQcjwcFIQJzFryuxiTbYV4LfPsV-5gXFQTYOBEAQYyfa5M_LClq8yWxu4Q5uqQjptKMaledLMqpke1bUM4eNK0mdkgect_YneaxX4p5n-x-_KU5cb2Z35JKAtBihaKfUCHlVH6KxDctfvGKPEs3Gm2pron1kl0atJhm29PcJOgMpMoWoiR0cF8JFzFAaePB9hDgmPNuPm7r0QtbhOWUuD6rCl7qtoaklpbMmBBaSUDmE7i6BFHqZfe596gogjf8FJU4YcX4w-ytTmoONTgBv-B1htCSNJYCeX1IntXSYOiAf2dIrFMRhdpotpSeS1rbUCiODourMTQJnX6o6ubfMX9CwJNZ409VPuqorBnU0YBt1oakXdtDq8oi9GcIVRLOeB-SbCccyH_kQmRdAGIXGJLUieQXQCRA6mAxW7SuEbkXErWoz9aTYDedBcE7MIRXfkGpZKDwXqFlOtxN_KU0PUTVLCV_-cdFXOdBNqqdxXOhdahueTn5_F2d8Fstb232BF1ixNAg1HixjztAjFZ40iLgJBdRt6dXg1MBZVNy2XGu89vsLb70oA8lHT1zmIqFMSVfXQoEbBH1_GiYtK36jS0Ttf6vCvLXOQy6umX0DEn4GBSuYP2jZRc4C1sPkdTa5FgQ10WnEcUU0Cndn8cOMTzG-al9m3zb6ckqvyNTGD8I-6l-ejvUhP40kcaDB6vpPYyrrff3t6vOCABKglldS13ZXN0LTIwvAM.m3u8
 
 #EXTINF:-1, MTV HITS 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=213&p=3&k=srregio&f=.m3u8  
