@@ -52,8 +52,8 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3
 #EXTINF:-1, TEENNICK 
 https://vsd126.mycdn.me/hls/2425271618091.m3u8/sig/FWL-GrJu84o/expires/1649920225089/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/4123312594475/video.m3u8?p
 
-#EXTINF:-1, 
-
+#EXTINF:-1, RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
