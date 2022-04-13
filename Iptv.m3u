@@ -132,8 +132,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_b
 #EXTINF:-1, CARTOON FUN TIME
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, MI TV CLASICA
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png", Mi TV Televisión Clásica
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
 #EXTINF:-1, RLOTV
 https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8?PlaylistM3UCL
@@ -246,6 +246,24 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png", Teleuno
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png", EvaStream
+https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png", Mi TV Televisión Clásica
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png", Aniplus
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 
 #EXTINF:-1, TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
