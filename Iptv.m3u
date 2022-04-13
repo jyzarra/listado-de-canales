@@ -18,15 +18,14 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_K
 #EXTINF:-1, NICK
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
 
-#EXTINF:-1, 
+#EXTINF:-1, WEB TV CINE
+https://stmv1.vhcast.com:443/tvcine/tvcine/chunklist_w1457176963.m3u8
 
+#EXTINF:-1, CANAL +
+https://tv.tvcontrolcp.com:1936/8010/8010/chunklist_w2087135403.m3u8
 
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1,
-
+#EXTINF:-1, WEB TV EXTREME
+https://stmv2.samcast.com.br:443/webtvxtreme/webtvxtreme/chunklist_w1875264588.m3u8
 
 #EXTINF:-1, DISNEY XD
 https://h4.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjIgMTA6NDQ6MzUgQU0maGFzaF92YWx1ZT1Dclg5T0EzckJVeXRiQk5vSXhNb1lRPT0mdmFsaWRtaW51dGVzPTI0MA==
@@ -55,6 +54,9 @@ https://vsd126.mycdn.me/hls/2425271618091.m3u8/sig/FWL-GrJu84o/expires/164992022
 #EXTINF:-1, RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
+#EXTINF:-1, RETRO CARTOON 2
+https://stmv1.srvif.com:443/retrotv/retrotv/chunklist_w1652695439.m3u8
+
 #EXTINF:-1, tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
@@ -65,6 +67,14 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2373&p=3&k=srregio&f=.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/HQs/chunklist.m3u8
 
 #EXTINF:-1, BiTME
+
+#EXTINF:-1, TV LOADING
+https://stmv.video.expressolider.com.br:443/loadingtv/loadingtv/chunklist_w1264778191.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1, ENERGEEK
