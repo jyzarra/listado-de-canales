@@ -54,8 +54,8 @@ https://vsd126.mycdn.me/hls/2425271618091.m3u8/sig/FWL-GrJu84o/expires/164992022
 #EXTINF:-1, RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1, RETRO CARTOON 2
-https://stmv1.srvif.com:443/retrotv/retrotv/chunklist_w1652695439.m3u8
+#EXTINF:-1,
+
 
 #EXTINF:-1, tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
@@ -63,17 +63,19 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, NAT GEO KIDS  
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2373&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1, 3ABN KIDS 
-https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/HQs/chunklist.m3u8
+#EXTINF:-1, ANI TV
+https://srv6.zcast.com.br:443/anitv/anitv/chunklist_w293277542.m3u8
 
 #EXTINF:-1, BiTME
 
 #EXTINF:-1, TV LOADING
 https://stmv.video.expressolider.com.br:443/loadingtv/loadingtv/chunklist_w1264778191.m3u8
 
+#EXTINF:-1 tvg-id="45105" tvg-name=" Cachipum TV Series" tvg-logo="http://cachipum.tv/img/logo.png",  Cachipum TV Series
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
 
-
-
+#EXTINF:-1 tvg-id="105940" tvg-name="Anime Loving TV" tvg-logo="https://lh3.googleusercontent.com/-HeQS_tKAA-8/XwePwID2waI/AAAAAAAA2no/QYCSrncPB0EhtQbqhEBEQyqPguxCHCFtQCK8BGAsYHg/s0/2020-07-09.png", Anime Loving TV
+http://animeloving.net/hls/stream.m3u8?PlaylistM3UCL
 
 
 
@@ -129,7 +131,7 @@ http://138.36.253.12:8009/play/a003/index.m3u8?PlaylistM3UCL
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, LOS SIMPSONS
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8?PlaylistM3UCL
+https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w972965044.m3u8
 
 #EXTINF:-1, EL REINO INFANTIL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51f247aa-de6a-4551-a331-ffa4c5dc6b64&userId=&serverSideAds=true&PlaylistM3UCL
@@ -145,6 +147,7 @@ https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Mi TV Clásica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, RLOTV
 https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8?PlaylistM3UCL
@@ -242,7 +245,7 @@ http://jetixjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Anime Zone TV
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
-
+https://azxtv.com/hls/stream.m3u8
 
 *** CINE y ENTRETENIMIENTO***
 
@@ -255,6 +258,7 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Extrema TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png", Teleuno
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
@@ -333,6 +337,9 @@ http://k3.usastreams.com:1935/telesur/telesur/chunklist_w503102185.m3u8?Playlist
 
 #EXTINF:-1, Tokusato 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&PlaylistM3UCL
+
+#EXTINF:-1, MOVIE fe
+https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w907452710.m3u8
 
 #EXTINF:-1, EVA RETRO
 https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
@@ -472,8 +479,8 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=79&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, TL NOVELAS 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=83&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1, 
-
+#EXTINF:-1, NOVELISIMA
+https://novelisima.akamaized.net:443/hls/live/2031534/novelisimaABR/2/streamPlaylist.m3u8
 
 #EXTINF:-1, ANTENA 3
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=199&p=3&k=srregio&f=.m3u8 
@@ -487,11 +494,17 @@ https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
 #EXTINF:-1, E! ENTERTAIMENT TV
 https://vsd130.mycdn.me/hls/2451913247443.m3u8/sig/pI2Fz899kqA/expires/1649922779245/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3858319089363/video.m3u8?p
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana
-https://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1, Panamericana
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFoZ885U9aoZOpLOrqyROZuObWZlrQ7QxtO76BY4hcnkD)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1, MEGA 
 https://marine2.miplay.cl/mega/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, DAN TV
+https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8?nimblesessionid=170828169
+
+#EXTINF:-1, AMERICA TV
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/1799c67e-8d54-4efe-9e2e-fdc787f4c88b:MRN2/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
 
 *** CULTURALES ***
 
@@ -558,6 +571,11 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2594&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, lifetime
 https://vsd75.mycdn.me/hls/2391763520211.m3u8/sig/PtwZW7Vt1Xs/expires/1649922550110/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3806861729491/video.m3u8?p
 
+#EXTINF:-1, TVO
+http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w1133587167.m3u8
+
+#EXTINF:-1, VPACO tv
+http://vcp1.myplaytv.com:80/tvepaco/tvepaco/chunklist_w1790274734.m3u8
 
 *** MUSICA ***
 
@@ -590,6 +608,16 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=334&p=3&k=srregio&f=.m3u8
 
 
 *** NOTICIAS ***
+
+#EXTINF:-1, TELESUR TV
+https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/480p/chunklist.m3u8
+
+#EXTINF:-1, VPITV 
+https://stream-04.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW4N3M6GQBux8I6vyg8i9FPzjSPX5lPN9NB7M7imd6f4c)/dm/3/x7zfpo2/s/live-1.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW4N3M6GQBux8I6vyg8i9FPzjSPX5lPN9NB7M7imd6f4c)/dm/3/x7zfpo2/s/live-0.m3u8#cell=lnyc
+
+#EXTINF:-1, VENEZOLANA DE TElEVISION
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlmnh_eZvIq_Fs16q8DQX0xsVG0WIh3R11M6kTPJ68gi)/dm/3/x828i6j/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1, FOROTV 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=4&p=3&k=srregio&f=.m3u8
