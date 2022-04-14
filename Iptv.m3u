@@ -80,7 +80,6 @@ http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
 http://animeloving.net/hls/stream.m3u8?PlaylistM3UCL
 
 
-
 #EXTINF:-1, ENERGEEK
 https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?PlaylistM3UCL
 
@@ -508,6 +507,10 @@ https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8?nimbleses
 #EXTINF:-1, AMERICA TV
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/1799c67e-8d54-4efe-9e2e-fdc787f4c88b:MRN2/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
 
+#EXTINF:-1, LATINA
+https://vsd68.mycdn.me/hls/2285916392007.m3u8/sig/jb5v-v1kf6c/expires/1650019079722/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/5359537036871/video.m3u8?p
+
+
 *** CULTURALES ***
 
 #EXTINF:-1, DISCOVERY ID
@@ -706,7 +709,17 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, FUEL TV 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2587&p=3&k=srregio&f=.m3u8
 
-#
 
+
+****ADULTOS
+
+#EXTINF:-1, VENUS
+https://edge1.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
+
+#EXTINF:-1, PLAYBOY
+http://50.7.120.165:8081/6/index.m3u8?wmsAuthSign=1649945971p64i92i421i091Sf4c3052ad49e5211b2e118d56ec7849f
+
+#EXTINF:-1, HUSTLER
+http://50.7.120.165:8081/10/index.m3u8?wmsAuthSign=1649946178p64i92i421i091Sbf82d6395258cd74bdfc144e086ed109
 
 
