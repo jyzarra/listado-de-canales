@@ -51,7 +51,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
 
 #EXTINF:-1, TEENNICK 
-https://vsd126.mycdn.me/hls/2425271618091.m3u8/sig/FWL-GrJu84o/expires/1649920225089/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/4123312594475/video.m3u8?p
+http://23.148.145.49:9001/televall2022/732_.m3u8?token=u1wndgYSLt55SAi9CbiZgg&expires=1649986791
 
 #EXTINF:-1, RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
@@ -90,7 +90,7 @@ https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
 https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w191003441.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, DRAGON BALL Z SUPER
-https://vsd137.mycdn.me/hls/2315293952583.m3u8/sig/0XnPvge0wik/expires/1649921748042/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/5385441189447/video.m3u8?p
+https://vsd79.mycdn.me/hls/2319387200071.m3u8/sig/pfZgG5inHvc/expires/1650061755470/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/5389040229959/video.m3u8?p
 
 #EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png", CSTV 
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
@@ -430,7 +430,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1726&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1787&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, TELEMUNDO INTERNACIONAL 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=85&p=3&k=srregio&f=.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cu0E1Zsgd1NRbmz1vQa1r6K0czRenmWW9Y3UAQQEzEiuMnyq_D3bJuDrX1d5ZYIt3DL1gRpZvhQEPtoN7Bfs6Cw8Bi5p513gtbVzIS-BR6Eo9w569k0v_A9I-tA3sCpDs3lh-cFCAWfStZImcxYi5_Ohuk3eaRGjrZ9KU9YrtO-8l0JKE3h4SuldxGPvJtwkf7riPpsxivagLqADYNIaLkXx_QNUeL5hPYnNAnhkSIwx_a6swIspoix0s8TcKfLhYrK7D_CNhqeWiVfaNTiZpMPg8_gtkD75u6R_R9li4esy-yvO7kIYjthHZe66mciKwFXvwaEmmj0PgHYPTU9NwfE7l9pXhvNfJghfeha_0H5GSSIvPrc2W1FFIHSlEqHkVKnPB2UonUBCkX05xY_WkrsqGyP7oAFZrEFql0T5BMcM6b36tpePBjWGjNV18DHe36AKxvMvt9NKdck8ayT4BTbC3Dba7AYyOsnSZUgdqq1DWiOUawTxiGUJylaMcCJkhT-TWmfhgbjYEWouqSls48iT7-tv8UCe999uD5x0R2dfU9YJtooUmrXfvmi3BFqidRPVMda63bA8_MbtMIyvOqJNAPcPVfr6iiX-gbQl2XHb3VfSDAHoGzQTR8lnVG_tmIRK6qM9f21pw0Fk-BmgwaJBtgZCH5ZkUrJZMJXbv0l3_G52XHK1s-NFjiPNZYuDc6kRbytfXR4NIl7l0Cfl7Xn1_QxUkEPApe79epZQhyXvH6JkChFwsB0y-D0YUV8yYnVOzReyDKWd3uFTGFK2LrEQofokG8DVvpHaFqoXRPAszuqs1q9rgMQq0oa_5BWWGgxnjyKN2DpownBe1mkgASoJZXUtd2VzdC0yML4D.m3u8
 
 #EXTINF:-1, SONY  
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=48&p=3&k=srregio&f=.m3u8
