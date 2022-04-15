@@ -484,12 +484,13 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=83&p=3&k=srregio&f=.m3u8
 https://novelisima.akamaized.net:443/hls/live/2031534/novelisimaABR/2/streamPlaylist.m3u8
 
 #EXTINF:-1, ANTENA 3
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=199&p=3&k=srregio&f=.m3u8 
+http://94.127.187.118:8080/hls/t5.m3u8
+http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/bd6df82de1b900f6a62f7d10dea78ad7d27e4d61_1650023256/antena3/bitrate_1.m3u8
 
-#EXTINF:-1, tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png", Estrella TV
+#EXTINF:-1, Estrella TV
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i2.paste.pics/d0743d852c7c3b8f6f5996ac0780fefc.png", Nitida TV
+#EXTINF:-1, Nitida TV
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
 
 #EXTINF:-1, E! ENTERTAIMENT TV
@@ -502,14 +503,22 @@ https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFoZ885U9aoZOpLOrqy
 https://marine2.miplay.cl/mega/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, DAN TV
-https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8?nimblesessionid=170828169
+https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/playlist.m3u8?DVR
 
 #EXTINF:-1, AMERICA TV
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/1799c67e-8d54-4efe-9e2e-fdc787f4c88b:MRN2/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
 #EXTINF:-1, LATINA
 https://vsd68.mycdn.me/hls/2285916392007.m3u8/sig/jb5v-v1kf6c/expires/1650019079722/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/5359537036871/video.m3u8?p
 
+#EXTINF:-1, MVSTV
+https://stream-04.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqhYDus8i-mylYI-mkRyTTuF0Ggi9XN3gvKKvMpGz9UkI)/dm/3/x7urqme/d/live-4.m3u8#cell=lnyc
+
+#EXTINF:-1, CITY TV
+https://streannlive-lh.akamaihd.net/i/Citytv_1@875433/master.m3u8?customtoken=b682e54a-9004-42d9-bf25-347735276f8a&hdnts=exp=1650008875~acl=*~hmac=dc64737159a16d73cd0dcd8ad1774203196128d9e0d537950e8a05ed2a318956&AkamaiAnalytics_debug=1&set-segment-duration=smoothest&dw=3600&resellerId=5d5f122d2cdcdc3478f9c924
+
+#EXTINF:-1, GUATEVISION
+https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/cd8f5328-7a1c-49d9-b318-9190858d1826.m3u8
 
 *** CULTURALES ***
 
@@ -520,7 +529,7 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CucETuooPyGlEFlAkgBlc1rGgBn
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=75&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, DISCOVERY CHANNEL
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuMEOpo91mcbpmVkkKI30RLedlR-sgu0xWB5_GhcOeWQus-rOXCTECpMeeLDtQD9ePeNsSD6E1Iz0lcFGnIWIdcfu_AvedMg4xqxfwOKHmtHSTd7RYkqR2Mv1q_FOoyqlZ8x-O6b0YlnUXaLLVOXTjDNJhfyFZFNUrWWPLwNGHt1DMbq0VScxCw2ceJFvtXVjheooOXoUbZsHnbrnk2Dw6eB6gj7EBlAK8N_FzuiCOxXkxzulKcdQqI9fj0BcZeleelbcvB-6iXmbD8ZKymk06WGL6IsM26lPRq_rZWI7sccy5w54NDjDlv2xwfU0Jautl394Zw8rFHrCRrqa5TB0Y2Nnep7JiOnz4AhZTmwD9FRxXuZh-YsvgVboDvNcLy3lNmpUC40uk7NOH4z4DHiL7tCFb4s6xW-GzoNN6EIlIeK9HeXdgukPDOhZExzRSUbtDlv02KTaYUxLtvzm6m1eqBzRRh6faPA8y5Rrcek7l8PKi_IyuzoE5IyVfKtqDdG_XfiqqHoOPcwfrYdYZOL_cxhE6GSyh7iZ_J5UeshedVE11uKLyrkKIpkVgxiNZuwtsJgCM57G57c7YW8XzW7APUp2FjUp--MlYylzADGfCymbHQqbS3oDtL7ZCG98cXPixbofmwvXVq_fTsmoiTDzQfiaPsqaZuIqidjJoVCKKmcgMB2Xy5pvzTTVJa8BJjmAjBK1FpDp0CNzry2BfgDlkSMGCob2r2Ht4jOEkCDxtk7Kp-bBlCApkvP6aiQCeuYUT-kCzd2cG1Pa8vSItN1UzMsFKrSK1eTszBQcnN4rxNnsJeCX4QaDJUgiekMmwOIReVOYSABKglldS13ZXN0LTIwvAM.m3u8
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
 #EXTINF:-1, ANIMAL PLANET
 https://vsd119.mycdn.me/hls/2448977955539.m3u8/sig/tjv1YuhXo9w/expires/1649920756919/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3855844187859/video.m3u8?p
