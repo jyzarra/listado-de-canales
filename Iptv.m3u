@@ -51,16 +51,18 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
 
 #EXTINF:-1, TEENNICK 
-http://23.148.145.49:9001/televall2022/732_.m3u8?token=u1wndgYSLt55SAi9CbiZgg&expires=1649986791
-https://usher.ttvnw.net/api/channel/hls/teen5303.m3u8?allow_source=true&fast_bread=true&p=5140363&play_session_id=5c065c55e164819193b33ddaeeeddeed&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=3e970efb4fcbf871fece933aee25eb4397ba481a&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22teen5303%22%2C%22channel_id%22%3A781897013%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22d56650a2ab7b81ba%22%2C%22expires%22%3A1650012013%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.124.29.46%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.9.0
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuYEPsEdXuth9UDSOwUANeDjTK-aAp1X9PmXFgul35nMWtHqQabb6u7vyUCOX6NIAvXDxEeTf4kIr13DsOK4Su2sAFZs-xiRkH2Ne1IX4BnaoSVZ_gn7GiphvkwolpkN5XRIMG3pDCqQVbbkpA85czcZuU-5f29d2PFq5foG-xCJBgjv5cLOduVYrEeJHElWre4dnMtbDaf6vTRM3dLrwbG3QzkUY1BB3thqrvPPf478L4S5gOoYBQ7Juwii5gcHvtb1kE1BFinvlsmoI7r-7idERx42MIsnHX0aay6Nd1zpAqR6LJJxXtZnNyBVFyns_Yo1WpJwgmvsQKCwO9NIlC4-j5F6FzMqdvvAWDGCExWnmUvhPThvd-SHxZDyGqNVwLj0ekJiAX2J6emaFbOTsW29Em7_gxVXArGZlpBs571VMXyHDqGYdC31MZdDzQlH7q0tl4bCwR19YFg6iD7z93c3BitnieAs8WeYpo0a4buTurxQ3vJ2wV8AVNTiVgqYxdTVNj-3FY5O1sBD2fBprUZTKDUrGXlg2YH2wXThcl9nE9PjiMLsYWQhWB6QtOKUpTiXuV08a7OzcaVV895uZdALGPE2eN3y_n-xeUYexIVHVCbHrb7HdZ9CnefSWEzg9JHnO_2jpBbPxrgqt6HR64lnjWkbQE-fklnkQjoe8-pmM7BbIwnq3EUajob60UJr6L3QVcCpUwpdwsMb_5XpXtPU1te-2S8OzqJY-c-lqwcc-MbZxCm_yHEeJMHDsHuX699BI9kEXh7O1C02LfjhU3-M_4FSAwYDN2jMKk9SkfJC45Ix9ma8aGoaDFwq14CtIECV_MakzyABKgl1cy1lYXN0LTIwvAM.m3u8
+https://vsd123.mycdn.me/hls/2425271618091.m3u8/sig/SJgsDWsDcdo/expires/1650184133936/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/4123312594475/video.m3u8?p
 
+
+#EXTINF:-1, ZOOMOO
+https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1,
-
+#EXTINF:-1, NICKTOON
+https://h2.ustvgo.la/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDc6NTA6MzggQU0maGFzaF92YWx1ZT13akdIeHFkZ1FSWVo0MEs5SUxJTG5nPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h2.ustvgo.la:443/Nicktoons/myStream/chunks.m3u8?nimblesessionid=201908087&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDc6NTA6MzggQU0maGFzaF92YWx1ZT13akdIeHFkZ1FSWVo0MEs5SUxJTG5nPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1, tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
@@ -262,6 +264,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Extrema TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1513239055.m3u8
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 
@@ -353,7 +356,8 @@ https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, A3CINE 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=3112&p=3&k=srregio&f=.m3u8 
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-720.m3u8
 
 #EXTINF:-1, A3SERIES
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2113&p=3&k=srregio&f=.m3u8
@@ -430,6 +434,10 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=328&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, DE PELICULA 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=335&p=3&k=srregio&f=.m3u8
 
+#EXTINF:-1, NV
+https://siloh-ns1.plutotv.net:443/lilo/production/Nuestravision/master_1.m3u8
+https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
+
 #EXTINF:-1, PARAMOUNT CHANNEL 
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
@@ -482,7 +490,7 @@ https://vsd121.mycdn.me/hls/2391762143955.m3u8/sig/2rPm0GyDcPU/expires/164992269
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=77&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, DISTRITO COMEDIA 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=78&p=3&k=srregio&f=.m3u8  
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
 
 #EXTINF:-1, CANAL DE LAS ESTRELLAS
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuwEnQWkttyLYNo54CL0D0Jd9N3NsbmDaGhcgZdFp8oFe8MzLd44-E-ih1iL_UIMi9DcyTZdJ5W9JiOZnn_AgEdMK-mCU3d13KKJDgUvTBCddRkOm9w9sp754RepefrLSYsLxRnx2hA7R1SN7FzBBrgAgwkZoS8RZcJ8uXGCtN3ePMHqw84BNkNtCGpBJrVqWdZBWWEjop9jQl6k43ptUfKGQ5yrsMehQV70TUA5gFMeoFF-F_BlT-imT38MdG3EC-3Kb0tUuP7kk44pbQcyRe29NmDR0pQltZeljwzB33rh0zHqi7B54HbEnELh4H4LiE5mVXkrMG3JCI0dN-7EEs2-Vw9fWRfiV7_nJZSvkzvMrzHpT4hdDj1trQxB6xigDaw4gqExoWrNDwC_NdcPiC7XAxzAKd1JOJG4y_k6DbFQ50s0G_NEuchJ9Iagt4s3MAQOxwtlepGLQc3z0glolUPKaeLlswFuo3TavfRnL8XUdedlgoKVJm6pyTqcRAB2xDwhgojn497ct3uSvx2rv2SEqdXYscewAvYf4Qe__GBmPRix5F37L2ysG0AP6cAAD6rL0NFikewMuzwOgu8w4MGG3YQZYe3LOLGOegGJdsHe5Rxjr2Io8sbuGSRyljrKk_T6jrJTcpton83-kIMddl7tyBQKgHncLiqyAo-5LAKLRtsnYdio2jc5WKGH5bDIma8efiF7Nnlh70e402Y2vyBCaAq74w7q81kGCcBiArqpap5qOntRMLkwLRkUhl0o6gq3eiEDHA07_cjVoM4K2LCophpEQ9pDdQf8oRwHY5f34A9ifLXY0811gnmmEkYaDHBa7U_KHdeN7C4x9CABKglldS13ZXN0LTIwvgM.m3u8
@@ -503,6 +511,7 @@ https://novelisima.akamaized.net:443/hls/live/2031534/novelisimaABR/2/streamPlay
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 
 #EXTINF:-1, ANTENA 3
+http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/3fdd860242ab0fd4622c1d4c73eef23077f6b7ad_1650109956/antena3/bitrate_1.m3u8
 http://94.127.187.118:8080/hls/t5.m3u8
 http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/bd6df82de1b900f6a62f7d10dea78ad7d27e4d61_1650023256/antena3/bitrate_1.m3u8
 
