@@ -521,7 +521,7 @@ https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
 https://vsd130.mycdn.me/hls/2451913247443.m3u8/sig/pI2Fz899kqA/expires/1649922779245/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3858319089363/video.m3u8?p
 
 #EXTINF:-1, Panamericana
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
+https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, MEGA 
 https://marine2.miplay.cl/mega/playlist.m3u8?PlaylistM3UCL
