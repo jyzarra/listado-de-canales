@@ -73,8 +73,8 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2373&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, ANI TV
 https://srv6.zcast.com.br:443/anitv/anitv/chunklist_w293277542.m3u8
 
-#EXTINF:-1, BiTME
-https://iptv-org.github.io/iptv/index.m3u
+#EXTINF:-1, BABYFIRST TV
+https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
 
 #EXTINF:-1, TV LOADING
 https://stmv.video.expressolider.com.br:443/loadingtv/loadingtv/chunklist_w1264778191.m3u8
@@ -523,7 +523,7 @@ https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
 https://vsd130.mycdn.me/hls/2451913247443.m3u8/sig/pI2Fz899kqA/expires/1649922779245/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3858319089363/video.m3u8?p
 
 #EXTINF:-1, Panamericana
-https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFoZ885U9aoZOpLOrqyROZuObWZlrQ7QxtO76BY4hcnkD)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
 
 #EXTINF:-1, MEGA 
 https://marine2.miplay.cl/mega/playlist.m3u8?PlaylistM3UCL
