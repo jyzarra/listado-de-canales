@@ -7,8 +7,6 @@
 https://vsd101.mycdn.me/hls/2425259625003.m3u8/sig/vrpa-D7eS-Y/expires/1650061585902/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/4123303681579/video.m3u8?p
 
 #EXTINF:-1, BOING
-https://live.mitele.es:443/hls/live/2005334/boing/bitrate_4.m3u8
-https://live.mitele.es/hls/live/2005334/boing/master.m3u8?hdnts=st=1649929128~exp=1649929217~acl=/*~hmac=4b06997da9f02d475703084006b296f65e86656ea398969977722ddfdcb9dd9f
 https://live.mitele.es:443/hls/live/2005334/boing/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="1110" tvg-name="Fox Kids" tvg-logo="https://www.m3u.cl/logo/1110_Fox_Kids.png", Fox Kids 
