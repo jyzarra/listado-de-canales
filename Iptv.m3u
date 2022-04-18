@@ -9,7 +9,7 @@ https://vsd101.mycdn.me/hls/2425259625003.m3u8/sig/vrpa-D7eS-Y/expires/165006158
 #EXTINF:-1, BOING
 https://live.mitele.es:443/hls/live/2005334/boing/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-id="1110" tvg-name="Fox Kids" tvg-logo="https://www.m3u.cl/logo/1110_Fox_Kids.png", Fox Kids 
+#EXTINF:-1, Fox Kids 
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, DISCOVERY KIDS
@@ -26,6 +26,9 @@ https://tv.tvcontrolcp.com:1936/8010/8010/chunklist_w2087135403.m3u8
 
 #EXTINF:-1, WEB TV EXTREME
 https://stmv2.samcast.com.br:443/webtvxtreme/webtvxtreme/chunklist_w1875264588.m3u8
+
+#EXTINF:-1, CHINOLA TV
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 #EXTINF:-1, DISNEY XD
 https://h4.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMjIgMTA6NDQ6MzUgQU0maGFzaF92YWx1ZT1Dclg5T0EzckJVeXRiQk5vSXhNb1lRPT0mdmFsaWRtaW51dGVzPTI0MA==
@@ -51,7 +54,6 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3
 #EXTINF:-1, TEENNICK 
 https://vsd123.mycdn.me/hls/2425271618091.m3u8/sig/SJgsDWsDcdo/expires/1650184133936/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/4123312594475/video.m3u8?p
 
-
 #EXTINF:-1, ZOOMOO
 https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/playlist.m3u8
 
@@ -59,10 +61,10 @@ https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/playlist.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1, NICKTOON
-https://h2.ustvgo.la/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDc6NTA6MzggQU0maGFzaF92YWx1ZT13akdIeHFkZ1FSWVo0MEs5SUxJTG5nPT0mdmFsaWRtaW51dGVzPTI0MA==
-https://h2.ustvgo.la:443/Nicktoons/myStream/chunks.m3u8?nimblesessionid=201908087&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDc6NTA6MzggQU0maGFzaF92YWx1ZT13akdIeHFkZ1FSWVo0MEs5SUxJTG5nPT0mdmFsaWRtaW51dGVzPTI0MA==
 
-#EXTINF:-1, tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion | AR
+
+
+#EXTINF:-1, Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, NAT GEO KIDS  
@@ -111,10 +113,10 @@ https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?Play
 #EXTINF:-1 tvg-id="48" tvg-name="Cloud Server Kids" tvg-logo="https://www.m3u.cl/logo/48_Cloud_Server_Kids.png", Cloud Server Kids 
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg", Paka Paka 
+#EXTINF:-1, Paka Paka
 https://edge4-sl.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
 
-#EXTINF:-1 tvg-id="988" tvg-name="Vintage TV" tvg-logo="https://www.m3u.cl/logo/988_Vintage_TV.png", Vintage TV 
+#EXTINF:-1,Vintage Tv
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, APlus TV 
@@ -489,7 +491,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=77&p=3&k=srregio&f=.m3u8
 http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
 
 #EXTINF:-1, CANAL DE LAS ESTRELLAS
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuwEnQWkttyLYNo54CL0D0Jd9N3NsbmDaGhcgZdFp8oFe8MzLd44-E-ih1iL_UIMi9DcyTZdJ5W9JiOZnn_AgEdMK-mCU3d13KKJDgUvTBCddRkOm9w9sp754RepefrLSYsLxRnx2hA7R1SN7FzBBrgAgwkZoS8RZcJ8uXGCtN3ePMHqw84BNkNtCGpBJrVqWdZBWWEjop9jQl6k43ptUfKGQ5yrsMehQV70TUA5gFMeoFF-F_BlT-imT38MdG3EC-3Kb0tUuP7kk44pbQcyRe29NmDR0pQltZeljwzB33rh0zHqi7B54HbEnELh4H4LiE5mVXkrMG3JCI0dN-7EEs2-Vw9fWRfiV7_nJZSvkzvMrzHpT4hdDj1trQxB6xigDaw4gqExoWrNDwC_NdcPiC7XAxzAKd1JOJG4y_k6DbFQ50s0G_NEuchJ9Iagt4s3MAQOxwtlepGLQc3z0glolUPKaeLlswFuo3TavfRnL8XUdedlgoKVJm6pyTqcRAB2xDwhgojn497ct3uSvx2rv2SEqdXYscewAvYf4Qe__GBmPRix5F37L2ysG0AP6cAAD6rL0NFikewMuzwOgu8w4MGG3YQZYe3LOLGOegGJdsHe5Rxjr2Io8sbuGSRyljrKk_T6jrJTcpton83-kIMddl7tyBQKgHncLiqyAo-5LAKLRtsnYdio2jc5WKGH5bDIma8efiF7Nnlh70e402Y2vyBCaAq74w7q81kGCcBiArqpap5qOntRMLkwLRkUhl0o6gq3eiEDHA07_cjVoM4K2LCophpEQ9pDdQf8oRwHY5f34A9ifLXY0811gnmmEkYaDHBa7U_KHdeN7C4x9CABKglldS13ZXN0LTIwvgM.m3u8
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 
 #EXTINF:-1, UNIVISION
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cu8EKzi9QyA-ZG_4FEzI1d8QWyvCGTha4bm26-rnLNdIwiPG_QgVz6qsxLf5ywdqgnSJdzYH6PQaZhLwcHeqj-fZ8IXEZsTEL5RDLX3mG5Kzj3F8zy3OcjotywEudP1KNg1KeSyx1O7KUT_zi7PQnX2ezZzXemIxQRSvqEcctjW3JlycueuDpwBZzwLLtsEYbodlgr1iDwYRXQI9YSbVd0hZb09fERUMrsUDZRysBhDaWSaH2Zrd2WNr-cIyvx1PE7T18yT8q7SZoEYtGLSUYiqcw08SEBRUiS9YU1dRADOy4P8T3wSEnK5m__QOBC3xbdR6plbgro2lIrFEuazCcMIvNhmPRDbBLM_mSaiHWh_oZCLsRhRYQ7p0SiiZpDSWDPwTE0Xn29gJrHz4GY7y6vWTOkuwobvY3PqzvAYCANCrJSmXEYuZPtNA7ylVwT9USiMOYLEhBJydMtBXBMlYLy3jl9MuXqE5L7vPC4EOe3qre6iTlDoIo1W0hre5haE5UccDGyS6PKMDjwC6sRkDvXACdF8_oW4ZtCpVspnniKCcw9xMQrWuxFCv0uqcVLxo72IB3th8K0HcnczvwKYxmnMy50a1tzVPDplpuEEPgPDld7O004Bqs_y_S3mGNLieb3o_KwKO3lFgB1_fxZR1VE0MJWmkCM9NN8yoJRdaoQte1Q1OROjniYgV8mbX8b62SK7q6bQjowgzDAk3k9A7QuCFsnNyabuiFY3CmeluPEovtzz_t36-5MWeyGkY4-DVmEOj0CVj4KlaNWjbTKV-1GDNRockCE2FY7tPschzuT7fVk6BMaQaYRQJN7fGOjuVmXYaDOoqLScuAhcOlN-_kSABKglldS13ZXN0LTIwvgM.m3u8
