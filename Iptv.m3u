@@ -265,7 +265,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Extrema TV
-https://www.livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1014056279.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png", Teleuno
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
