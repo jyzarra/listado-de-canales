@@ -4,7 +4,7 @@
 *** INFANTILES ***
 
 #EXTINF:-1, TOONCAST
-https://vsd101.mycdn.me/hls/2425259625003.m3u8/sig/vrpa-D7eS-Y/expires/1650061585902/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/4123303681579/video.m3u8?p
+https://edge5-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 #EXTINF:-1, BOING
 https://live.mitele.es:443/hls/live/2005334/boing/bitrate_3.m3u8
@@ -356,7 +356,6 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, A3CINE 
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-720.m3u8
 
 #EXTINF:-1, A3SERIES
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2113&p=3&k=srregio&f=.m3u8
@@ -453,7 +452,7 @@ https://edge-vod02-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 https://edge5-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 
 #EXTINF:-1, UNIVERSAL CHANNER
-https://vsd128.mycdn.me/hls/2446757399124.m3u8/sig/7sCtsRlLHH0/expires/1650105829708/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/3659314044500/video.m3u8?p
+https://edge5-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 
 #EXTINF:-1, ESTUDIO UNIVERZAL
 https://edge5-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
@@ -512,8 +511,6 @@ https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u
 
 #EXTINF:-1, ANTENA 3
 http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/3fdd860242ab0fd4622c1d4c73eef23077f6b7ad_1650109956/antena3/bitrate_1.m3u8
-http://94.127.187.118:8080/hls/t5.m3u8
-http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/bd6df82de1b900f6a62f7d10dea78ad7d27e4d61_1650023256/antena3/bitrate_1.m3u8
 
 #EXTINF:-1, Estrella TV
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
