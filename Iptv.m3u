@@ -450,7 +450,7 @@ https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
 #EXTINF:-1, WARNER CHANNER
-https://vsd113.mycdn.me/hls/2446759365204.m3u8/sig/23qJa865h3c/expires/1650105760010/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/3659316403796/video.m3u8?p
+https://edge5-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 
 #EXTINF:-1, UNIVERSAL CHANNER
 https://vsd128.mycdn.me/hls/2446757399124.m3u8/sig/7sCtsRlLHH0/expires/1650105829708/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/3659314044500/video.m3u8?p
