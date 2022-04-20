@@ -367,7 +367,7 @@ http://23.148.145.49:9001/televall2022/535_.m3u8?token=dBpCVcNOTmgkn0CbTGtC3w&ex
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
 
 #EXTINF:-1, TBS 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=81&p=3&k=srregio&f=.m3u8 
+https://edge5-sl.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
 
 #EXTINF:-1, DE PELICULA + 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=121&p=3&k=srregio&f=.m3u8  
@@ -394,13 +394,13 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
 #EXTINF:-1, AXN
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CucEGtjOhYqgScI_su3rsuJMOK7AqVTzvAVnwYiwkGR_e0_z6U4wD-8d1AFQFK4XIFoqBtAd6UOodVD2x0UziiKXD0S49icb0bhCtU_I2gNpbVZ_hukCO9kPHitah2UhohgjNTWUUUWoYryUbGeqypsYNq2Zc1qaLFkhaydyfiz_edH4saUTNSQ4Ah58O54M-wHSYLUq0HrT-_nAQ9eNGgHDKknPMbJacTLezTnIj-VMI7IQKSLU1RiMQi_1hPJetbrloBK29kofyBhW2SkkuQwesMFu5BmLdFG2AABqOur6fOZyS6CNU5LP7EN9QZCtOuuQ6AjjIY-xIOUVMwNhK634ruQHMauflWrlAu3QGrZYhj2B1tFa-piRvX-Sdf7U_RaCcgjqLKQ4cOgqmQVmkozN0u0R8cP20oGGP1e29CYoG8iczAP_VOVVfJygJPrH5TWJtt1lrBo-dXY45FOphy3Oz1BcDv2NU_tzAlbGGADCz-qb2t0GBO_iSB_VQiieonCSdJRJU8ZAYWiWrwgMP9VGuYljC22ZtBY4U21lOZIeMrmv0MVY4tOJzfoRdXGRggcSbeb0oc1-FTyh2Viu24QT9aXOBr8uqtN7GhdJvGVBJEVvM-JaquMggw895A6drouBMzU8moPsb9y8ae4iAaoeWfX7NN1mETkjQiIpQFp5ZPsHiqNcjBHktQzOeM-fD7Lj--hr_OTlJqdbXowFM5kTw6a3dYbIQwPSpffcH3H1h6kD4Nx3iQJ4MEjc5mphe0NiGQkAz1lH81iaDmUI9ZLdZ2kvT44JEw8WLmJ9VppBoC2gcogSWgWIGgxt26aQlxni54VrNhggASoJZXUtd2VzdC0yML4D.m3u8
+https://edge5-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 
 #EXTINF:-1, AMC 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=131&p=3&k=srregio&f=.m3u8  
+https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 
-#EXTINF:-1, STUDIO UNIVERSAL
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=132&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CINE AR
+https://edge5-hr.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv.m3u8
 
 #EXTINF:-1, I SAT  
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=135&p=3&k=srregio&f=.m3u8  
@@ -448,6 +448,12 @@ https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.
 #EXTINF:-1, SONY  
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
+#EXTINF:-1, SONY COMEDIAS
+https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1, SONY NOVELAS
+https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1, WARNER CHANNER
 https://edge5-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 
@@ -464,17 +470,20 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 https://vsd138.mycdn.me/hls/2285283838555.m3u8/sig/7BG6TcsB24c/expires/1650365562342/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/3342296686171/video.m3u8?p
 https://vsd138.mycdn.me:443/hls/2285283838555.m3u8/sig/7BG6TcsB24c/expires/1650365562342/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/3342296686171/2285283838555_high/index.m3u8
 
+#EXTINF:-1, VOLVER
+https://edge5-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8
+
 #EXTINF:-1, HOLA TV 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=219&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, COMEDY CENTRAL
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=340&p=3&k=srregio&f=.m3u8
+https://edge5-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 
 #EXTINF:-1, UNICABLE
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1499&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, MAS CHIC
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1842&p=3&k=srregio&f=.m3u8  
+https://edge5-sl.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
 
 #EXTINF:-1, SUNDANCE TV
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=69&p=3&k=srregio&f=.m3u8 
@@ -548,7 +557,7 @@ https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d
 *** CULTURALES ***
 
 #EXTINF:-1, DISCOVERY ID
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CucETuooPyGlEFlAkgBlc1rGgBnnsXIjvEEqd5nOc332P0ediomJuLo0xWtrcPeikK431b54Mbqc-v5CWZi8DQei79UYWiL57mUemwLBxGK3apkV0K2MEIti9-vS0Ky3w305QcmQH2rj_-KCYC5DfbME0fQj2Vw9H4Sap5KaYcf4TqS2OxhfMPTFCx_3bDvGBSSU1Hid1zCjVHLMsVmqRuDrqImUFx0Sj6AaYlqh8Mge-dTYmzluhhayGOHpCx8KzcV7duASWVgDatmMyiV0mvdtnQ4H421PPRq9ISZ0EP5OS66KkHrn4cg7SvJpHXkw7n7kZ8NRUFQrSZr7CYsIXcYU1Q4YHSzmLvqZ1-R6ixKsH-_ulW6_AjBZ2nCkr9Hl_t7sQUSRwWQvWr3huqby9QHzO7zYh3AJCQ-rsNJ7AkZBH_9cVUjwWHB8sTQdyC8lM-oIs63D3J-VsEUv-kRuGsVV_Put7N8iX7o50v9KwtNSaX4FOTfE0rhnPYzdBbdE-4fTTWyO4LHYLzu6BRIqnqfIy86SwnmevRuNGGjd-46GsZ7TC7DX_zhMitOxCKGuQRK-0M2NG3V3vKfZgYW2R32qdN2Pvm5JB-QfcLnCjQ2lol7uO9aTctdb7Jzvv00DRl-AuVYT1fADEeh9JeRz1ylsSKx-qLZ8pIPrf1yc05HdGw2PO0GRlR_4O1Bsn7aqIbq3MKuIwDIHO56pc5xGqhsk_MxXEY60_bu_ZMW3C82tpel7n3lY2Gsd4PTuk8ux58aMbFLkJHcMgQm3cPXZn9IVzkm1X0xSQMfyimEAbQtmWbtc6IRLhlEuGgzfHiE588uaARUnLkUgASoJZXUtd2VzdC0yMLwD.m3u8
+https://edge5-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
  
 #EXTINF:-1, GARAGE TV 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=75&p=3&k=srregio&f=.m3u8  
@@ -572,16 +581,16 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuwEWFUAiLOJfyYiFdbOhHU_4bI
 https://vsd128.mycdn.me/hls/2391757687507.m3u8/sig/39L6-EO_mdE/expires/1649921105432/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3806856814291/video.m3u8?p
 
 #EXTINF:-1, DISCOVERY THEATER
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=95&p=3&k=srregio&f=.m3u8 
+https://edge5-sl.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
 
 #EXTINF:-1, H&H
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuYEWHOkPs5BzUJH6JmPfGF8_Lxtgx5zkvMhEgXg46rZ22AmE6dgRLPJon375mn7me64xEA1m88EFzKLYS3fWaCZa7OKEigHBPxGqkvFNO_-A-XuwpVuAJMIOibQhVjpdOHejeg111LSeGqAFExd6hsKYvxLeZby_CNqUu3jeipIXK0VRyAEO1a6OQFySKB4V2bJ3EAJGmo1SgsjQSGiM3TEKgJMedOPN3ldcnOEDXokoVtY6HlHAEA6BEuKz336aEVwBBr3w2klTyhEQzH_8rKowSAAbdXcREwESLX9xm4o9FxGZ7W3iPfm8OwhkkSmvG4Ltb6YohhK0wEdbZditWKHEOFuwwXamFxBtqjNZJ_D6O_wgC90Y0q6qOsCgIiquOLC3oGWzq5MoVD6sYDHGSCzS5mcpwU3BMaBQ85Py3suv9H7PevF7N5YPK9R3FmZZRZv941u18AbPAMR5v332w1WHW1FfCEAZVP8Cn01TAk1gh3hxXGRdtWUpvqcs6YQ31vDCdTnBiOCfb3kBSxABCvg9nA4xGOWsSYKocd1k5VNFeiEvwrXGhDUXHkKbdn37bWzNZ4We6JFaL3nuGEBK2t17YITuaqNeYH8mOJK8JFaVesDojAH_xUasyfjHfcw5qb4YDcjXlOSpml-Ovh2bmAv06hnT33NNnt76TJO3MSM9JMlhBOECd-LISOcTZefW2ICN515XzyZvb98xe8IscqDO2fAjB3jEnOSzYX6_s6t7G2IohL4EdMVgugwoH9ZkkY6IyAQy4f2pkapfDGz5uCBVuc3LcwSdYmSUTvtK_rBUeUBQjrTzHAaDCRDeuNn7bX9d9LSLiABKglldS13ZXN0LTIwvAM.m3u8
+https://edge5-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
 #EXTINF:-1, TLC
-https://vsd79.mycdn.me/hls/2391772957395.m3u8/sig/ghWmq18oUBI/expires/1649922299723/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3806868872915/video.m3u8?p
+https://edge5-sl.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
 
 #EXTINF:-1, DISCOVERY SCIENCE  
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=98&p=3&k=srregio&f=.m3u8  
+https://edge5-sl.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
 
 #EXTINF:-1, DISCOVERY CIVILIZATION
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=99&p=3&k=srregio&f=.m3u8  
@@ -596,19 +605,19 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=198&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1943&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, FOOD NETWORK 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2145&p=3&k=srregio&f=.m3u8 
+https://edge5-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
 
 #EXTINF:-1, STAR TVE 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2375&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, DISCOVERY TURBO
-https://vsd71.mycdn.me/hls/2391770991315.m3u8/sig/UQMO2lsgrXc/expires/1649922227117/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3806867496659/video.m3u8?p
+https://edge5-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
 
 #EXTINF:-1, CURIOSITY STREAM
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2594&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, lifetime
-https://vsd75.mycdn.me/hls/2391763520211.m3u8/sig/PtwZW7Vt1Xs/expires/1649922550110/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3806861729491/video.m3u8?p
+https://edge5-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
 
 #EXTINF:-1, TVO
 http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w1133587167.m3u8
