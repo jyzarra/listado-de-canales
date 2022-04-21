@@ -425,15 +425,17 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/Cinecana
 #EXTINF:-1, CINEMAX 
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, CANAL Sy-Fy
+https://edge3.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
 
+#EXTINF:-1,telefe
+https://edge5-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
 #EXTINF:-1, DE PELICULA 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=335&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, NV
 https://siloh-ns1.plutotv.net:443/lilo/production/Nuestravision/master_1.m3u8
-https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 
 #EXTINF:-1, PARAMOUNT CHANNEL 
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
@@ -466,7 +468,6 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Un
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 
 #EXTINF:-1, CARACOL TELEVISION
-https://vsd138.mycdn.me/hls/2285283838555.m3u8/sig/7BG6TcsB24c/expires/1650365562342/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/3342296686171/video.m3u8?p
 https://vsd138.mycdn.me:443/hls/2285283838555.m3u8/sig/7BG6TcsB24c/expires/1650365562342/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/3342296686171/2285283838555_high/index.m3u8
 
 #EXTINF:-1, VOLVER
@@ -552,6 +553,13 @@ https://streannlive-lh.akamaihd.net/i/Citytv_1@875433/master.m3u8?customtoken=b6
 
 #EXTINF:-1, GUATEVISION
 https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/cd8f5328-7a1c-49d9-b318-9190858d1826.m3u8
+
+#EXTINF:-1, CANAL el trece
+https://edge5-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+
+#EXTINF:-1,CANAL el nueve
+https://edge5-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+
 
 *** CULTURALES ***
 
