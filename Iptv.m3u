@@ -425,8 +425,8 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/Cinecana
 #EXTINF:-1, CINEMAX 
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
-#EXTINF:-1, AMC  
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=328&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1,
+
 
 #EXTINF:-1, DE PELICULA 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=335&p=3&k=srregio&f=.m3u8
@@ -710,10 +710,10 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2402&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=167&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, ESPN 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=168&p=3&k=srregio&f=.m3u8  
+https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 #EXTINF:-1, ESPN 2
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=169&p=3&k=srregio&f=.m3u8  
+https://edge5-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 
 #EXTINF:-1, FOX SPORTS
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=170&p=3&k=srregio&f=.m3u8  
@@ -731,7 +731,10 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=179&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=180&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, ESPN 3 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=345&p=3&k=srregio&f=.m3u8  
+https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
+
+#EXTINF:-1, ESPN 4 
+https://edge5-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 
 #EXTINF:-1, TUDN
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1049&p=3&k=srregio&f=.m3u8 
