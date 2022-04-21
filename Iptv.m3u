@@ -707,7 +707,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2402&p=3&k=srregio&f=.m3u8
 
 
 #EXTINF:-1, ESPN + 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=167&p=3&k=srregio&f=.m3u8 
+https://edge5-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 
 #EXTINF:-1, ESPN 
 https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
@@ -716,19 +716,22 @@ https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m
 https://edge5-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 
 #EXTINF:-1, FOX SPORTS
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=170&p=3&k=srregio&f=.m3u8  
+https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
 #EXTINF:-1, FOX SPORTS 2
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=172&p=3&k=srregio&f=.m3u8  
+https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
 
 #EXTINF:-1, FOX SPORTS 3 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=178&p=3&k=srregio&f=.m3u8  
+https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
+
+#EXTINF:-1, FOX SPORT PREMIUM
+https://edge5-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
 #EXTINF:-1, GOLF
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=179&p=3&k=srregio&f=.m3u8  
+https://edge5-sl.cvattv.com.ar/live/c6eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
 
-#EXTINF:-1, AYM SPORTS
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=180&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TyC SPORTS
+https://edge5-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
 #EXTINF:-1, ESPN 3 
 https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
