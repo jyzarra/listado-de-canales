@@ -13,7 +13,7 @@ https://live.mitele.es:443/hls/live/2005334/boing/bitrate_3.m3u8
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, DISCOVERY KIDS
-https://edge4-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+https://vsd125.mycdn.me/hls/2430405118507.m3u8/sig/450rQCn92OY/expires/1650730427569/srcIp/206.0.229.0/clientType/0/srcAg/CHROME_ANDROID/mid/4127528066603/video.m3u8?p
 
 #EXTINF:-1, NICK
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
