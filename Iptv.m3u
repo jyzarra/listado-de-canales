@@ -280,6 +280,9 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1, TELEVEN
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 
+#EXTINF:-1, Tele Tuya
+https://web6.lorini.net/lateletuya/lateletuya/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
@@ -377,7 +380,7 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=121&p=3&k=srregio&f=.m3u8
 https://vsd140.mycdn.me/hls/2192908880455.m3u8/sig/FRkS5IY8ytg/expires/1650105563922/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/5277553860167/video.m3u8?p
 
 #EXTINF:-1, GOLDEN
-https://vsd129.mycdn.me/hls/2297523210823.m3u8/sig/cd9uAn5CI9U/expires/1650105668470/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/5369704816199/video.m3u8?p
+https://vsd98.mycdn.me/hls/2297523210823.m3u8/sig/IqLqrP5iUhI/expires/1650707645336/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/5369704816199/video.m3u8?p
 
 #EXTINF:-1, GOLDEN EDGE
 https://vsd104.mycdn.me/hls/2412025612884.m3u8/sig/4OfuSrYJ_2g/expires/1650105967390/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/3629470981716/video.m3u8?p
@@ -512,7 +515,7 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cu8EKzi9QyA-ZG_4FEzI1d8QWyv
 https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 
 #EXTINF:-1, TL NOVELAS 
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuYEwGTgSt66BSU5fOd_goJ_4YX8U5gW5_rTduwdBw51G1vu1OK52VIzcOz5LATb2q45YDXidqWaIpcpxnQqCHQGeiIn7tERRwnBU48jZ2E6j81Sty8Dkr5Q_d4OoSfjoKVf1NEX9PiG2vBmCU50UlnJplSIcSdDa4opZwYvdYeqS0-adVY5pNK_bggCHbJHbkrGdO5cs6s6wZgAYBju3HWYT3kkF40ISrwKpkYb2fHA4HzgJLC7EUm3Y4xTmrWmDjo7V83hi7n1YdeciGQyGFFTWZtz6Gq75vV9VZfwOK_wceYWEXr2OkNy7uEwsmPbmkBJzc_1rj5jNJ0bdsxG_gp8km1o6dLzDTaRHE7IeolTiHpQt2t01ahwX3EgesrVIhLuoVCX4Bd9v6ttfIET3IVo69olJ2APgSOOofnEQ0zSYjvBDzHSUE5u9-OoS5bJdk86RPKr3hXETRJQx6hLAjQcw35s4CrFUjevazFe-gsxn5rSp5yBlzEsgWfbb4mGFmfaZS6ldQ9WdBJX10tz2flfU9y47YrSktCI6pRBtgu3Lb_k4C2QWpqEBgw3U5k0W-6cEV-rZKWnWVVo40ajTS0dd9zoSZwqUpcjnVjmwVd6kcFmk1jfQn_gL77T14OUNH0cnbwVLJ-Od42aAifyrFmtf39Y-CFmOff8RnL4byUcXegm2b7Yq7xHBsGhupdfnq045Ek0FBW-Kkp-O46SpVy9pv7ut3FsMy-eBH7zfep7_HRmPW7Q6FzV3bJPhyEsrIs7y1dz2OMgGqUkTwolBeusSIjaUP_U6jZfpyNPmIdVI5RO_wIKE7oaDNaeRv8Z5vs9VRfs3SABKglldS13ZXN0LTIwvgM.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CugEZivJkDZEisK3vqmSPCA6g3Q4-F2kb3IC41Z56ln2HtTEuFZ6ora17ufO_6tEqas-bZfov3NjZ3751kJY0rUeLUjIl6Kd_M-4Wih0KUQjyUge_WX81i8UQJ2QHgTdpJLPoFH1M8J3axznpGNT0nlzuyxHJsDVvheNVKq4EZwFmcy5l6s6XlJ2_tBv6Dghu4X-UAE_hrV4ApfoG8L1Up8fzzXuqjbwlbwh9eYlpwuOeoSMUy0-5O79HdJJRlYTU4miT5iqowUPtLGeYWkn8E01kxSphXLUjK0LyExnZVUV2ufY4X7Eq4NITSqXOaJ_jjtu_7NHX-eL1dFK6eoxiVEvtzo2t_3vnp_-pJe2USDbwVuUtNJT6nGNzfdZQd0OU0NCRuk48moYJA7K3t3Kvp3UAx_KhQnSILiiXViY7xo8SuvqqjchqZw_oSqzZLai8KRU6XpJ5nR2P-z-1vdZ32lamrkWzZqEMougWQ6gwOjEDhCuTatxdn1NfaQD4OunLnYteljawq8-HPkavK30fqmHGiasMyag-n2_OBcmrVjlRFkoVoRO_nfGegei9ITg2hp5lf-Te003Coj9x-TBMh8f5iSjcxZq4SvvndRB5x85YFvPM3mOkXjIR3TrV5dOQCHfkA2UfiQHoGo0I5myRZHaZgvGjNFs4HsRW6NXoKbwiMmySmPZv9lGQMd6Xwwta31dBxAAK4YsHOzKTtqikDPrqCzUSSpbFm7fh_Q2c-bdUDjcxRLjw6JGi-4ofeSFMlmgNMgqhsX1wXH9KMMxQtjsaJLuHg00zGS78gDXOmIvMzWe2YClalRWyxoMLUSWWHevXHRKRHKSIAEqCWV1LXdlc3QtMjDFAw.m3u8
 
 #EXTINF:-1, NOVELISIMA
 https://novelisima.akamaized.net:443/hls/live/2031534/novelisimaABR/2/streamPlaylist.m3u8
@@ -533,7 +536,7 @@ https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
 https://vsd130.mycdn.me/hls/2451913247443.m3u8/sig/pI2Fz899kqA/expires/1649922779245/srcIp/186.148.195.100/clientType/0/srcAg/CHROME_ANDROID/mid/3858319089363/video.m3u8?p
 
 #EXTINF:-1, Panamericana
-https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFpj8y3yOwOmMWUVhIqRhvmReVN6lgWSoAkRA0KpqY2KN)/dm/3/x774s7s/s/live-0.m3u8#cell=lnyc
 
 #EXTINF:-1, MEGA 
 https://marine2.miplay.cl/mega/playlist.m3u8?PlaylistM3UCL
@@ -561,6 +564,15 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
 #EXTINF:-1,CANAL el nueve
 https://edge5-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+
+#EXTINF:-1, BOLIVISION
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1, VENEVISION
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, CANAL i
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 
 
 *** CULTURALES ***
