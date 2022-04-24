@@ -596,7 +596,7 @@ http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
 https://edge5-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
  
 #EXTINF:-1, GARAGE TV 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=75&p=3&k=srregio&f=.m3u8  
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, DISCOVERY CHANNEL
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
