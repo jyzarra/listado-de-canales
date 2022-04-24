@@ -122,7 +122,7 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, APlus TV 
-https://stmv1.voxtvhd.com.br/aplustv/aplustv/playlist.m3u8
+https://stmv1.voxtvhd.com.br/aplustv/aplustv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg", Pequeradio TV 
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
@@ -155,8 +155,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_b
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Mi TV Clásica
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
-http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, RLOTV
 https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8?PlaylistM3UCL
@@ -355,8 +354,11 @@ https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w907452710.m3u8
 #EXTINF:-1, EVA RETRO
 https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, PLANETA TV
+https://live.obslivestream.com/planetatvmux/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1, PlanetaTV Movies
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, A3CINE 
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
@@ -573,6 +575,9 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, CANAL i
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+
+#EXTINF:-1, CATATUMBO TV
+http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8?PlaylistM3UCL
 
 
 *** CULTURALES ***
