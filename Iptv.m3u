@@ -497,6 +497,9 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=69&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, GLITZ
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=76&p=3&k=srregio&f=.m3u8 
 
+#EXTINF:-1, NET tv
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?PlaylistM3UCL
+
 #EXTINF:-1, GOURMET 
 https://edge5-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 
@@ -544,6 +547,9 @@ https://marine2.miplay.cl/mega/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, DAN TV
 https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/playlist.m3u8?DVR
+
+#EXTINF:-1, BAYRES tv
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, AMERICA TV
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
