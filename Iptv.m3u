@@ -169,6 +169,9 @@ https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL&PlaylistM3
 #EXTINF:-1, TOONS CLASICO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&PlaylistM3UCL
 
+#EXTINF:-1, SSIPTV CARTOONS
+ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&PlaylistM3UCL
+
 #EXTINF:-1,PLUTO TV NICK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&PlaylistM3UCL
 
@@ -437,6 +440,10 @@ https://edge3.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
 #EXTINF:-1,telefe
 https://edge5-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
+EXTINF:-1, CINEMA +
+https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w1660615056.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1, DE PELICULA 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=335&p=3&k=srregio&f=.m3u8
 
@@ -445,6 +452,9 @@ https://siloh-ns1.plutotv.net:443/lilo/production/Nuestravision/master_1.m3u8
 
 #EXTINF:-1, PARAMOUNT CHANNEL 
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+
+#EXTINF:-1, PARAMOUNT +
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true&PlaylistM3UCL
 
 #EXTINF:-1, AZ CINEMA 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1787&p=3&k=srregio&f=.m3u8
@@ -480,7 +490,7 @@ https://vkvsd53.mycdn.me/hls/2363124484761.m3u8/sig/V6JczsDf4vQ/srcIp/186.148.19
 https://edge5-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8
 
 #EXTINF:-1, HOLA TV 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=219&p=3&k=srregio&f=.m3u8 
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, COMEDY CENTRAL
 https://edge5-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
@@ -692,6 +702,17 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=223&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, VH1 
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=334&p=3&k=srregio&f=.m3u8 
+
+
+
+*** RELIGION***
+#EXTINF:-1, 3ABN LATINO
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/SQs/chunklist.m3u8?PlaylistM3UCL&PlaylistM3UCL&PlaylistM3UCL
+
+
+#EXTINF:-1, EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/640/chunklist.m3u8?PlaylistM3UCL
+
 
 
 *** NOTICIAS ***
