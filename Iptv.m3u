@@ -6,8 +6,14 @@
 #EXTINF:-1, TOONCAST
 https://vsd101.mycdn.me/hls/2425259625003.m3u8/sig/thCSlIUNlb0/expires/1650636852488/srcIp/186.148.192.86/clientType/0/srcAg/CHROME_ANDROID/mid/4123303681579/video.m3u8?p
 
+#EXTINF:-1, TOONCAST OPS3
+https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+
 #EXTINF:-1, TOONCAST OPS2
 https://edge5-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+
+#EXTINF:-1, TOONCAST OPS3
+https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 #EXTINF:-1, BOING
 https://live.mitele.es:443/hls/live/2005334/boing/bitrate_3.m3u8
