@@ -855,7 +855,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
 
 #EXTINF:-1, HUSTLER
-http://50.7.120.165:8081/10/index.m3u8?wmsAuthSign=1649946178p64i92i421i091Sbf82d6395258cd74bdfc144e086ed109
+http://50.7.222.90:8081/hustlerhd/index.m3u8?wmsAuthSign=6b06964c914e03147f5ee76652899157-1651162208-76i932i79i091
 
 #EXTINF:-1, SEXTREME
 https://edge3.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
