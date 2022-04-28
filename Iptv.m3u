@@ -284,6 +284,9 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1, Extrema TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w144719746.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png", Teleuno
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
@@ -664,6 +667,9 @@ http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=99&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, DISCOVERY WORLD
 https://edge5-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
+
+#EXTINF:-1, mundo +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, TVE
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=198&p=3&k=srregio&f=.m3u8 
