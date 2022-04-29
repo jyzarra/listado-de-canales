@@ -18,6 +18,12 @@ https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u
 #EXTINF:-1, BOING
 https://live.mitele.es:443/hls/live/2005334/boing/bitrate_3.m3u8
 
+#EXTINF:-1, CHIQUILINES
+https://regioplay.xyz/php/SR_REGIO_224022_/distroregio.php?c=chiquilines&f=.m3u8
+
+#EXTINF:-1, CHIQUILINES OPS2
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/23af903c-6888-412b-9d51-37a70281ea49/5.m3u8
+
 #EXTINF:-1, Fox Kids 
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 
@@ -111,6 +117,9 @@ https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, LATINO KIDS
 https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w191003441.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, LATINO KIDS OPS2
+https://regioplay.xyz/php/SR_REGIO_224022_/latinokids.php?f=.m3u8
 
 #EXTINF:-1, DRAGON BALL Z SUPER
 https://vsd88.mycdn.me/hls/2328973216327.m3u8/sig/d759Zx-DJ50/expires/1650691291793/srcIp/190.124.29.46/clientType/0/srcAg/CHROME_ANDROID/mid/5397485461063/video.m3u8?p
