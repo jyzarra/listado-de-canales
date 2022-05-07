@@ -359,6 +359,9 @@ https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-avc1_
 #EXTINF:-1, HBO OPS3
 https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
+#EXTINF:-1, HBO OPS4
+https://edge6-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+
 #EXTINF:-1, HBO2 
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
