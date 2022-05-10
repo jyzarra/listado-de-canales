@@ -353,8 +353,8 @@ https://marine2.miplay.cl/chilevision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 #EXTINF:-1, HBO
 https://edge1-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
-#EXTINF:-1, 
-
+#EXTINF:-1,HBO OPS2
+https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
 #EXTINF:-1,
 
