@@ -9,8 +9,8 @@ https://edge1-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 #EXTINF:-1, caroon net
 http://tv.teleclub.xyz/live/ABRIL_01/CARTOON/index.m3u8
 
-#EXTINF:-1,
-
+#EXTINF:-1,tnt
+http://tv.teleclub.xyz/live/ABRIL_02/TNT/index.m3u8
 
 #EXTINF:-1, 
 
