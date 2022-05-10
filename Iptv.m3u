@@ -4,16 +4,16 @@
 *** INFANTILES ***
 
 #EXTINF:-1, TOONCAST
-https://vsd101.mycdn.me/hls/2425259625003.m3u8/sig/thCSlIUNlb0/expires/1650636852488/srcIp/186.148.192.86/clientType/0/srcAg/CHROME_ANDROID/mid/4123303681579/video.m3u8?p
+https://edge1-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
-#EXTINF:-1, TOONCAST OPS3
-https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+#EXTINF:-1,
 
-#EXTINF:-1, TOONCAST OPS2
-https://edge5-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
-#EXTINF:-1, TOONCAST OPS3
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+#EXTINF:-1,
+
+
+#EXTINF:-1, 
+
 
 #EXTINF:-1, BOING
 https://live.mitele.es:443/hls/live/2005334/boing/bitrate_3.m3u8
@@ -28,10 +28,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, DISCOVERY KIDS
-https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+https://edge1-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
-#EXTINF:-1, DISCOVERY KIDS OPS2
-https://edge1-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids-avc1_3000000=10004.m3u8
+#EXTINF:-1, NICK
+https://edge3.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u8
 
 #EXTINF:-1, NICK
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
@@ -351,19 +351,19 @@ http://unlimited1-cl-vtr.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 https://marine2.miplay.cl/chilevision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, HBO
-https://cdn.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+https://edge1-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
-#EXTINF:-1, HBO OPS2
-https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-avc1_678000=10000.m3u8
+#EXTINF:-1, 
 
-#EXTINF:-1, HBO OPS3
-https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
-#EXTINF:-1, HBO OPS4
-https://edge6-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
 
 #EXTINF:-1, HBO2 
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+https://edge1-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
 #EXTINF:-1, HBO PLUS
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
