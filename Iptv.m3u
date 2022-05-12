@@ -7,6 +7,12 @@ http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-1.m3u
 #EXTINF:-1, ANIMAL PLANET
 http://e10.telerium.link:2052/free10/001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDIyIDExOjAyOjI4IEFNJmhhc2hfdmFsdWU9K3NsbWVuVmR5bHlRR0s3SytBMml4Zz09JnZhbGlkbWludXRlcz01JmlkPWE0Y2UyYWI0NWFhNGZmY2Y=
 
+#EXTINF:-1, ANIMAL PLANET OPS2
+http://e10.telerium.link:2052/free10/001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDIyIDExOjI5OjAwIEFNJmhhc2hfdmFsdWU9YWl0Ky9uaW84WGZzUFZ4NlhRSmtLdz09JnZhbGlkbWludXRlcz01JmlkPWE0Y2UyYWI0NWFhNGZmY2Y=
+
+#EXTINF:-1, ANIMAL PLANET OPS3
+http://e10.telerium.link:2052/free10/001/chunks.m3u8?nimblesessionid=5115390&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDIyIDExOjI5OjAwIEFNJmhhc2hfdmFsdWU9YWl0Ky9uaW84WGZzUFZ4NlhRSmtLdz09JnZhbGlkbWludXRlcz01JmlkPWE0Y2UyYWI0NWFhNGZmY2Y=
+
 #EXTINF:-1, TELEMUNDO I
 http://e10.telerium.link:2052/free10/050/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDIyIDY6NDQ6MjEgQU0maGFzaF92YWx1ZT1QZUJvazl1KzFkTEs1VldDNTJqZ3ZnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
