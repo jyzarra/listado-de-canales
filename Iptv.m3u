@@ -3,8 +3,16 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OnGzgua.png" group-title="Cien/cult&Biograf", 23132131241_Animal Planet
 http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-1.m3u
 
+
+#EXTINF:-1, ANIMAL PLANET
+http://e10.telerium.link:2052/free10/001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDIyIDExOjAyOjI4IEFNJmhhc2hfdmFsdWU9K3NsbWVuVmR5bHlRR0s3SytBMml4Zz09JnZhbGlkbWludXRlcz01JmlkPWE0Y2UyYWI0NWFhNGZmY2Y=
+
 #EXTINF:-1, TELEMUNDO I
 http://e10.telerium.link:2052/free10/050/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDIyIDY6NDQ6MjEgQU0maGFzaF92YWx1ZT1QZUJvazl1KzFkTEs1VldDNTJqZ3ZnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1, CINE LATINO
+http://e10.telerium.link:2052/free10/175/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDIyIDEwOjU4OjE5IEFNJmhhc2hfdmFsdWU9TTBrdHZjTzFiTVdaa2xjS3psOVBrZz09JnZhbGlkbWludXRlcz01JmlkPWE0Y2UyYWI0NWFhNGZmY2Y=
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DPNJkyaU8AACOlU.png" group-title="Entretenimiento", 23132131242_A+
 http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-2.m3u
