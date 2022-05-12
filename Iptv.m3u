@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OnGzgua.png" group-title="Cien/cult&Biograf", 23132131241_Animal Planet
 http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-1.m3u
+
+#EXTINF:-1 TELEMUNDO I
+http://e10.telerium.link:2052/free10/050/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDIyIDY6NDQ6MjEgQU0maGFzaF92YWx1ZT1QZUJvazl1KzFkTEs1VldDNTJqZ3ZnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DPNJkyaU8AACOlU.png" group-title="Entretenimiento", 23132131242_A+
 http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-2.m3u
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kfD0CCHYLgk/WzC_zZa573I/AAAAAAAAGMo/WfOkH868ZM0r-iwPnvU46aOT7lvBM-SAwCLcBGAs/s1600/Willax%2Btv%2Ben%2Bvivo.png" group-title="Entretenimiento", 23132131243_Willax
