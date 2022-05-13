@@ -1,28 +1,33 @@
 #EXTM3U
 
+
+#EXTINF:-1, FX
+http://190.83.119.67:8000/play/a0qa/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OnGzgua.png" group-title="Cien/cult&Biograf", 23132131241_Animal Planet
 http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-1.m3u
 
 
-#EXTINF:-1, ANIMAL PLANET
+#EXTINF:-1 ANIMAL PLANET
 http://e10.telerium.link:2052/free10/001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDIyIDExOjAyOjI4IEFNJmhhc2hfdmFsdWU9K3NsbWVuVmR5bHlRR0s3SytBMml4Zz09JnZhbGlkbWludXRlcz01JmlkPWE0Y2UyYWI0NWFhNGZmY2Y=
 
-#EXTINF:-1, ANIMAL PLANET OPS2
+#EXTINF:-1 ANIMAL PLANET OPS2
 http://e10.telerium.link:2052/free10/001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDIyIDExOjI5OjAwIEFNJmhhc2hfdmFsdWU9YWl0Ky9uaW84WGZzUFZ4NlhRSmtLdz09JnZhbGlkbWludXRlcz01JmlkPWE0Y2UyYWI0NWFhNGZmY2Y=
 
-#EXTINF:-1,hbo
+#EXTINF:-1 hbo
 https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
-#EXTINF:-1, TELEMUNDO I
+#EXTINF:-1 TELEMUNDO I
 http://e10.telerium.link:2052/free10/050/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDIyIDY6NDQ6MjEgQU0maGFzaF92YWx1ZT1QZUJvazl1KzFkTEs1VldDNTJqZ3ZnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
-#EXTINF:-1, CINE LATINO
+#EXTINF:-1 CINE LATINO
 http://e10.telerium.link:2052/free10/175/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDIyIDEwOjU4OjE5IEFNJmhhc2hfdmFsdWU9TTBrdHZjTzFiTVdaa2xjS3psOVBrZz09JnZhbGlkbWludXRlcz01JmlkPWE0Y2UyYWI0NWFhNGZmY2Y=
 
-#EXTINF:-1, CINE LATINO ops2
+#EXTINF:-1 CINE LATINO ops2
 http://e10.telerium.link:2052/free10/175/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDIyIDExOjIwOjUzIEFNJmhhc2hfdmFsdWU9clJDWWdKUEZXV0puUXRPRDAyY2ZaQT09JnZhbGlkbWludXRlcz01JmlkPWE0Y2UyYWI0NWFhNGZmY2Y=
 
-#EXTINF:-1, CINE LATINO OPS3
+#EXTINF:-1 CINE LATINO OPS3
 http://e10.telerium.link:2052/free10/175/chunks.m3u8?nimblesessionid=5115217&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDIyIDExOjIwOjUzIEFNJmhhc2hfdmFsdWU9clJDWWdKUEZXV0puUXRPRDAyY2ZaQT09JnZhbGlkbWludXRlcz01JmlkPWE0Y2UyYWI0NWFhNGZmY2Y=
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DPNJkyaU8AACOlU.png" group-title="Entretenimiento", 23132131242_A+
