@@ -1,6 +1,50 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png", Aniplus
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/21292151846695a1a7dff79bad326e50.png", EnerGeek
+https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/0a827a2aa3eb974cf2e999e0139f6d0f.png", Energeek Radio
+https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png", RCKTV
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/34feb14ad3ee6a17a160ab0635915bf0.png", CSTV
+https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png", Chavo TV
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Music
+https://tls-cl.cdnz.cl/planetatv1/ngrp:live_all//playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Movies
+https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png", Kids90
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/274ff2c35f3c15674e5e8c580baec385.png", Cloud Server Kids
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/3a66236cd4d5f46b440f80ccc87129f1.png", Exprezion TV
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega
+https://marine2.miplay.cl/mega/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png", CHV
+https://marine2.miplay.cl/chilevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/129d176f2117a7985aefe938703c34a5.png", Ziza TV
+https://v2.tustreaming.cl/zizatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-k3Xfmd6KcLo/YL98wEjWBnI/AAAAAAABCzo/6deLMFJ6YUElLm3DMqccKFmz8nyzWoRPQCJEEGAsYHg/s512/2021-06-08.png", RLOTV
+https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", EvaVisión
+https://stmv2.voxtvhd.com.br/puertonatales/puertonatales/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png", Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV
