@@ -2,10 +2,10 @@
 
 
 
-#EXTINF:'1. distrito comedia
-http://e10.telerium.link:2052/free10/073/chunks.m3u8?nimblesessionid=6050370&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIyIDc6Mjk6NDkgQU0maGFzaF92YWx1ZT04WHpGVWxhSW1FS2pmVU5IVmU3QXFnPT0mdmFsaWRtaW51dGVzPTUmaWQ9YTRjZTJhYjQ1YWE0ZmZjZg==
+#EXTINF:1,distrito comedia
+http://e10.telerium.link:2052/free10/073/chunks.m3u8
 #EXTINF:-1,BITME
-http://e10.telerium.link:2052/free10/063/chunks.m3u8?nimblesessionid=6050222&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIyIDc6MjM6NDYgQU0maGFzaF92YWx1ZT1Md2F6cWRNSDVvclRWZ0Q0a0wzaGpRPT0mdmFsaWRtaW51dGVzPTUmaWQ9YTRjZTJhYjQ1YWE0ZmZjZg==
+http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
 #EXTINF:-1,cinemax
 https://edge2-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 #EXTINF:-1,canal de las estrellas
