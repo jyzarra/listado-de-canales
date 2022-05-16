@@ -1,9 +1,14 @@
 #EXTM3U
 
 
-
-
-
+#EXTINF:-1,BITME
+http://e10.telerium.link:2052/free10/063/chunks.m3u8?nimblesessionid=6050222&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIyIDc6MjM6NDYgQU0maGFzaF92YWx1ZT1Md2F6cWRNSDVvclRWZ0Q0a0wzaGpRPT0mdmFsaWRtaW51dGVzPTUmaWQ9YTRjZTJhYjQ1YWE0ZmZjZg==
+#EXTINF:-1,cinemax
+https://edge2-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+#EXTINF:-1,canal de las estrellas
+https://edge2-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+#EXTINF:-1,canal de las estrellas
+https://edge3.prepro.cvattv.com.ar/live/live/Canal_de_las_estrellas/SA_Live_WebVTT_FTA/Canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png", Dreiko TV
@@ -138,6 +143,8 @@ http://190.83.119.67:8000/play/a0v6/index.m3u8
 http://190.83.119.67:8000/play/a0qt/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0op.png",CARTOON NT HD
 http://190.83.119.67:8000/play/a0op/index.m3u8
+#EXTINF:-1, cartoon network
+https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pc.png",CCN
 http://190.83.119.67:8000/play/a0pc/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qq.png",CDN2- RD
@@ -196,6 +203,8 @@ http://190.83.119.67:8000/play/a0np/index.m3u8
 http://190.83.119.67:8000/play/a0p8/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pa.png",Cartoonito
 http://190.83.119.67:8000/play/a0pa/index.m3u8
+#EXTINF:-1,cartoonito ops2
+https://edge1.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tl.png",Cine Latino
 http://190.83.119.67:8000/play/a0tl/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sh.png",Claro Cinema
@@ -366,6 +375,12 @@ http://190.83.119.67:8000/play/a0t9/index.m3u8
 http://190.83.119.67:8000/play/a0td/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ow.png",Playboy
 http://190.83.119.67:8000/play/a0ow/index.m3u8
+#EXTINF:-1,playboy ops2
+https://edge2-hr.cvattv.com.ar/live/c6eds/Playboy/SA_SAGEMCOM/Playboy.m3u8
+#EXTINF:-1,playboy ops3
+https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
+#EXTINF:-1,playboy ops4
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nq.png",RCN - GUA
 http://190.83.119.67:8000/play/a0nq/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r5.png",RCN Novelas
