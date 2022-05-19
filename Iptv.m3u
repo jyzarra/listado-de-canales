@@ -5,6 +5,30 @@
 #EXTINF:-1, extrema tv
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w218062429.m3u8
 
+#EXTINF:-1, EXTREMA TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1, EXTREMA TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w79084307.m3u8
+#EXTINF:-1, EXTREMA TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w731353764.m3u8
+#EXTINF:-1, EXTREMA TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w855153420.m3u8
+#EXTINF:-1, EXTREMA TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1, EXTREMA TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1880112590.m3u8
+#EXTINF:-1, EXTREMA TV
+
+#EXTINF:-1, EXTREMA TV
+
+#EXTINF:-1, EXTREMA TV
+
+#EXTINF:-1, EXTREMA TV
+
+#EXTINF:-1, EXTREMA TV
+
+
 #EXTINF:-1,BITME
 http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
 #EXTINF:-1,cinemax
@@ -41,10 +65,20 @@ https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Music
 https://tls-cl.cdnz.cl/planetatv1/ngrp:live_all//playlist.m3u8
+#EXTINF:-1,PLANETA TV MUSIC OPS2
+https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w1013592556_b2820000.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Movies
 https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+#EXTINF:-1,Viwix TV Music
+https://cloudvideo.servers10.com:8081/8210/index.m3u8
+#EXTINF:-1,ViwiX TV TERROR
+https://cloudvideo.servers10.com:8081/8206/index.m3u8
+#EXTINF:-1,ViWix Tv SERIES
+https://cloudvideo.servers10.com:8081/8208/index.m3u8
+EXTINF:-1,ViWiX TV ACCION
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png", Kids90
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/274ff2c35f3c15674e5e8c580baec385.png", Cloud Server Kids
