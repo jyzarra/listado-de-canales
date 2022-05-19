@@ -32,11 +32,11 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1880112590.m3u8
 #EXTINF:-1,BITME
 http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
 #EXTINF:-1,cinemax
-https://edge2-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+
 #EXTINF:-1,canal de las estrellas
-https://edge2-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
-#EXTINF:-1,canal de las estrellas
-https://edge3.prepro.cvattv.com.ar/live/live/Canal_de_las_estrellas/SA_Live_WebVTT_FTA/Canal_de_las_estrellas.m3u8
+
+#EXTINF:-1, CDM INTERNACIONAL
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w152721132.m3u8
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png", Dreiko TV
