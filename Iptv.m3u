@@ -67,6 +67,8 @@ https://tls-cl.cdnz.cl/planetatv1/ngrp:live_all//playlist.m3u8
 https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w1013592556_b2820000.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Movies
 https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
+#EXTINF:-1, PLANETA KIDS
+https://mediacpstreamchile.com:1936/8152/8152/chunklist_w350987082.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 #EXTINF:-1,Viwix TV Music
