@@ -3,21 +3,20 @@
 
 
 #EXTINF:-1, extrema tv
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w218062429.m3u8
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1, EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1105417756.m3u8
 
 #EXTINF:-1, EXTREMA TV
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1383567496.m3u8
+#EXTINF:-1, EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1231416640.m3u8
+#EXTINF:-1, EXTREMA TV
 
 #EXTINF:-1, EXTREMA TV
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w79084307.m3u8
+
 #EXTINF:-1, EXTREMA TV
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w731353764.m3u8
-#EXTINF:-1, EXTREMA TV
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w855153420.m3u8
-#EXTINF:-1, EXTREMA TV
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1, EXTREMA TV
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1880112590.m3u8
+
 #EXTINF:-1, EXTREMA TV
 
 #EXTINF:-1,
@@ -26,8 +25,8 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1880112590.m3u8
 
 #EXTINF:-1, EXTREMA TV
 
-#EXTINF:-1, EXTREMA TV
-
+#EXTINF:-1,TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
 
 #EXTINF:-1,BITME
 http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
