@@ -2,15 +2,15 @@
 
 
 
-#EXTINF:-1, extrema tv
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1, EXTREMA TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1105417756.m3u8
+#EXTINF:-1,
 
-#EXTINF:-1, EXTREMA TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1383567496.m3u8
-#EXTINF:-1, EXTREMA TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1231416640.m3u8
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+#EXTINF:-1, 
+
 #EXTINF:-1, EXTREMA TV
 http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10460.m3u8
 #EXTINF:-1,Dragon Ball TV
@@ -23,7 +23,7 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1,KidsFlix
 https://stream.ads.ottera.tv/cl/3f6bdb3c-346c-451b-8068-e24ecd650cad/1280x720_2300000_4_false.m3u8
-#EXTINF:-1, EXTREMA TV
+#EXTINF:-1,
 
 #EXTINF:-1,TELERITMO
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
@@ -32,7 +32,7 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tec
 http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
 #EXTINF:-1,cinemax
 http://190.61.37.173:9010/play/a052/index.m3u8
-#EXTINF:-1,canal de las estrellas
+#EXTINF:-1,
 
 #EXTINF:-1, CDM INTERNACIONAL
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w152721132.m3u8
@@ -62,9 +62,9 @@ https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png", Chavo TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Music
-https://tls-cl.cdnz.cl/planetatv1/ngrp:live_all//playlist.m3u8
-#EXTINF:-1,PLANETA TV MUSIC OPS2
+#EXTINF:-1, 
+
+#EXTINF:-1,PLANETA TV MUSIC 
 https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w1013592556_b2820000.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Movies
 https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
