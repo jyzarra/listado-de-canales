@@ -17,6 +17,8 @@ http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10460.m3u8
 http://138.36.253.12:8009/play/a00v/index.m3u8
 #EXTINF:-1,GLITZ
 http://138.36.253.12:8009/play/a018/index.m3u8
+#EXTINF:-1, glitz
+https://138.36.253.12:8009/play/a018/index.m3u8
 #EXTINF:-1,HBTV
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1,TeleSUR
