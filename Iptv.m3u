@@ -448,6 +448,8 @@ http://190.83.119.67:8000/play/a0ph/index.m3u8
 http://190.61.37.173:9010/play/a05e/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0si.png",STAR CHANNEL HD
 http://190.83.119.67:8000/play/a0si/index.m3u8
+#EXTINF:-1, STAR LIFE
+http://190.61.37.173:9010/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rm.png",Sembrador
 http://190.83.119.67:8000/play/a0rm/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qc.png",Sony Movies HD
@@ -554,7 +556,16 @@ http://190.61.37.173:9010/play/a04z/index.m3u8
 http://190.61.37.173:9010/play/a05z/index.m3u8
 #EXTINF:-1,SINPRODOH TV
 http://190.61.37.173:9010/play/a05u/index.m3u8
+#EXTINF:-1, SUYAPA TV
+http://190.61.37.173:9010/play/a09e/index.m3u8
 #
 
-#
+
+
+
+
+
+
+
+
 
