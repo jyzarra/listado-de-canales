@@ -558,8 +558,8 @@ http://190.61.37.173:9010/play/a05z/index.m3u8
 http://190.61.37.173:9010/play/a05u/index.m3u8
 #EXTINF:-1, SUYAPA TV
 http://190.61.37.173:9010/play/a09e/index.m3u8
-#
-
+#EXTINF:-1, TNH8
+http://190.61.37.173:9010/play/a09i/index.m3u8
 
 
 
