@@ -17,8 +17,8 @@ http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10460.m3u8
 http://138.36.253.12:8009/play/a00v/index.m3u8
 #EXTINF:-1,GLITZ
 http://138.36.253.12:8009/play/a018/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,Inter TV
+http://138.36.253.12:8009/play/a015/index.m3u8
 #EXTINF:-1,HBTV
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1,TeleSUR
@@ -63,8 +63,8 @@ https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png", Chavo TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
-#EXTINF:-1, 
-
+#EXTINF:-1,KPOP
+http://138.36.253.12:8009/play/a007/index.m3u8
 #EXTINF:-1,PLANETA TV MUSIC 
 https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w1013592556_b2820000.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Movies
