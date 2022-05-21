@@ -410,6 +410,8 @@ http://190.61.37.173:9010/play/a03g/index.m3u8
 http://190.83.119.67:8000/play/a0p9/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0so.png",Nick SIM HD
 http://190.83.119.67:8000/play/a0so/index.m3u8
+#EXTINF:-1, NicKelodeon
+http://190.61.37.173:9010/play/a04o/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o4.png",PXTV
 http://190.83.119.67:8000/play/a0o4/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ol.png",Paramount
