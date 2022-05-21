@@ -2,15 +2,22 @@
 
 
 
-#EXTINF:-1,
-
-#EXTINF:-1,
 
 
-#EXTINF:-1,
-
-#EXTINF:-1, 
-
+#EXTINF:-1,MXclassic
+http://138.36.253.12:8009/play/a00a/index.m3u8
+#EXTINF:-1,MXfamily
+http://138.36.253.12:8009/play/a00b/index.m3u8
+#EXTINF:-1,MXprime
+http://138.36.253.12:8009/play/a01n/index.m3u8
+#EXTINF:-1,mundo y sabor
+http://138.36.253.12:8009/play/a009/index.m3u8
+#EXTINF:-1,Ladies
+http://138.36.253.12:8009/play/a008/index.m3u8
+#EXTINF:-1,KARAVANA TV
+http://138.36.253.12:8009/play/a006/index.m3u8
+#EXTINF:-1,KARAVANA URBANO
+http://138.36.253.12:8009/play/a005/index.m3u8
 #EXTINF:-1, EXTREMA TV
 http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10460.m3u8
 #EXTINF:-1,Dragon Ball TV
