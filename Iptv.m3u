@@ -23,8 +23,8 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1,KidsFlix
 https://stream.ads.ottera.tv/cl/3f6bdb3c-346c-451b-8068-e24ecd650cad/1280x720_2300000_4_false.m3u8
-#EXTINF:-1,AMC
-http://190.61.37.173:9010/play/a02x/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,TELERITMO
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
 
