@@ -458,6 +458,8 @@ http://190.83.119.67:8000/play/a0qc/index.m3u8
 http://190.83.119.67:8000/play/a0qf/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q2.png",Studio Universal HD
 http://190.83.119.67:8000/play/a0q2/index.m3u8
+#EXTINF:-1, Universal Channel
+http://190.61.37.173:9010/play/a04y/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r9.png",Sun Channel
 http://190.83.119.67:8000/play/a0r9/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s9.png",SyFy
