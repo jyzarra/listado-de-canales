@@ -10,6 +10,10 @@ http://138.36.253.12:8009/play/a00a/index.m3u8
 http://138.36.253.12:8009/play/a00b/index.m3u8
 #EXTINF:-1,MXprime
 http://138.36.253.12:8009/play/a01n/index.m3u8
+#EXTINF:-1,MXOLD
+http://138.36.253.12:8009/play/a00d/index.m3u8
+#EXTINF:-1,OLDMusic
+http://138.36.253.12:8009/play/a00e/index.m3u8
 #EXTINF:-1,mundo y sabor
 http://138.36.253.12:8009/play/a009/index.m3u8
 #EXTINF:-1,Ladies
@@ -578,9 +582,9 @@ http://138.36.253.12:8009/play/a002/index.m3u8
 http://138.36.253.12:8009/play/a017/index.m3u8
 #EXTINF:-1, Fitmaxx
 http://138.36.253.12:8009/play/a004/index.m3u8
+#EXTINF:-1,
 
-
-
+#EXTINF:-1,
 
 
 
