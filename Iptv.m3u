@@ -602,8 +602,8 @@ http://138.36.253.12:8009/play/a00n/index.m3u8
 http://138.36.253.12:8009/play/a00j/index.m3u8
 #EXTINF:-1,ZoonBack
 http://138.36.253.12:8009/play/a00l/index.m3u8
-
-
+#EXTINF:-1,AMERICA TV 
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
 
