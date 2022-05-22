@@ -596,8 +596,8 @@ http://138.36.253.12:8009/play/a00f/index.m3u8
 http://138.36.253.12:8009/play/a00g/index.m3u8
 #EXTINF:-1,TNE
 http://138.36.253.12:8009/play/a00i/index.m3u8
-
-
+#EXTINF:-1,TVN
+http://138.36.253.12:8009/play/a00n/index.m3u8
 
 
 
