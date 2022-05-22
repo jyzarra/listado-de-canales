@@ -598,6 +598,11 @@ http://138.36.253.12:8009/play/a00g/index.m3u8
 http://138.36.253.12:8009/play/a00i/index.m3u8
 #EXTINF:-1,TVN
 http://138.36.253.12:8009/play/a00n/index.m3u8
+#EXTINF:-1,Tour Channel
+http://138.36.253.12:8009/play/a00j/index.m3u8
+#EXTINF:-1,ZoonBack
+http://138.36.253.12:8009/play/a00l/index.m3u8
+
 
 
 
