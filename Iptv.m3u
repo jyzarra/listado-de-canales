@@ -33,6 +33,12 @@ http://138.36.253.12:8009/play/a006/index.m3u8
 #EXTINF:-1,KARAVANA URBANO
 http://138.36.253.12:8009/play/a005/index.m3u8
 #EXTINF:-1, EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,EXTREMA TV
+
+#EXTINF:-1,Extrema tv 
+
+
 http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10460.m3u8
 #EXTINF:-1,Dragon Ball TV
 http://138.36.253.12:8009/play/a00v/index.m3u8
