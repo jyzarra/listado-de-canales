@@ -52,6 +52,8 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tec
 http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
 #EXTINF:-1,cinemax
 http://190.61.37.173:9010/play/a052/index.m3u8
+#EXTINF:-1,CINEMAX HD
+https://edge1.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
 #EXTINF:-1,DosKids
 http://138.36.253.12:8009/play/a003/index.m3u8
 #EXTINF:-1, CDM INTERNACIONAL
