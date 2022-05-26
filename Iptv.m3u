@@ -2,8 +2,10 @@
 
 
 
-
-
+#EXTINF:-1, CANAL DE LAS ESTRELLAS
+https://edge1.prepro.cvattv.com.ar/live/live/Canal_de_las_estrellas/SA_Live_WebVTT_FTA/Canal_de_las_estrellas.m3u8
+#EXTINF:-1,CARACOL TELEVISION
+https://vkvsd41.mycdn.me:443/hls/2631086967475.m3u8/sig/QnfSjN8hDfg/srcIp/190.97.239.69/expires/1654005704317/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3773015075763/id/2631086967475/2631086967475_high/index.m3u8
 #EXTINF:-1,animeTV
 https://stmv1.srvif.com:443/animetv/animetv/chunklist_w1642444041.m3u8
 #EXTINF:-1,Retro Cartoon
