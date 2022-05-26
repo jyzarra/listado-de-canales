@@ -458,6 +458,8 @@ http://190.83.119.67:8000/play/a0t9/index.m3u8
 http://190.83.119.67:8000/play/a0td/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ow.png",Playboy
 http://190.83.119.67:8000/play/a0ow/index.m3u8
+#EXTINF:-1, PLAYBOY HD
+https://edge1.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
 #EXTINF:-1,discovery science
 http://190.61.37.173:9010/play/a01j/index.m3u8
 #EXTINF:-1,discovery turbo
