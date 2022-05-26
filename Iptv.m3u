@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1,panamericana
-https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1,tvg-logo = «http://i64.tinypic.com/29f8c9h.jpg», Golden Edge
+http://latino-webtv.ml/7878/484.m3u8
+
 
 #EXTINF:-1, CANAL DE LAS ESTRELLAS
 https://edge1.prepro.cvattv.com.ar/live/live/Canal_de_las_estrellas/SA_Live_WebVTT_FTA/Canal_de_las_estrellas.m3u8
