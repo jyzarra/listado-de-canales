@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,MEGA
-http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+#EXTINF:-1,
+
 
 #EXTINF:-1, CANAL DE LAS ESTRELLAS
 https://edge1.prepro.cvattv.com.ar/live/live/Canal_de_las_estrellas/SA_Live_WebVTT_FTA/Canal_de_las_estrellas.m3u8
