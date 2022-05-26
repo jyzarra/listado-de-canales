@@ -556,6 +556,8 @@ http://190.83.119.67:8000/play/a0of/index.m3u8
 http://190.83.119.67:8000/play/a0sn/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s3.png",Tooncast
 http://190.83.119.67:8000/play/a0s3/index.m3u8
+#EXTINF:-1,TOONCAST
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pe.png",Tru TV
 http://190.83.119.67:8000/play/a0pe/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0om.png",UNIVERSAL CINEMA
