@@ -584,6 +584,8 @@ http://190.83.119.67:8000/play/a0v0/index.m3u8
 http://190.83.119.67:8000/play/a0rn/index.m3u8
 #EXTINF:-1,VENUS HD
 https://edge1.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
+#EXTINF:-1,SEXTREME HD
+https://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r1.png",VTV Canal 35 ESA
 http://190.83.119.67:8000/play/a0r1/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tk.png",WARNER HD
