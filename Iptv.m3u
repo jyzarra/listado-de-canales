@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,glit
 
+
+
+#EXTINF:-1,KIDS CENTRAL
+https://simultv.s.llnwi.net:443/o058/KidCentral/KidCentral/interlink_3200.m3u8
 #EXTINF:-1, CANAL DE LAS ESTRELLAS
 https://edge1.prepro.cvattv.com.ar/live/live/Canal_de_las_estrellas/SA_Live_WebVTT_FTA/Canal_de_las_estrellas.m3u8
 #EXTINF:-1,CARACOL TELEVISION
