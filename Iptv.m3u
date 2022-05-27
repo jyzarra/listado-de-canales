@@ -5,7 +5,8 @@
 
 
 
-
+#EXTINF:-1,Sarapiqui TV
+https://tiquiciatv.duckdns.org/hls/livestv.m3u8
 #EXTINF:-1,RetroCruh TV
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/b5860709-8f63-40cf-a5f2-2cda3294e24b/5.m3u8
 #EXTINF:-1,Rakuten TV Accion Movies
