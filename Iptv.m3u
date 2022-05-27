@@ -4,7 +4,8 @@
 
 
 
-
+#EXTINF:-1,VALLEVISION
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w110658420.m3u8
 #EXTINF:-1,Sarapiqui TV
 https://tiquiciatv.duckdns.org/hls/livestv.m3u8
 #EXTINF:-1,RetroCruh TV
