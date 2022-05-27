@@ -14,11 +14,11 @@ https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv:443/3000.m3u8
 #EXTINF:-1,Rakuten TV Comedy Movies
 https://rakuten-comedymovies-2-eu.rakuten.wurl.tv:443/3000.m3u8
-EXTINF:-1, Rakuten TV Top Free
+#EXTINF:-1, Rakuten TV Top Free
 https://rakuten-topfree-2-eu.rakuten.wurl.tv:443/3000.m3u8
-EXTINF:-1, Rakuten TV Spotlight
+#EXTINF:-1, Rakuten TV Spotlight
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv:443/3000.m3u8
-EXTINF:-1, Rakuten TV Shows
+#EXTINF:-1, Rakuten TV Shows
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv:443/3000.m3u8
 #EXTINF:-1,Pequeradio 
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
