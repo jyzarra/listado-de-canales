@@ -8,12 +8,14 @@
 
 
 
-#EXTINF:-1,Cinema Dinamita
-http://181.115.72.65:8099/play/a035/index.m3u8
 
 
-#EXTINF:-1,Movies Club
-http://190.108.93.62:8000/play/a002/index.m3u8
+
+
+
+#EXTINF:-1, Runtime Latino
+https://runtime-espanol-roku.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1,My Cinema Asia
 http://210.210.155.35/uq2663/h/h193/index.m3u8
