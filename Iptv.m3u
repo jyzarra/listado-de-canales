@@ -3,7 +3,8 @@
 
 
 
-
+#EXTINF:-1, Global Got Talent
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
 #EXTINF:-1,VALLEVISION
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w110658420.m3u8
 #EXTINF:-1,Sarapiqui TV
