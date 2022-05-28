@@ -1,8 +1,10 @@
 #EXTM3U
 
 
-
-
+#EXTINF:-1,My Cinema Asia
+http://210.210.155.35/uq2663/h/h193/index.m3u8
+#EXTINF:-1, LATINO KIDS
+https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w2082715386.m3u8
 #EXTINF:-1, Global Got Talent
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
 #EXTINF:-1,VALLEVISION
