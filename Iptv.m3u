@@ -11,7 +11,10 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega HD
+https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id="101462" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg", Mi TV Televisión Clásica
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Panamericana op2
 https://cdnhd.iblups.com/hls/ptv2.m3u8
