@@ -2,7 +2,8 @@
 
 
 
-#EXTINF:-1, 
+#EXTINF:-1, mundo+TV
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1369368827.m3u8
 #EXTINF:-1, WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w2074580381.m3u8
 #EXTINF:-1, Chiquilines
