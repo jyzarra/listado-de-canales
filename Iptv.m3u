@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega HD
+https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?xtreamiptv.m3u8
 #EXTINF:-1, mundo+TV
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1369368827.m3u8
 #EXTINF:-1, WOW
