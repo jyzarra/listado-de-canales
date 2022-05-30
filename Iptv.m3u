@@ -8,7 +8,9 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1369368827.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w2074580381.m3u8
 #EXTINF:-1, Chiquilines
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
-#EXTINF:-1,
+#EXTINF:-1 ,Telecanal
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+
 #EXTINF:-1,My Cinema Asia
 http://210.210.155.35/uq2663/h/h193/index.m3u8
 #EXTINF:-1, LATINO KIDS
