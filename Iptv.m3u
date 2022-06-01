@@ -1,5 +1,13 @@
 #EXTM3U
 
+
+
+
+
+#EXTINF:-1,The Film Zone HD
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/13/stream.m3u8
+#EXTINF:-1,SPACE HD OPS2
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1, EROX HD
 #EXTINF:-1, BLUE HUSTLER
 http://50.7.222.90:8081/bluehustler/index.m3u8?wmsAuthSign=8119823dd34ecb1296a756d312711405-1654095673-76i932i79i091
