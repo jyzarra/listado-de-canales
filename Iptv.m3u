@@ -2,18 +2,15 @@
 
 
 
-
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
-
-
-#EXTINF:-1 
-
-#EXTINF:-1, penthouse gold
+#EXTINF:-1, DORCEL TV HD
+http://50.7.222.90:8081/dorcel/index.m3u8?wmsAuthSign=133b24e53b9e2499122bd8be2854be31-1654095504-76i932i79i091
+#EXTINF:-1,visit X TV
+http://stream.visit-x.tv:80/vxtv/live/chunklist_w1068976249.m3u8
+#EXTINF:-1,vivid red HD
+http://50.7.222.90:8081/vivid_red/index.m3u8?wmsAuthSign=4d536cfe92db793012abb27c037cf37e-1654095029-76i932i79i091
+#EXTINF:-1,redlight HD
+http://50.7.222.90:8081/redlight/index.m3u8?wmsAuthSign=8738d88e64b65f96729534c7fd5450b7-1654094821-76i932i79i091
+#EXTINF:-1, penthouse gold HD
 http://50.7.222.90:8081/pent_gol/index.m3u8?wmsAuthSign=eaa194f41eeef64985d8f06d7144525d-1654094553-76i932i79i091
 #EXTINF:-1, WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w2074580381.m3u8
