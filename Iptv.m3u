@@ -4,17 +4,17 @@
 
 
 
-#EXTINF:-1,PELÍCULAS MANÍA
-http://lavozdetucuman.com/peliculas1.m3u8
-
-#EXTINF:-1,MI TV CINE
-http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+#EXTINF:-1,
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega HD
-https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?xtreamiptv.m3u8
-#EXTINF:-1, mundo+TV
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1369368827.m3u8
+#EXTINF:-1,
+
+
+
+#EXTINF:-1 
+
+#EXTINF:-1, penthouse gold
+http://50.7.222.90:8081/pent_gol/index.m3u8?wmsAuthSign=eaa194f41eeef64985d8f06d7144525d-1654094553-76i932i79i091
 #EXTINF:-1, WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w2074580381.m3u8
 #EXTINF:-1, Chiquilines
