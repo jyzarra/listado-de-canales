@@ -21,7 +21,8 @@ http://stream.visit-x.tv:80/vxtv/live/chunklist_w1068976249.m3u8
 
 #EXTINF:-1,
 
-#EXTINF:-1, 
+#EXTINF:-1, televen
+https://cloud.streamingconnect.tv/hls/televen/televenmoviles.m3u8
 
 #EXTINF:-1, WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w2074580381.m3u8
