@@ -2,36 +2,39 @@
 
 
 
-#EXTINF:-1,
-#EXTINF:-1,
 
 
 
 
 
-
-#EXTINF:-1,
-#EXTINF:-1, 
-
-#EXTINF:-1,
-
+#EXTINF:-1,VPITV NOTICIAS
+https://streannlivevpi.cachefly.net:443/vpi1/vpi1/chunks.m3u8
+#EXTINF:-1,latele tuya
+https://vcp4.myplaytv.com:443/tlt-2/tlt-28052022/chunklist_w1109509922.m3u8
+#EXTINF:-1,tv familia
+https://cdn01.yowi.tv/KPFPGJU8A6/live-600.m3u8
+#EXTINF:-1,NUBEH TV
+https://vcp.myplaytv.com:443/nubehtv/nubehtv/chunklist_w1542997801.m3u8
+#EXTINF:-1,OXIGENO NETWORK TV
+https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w1424555001.m3u8
+#EXTINF:-1,TVO
+http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w1900604199.m3u8
 #EXTINF:-1,visit X TV
 http://stream.visit-x.tv:80/vxtv/live/chunklist_w1068976249.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,City tv
+https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
+#EXTINF:-1,canal 11 del zulia
+http://200.6.154.43:1935/canal11/live/chunklist_w534727154.m3u8
 #EXTINF:-1, televen
 https://cloud.streamingconnect.tv/hls/televen/televenmoviles.m3u8
-
 #EXTINF:-1, WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w2074580381.m3u8
 #EXTINF:-1, Chiquilines
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 #EXTINF:-1 ,Telecanal
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-#EXTINF:-1 ,
-
+#EXTINF:-1,NOVELISIMA
+https://novelisima.akamaized.net:443/hls/live/2031534/novelisimaABR/1/streamPlaylist.m3u8
 #EXTINF:-1,My Cinema Asia
 http://210.210.155.35/uq2663/h/h193/index.m3u8
 #EXTINF:-1, LATINO KIDS
@@ -92,12 +95,15 @@ http://138.36.253.12:8009/play/a006/index.m3u8
 http://138.36.253.12:8009/play/a005/index.m3u8
 #EXTINF:-1, EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,EXTREMA TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,Extrema tv 
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w677167500.m3u8
-#EXTINF:-1,EXTREMATV
-http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10460.m3u8
+#EXTINF:-1,movie fe
+https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1598904428.m3u8
+#EXTINF:-1,PANAVISION
+https://vcp.myplaytv.com:443/panavision/panavision/chunklist_w786594979.m3u8
+#EXTINF:-1,telesur tv
+https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1,venezolana de television
+#EXTINF:-1, canal i
+https://vcp.myplaytv.com:443/canali/canali/chunklist_w1757795756.m3u8
 #EXTINF:-1,Dragon Ball TV
 http://138.36.253.12:8009/play/a00v/index.m3u8
 #EXTINF:-1,GLITZ
