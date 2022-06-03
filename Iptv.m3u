@@ -69,8 +69,8 @@ https://primary-out.iptv-global.net/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlis
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a157fcb0f29e1407aaca997c8564765a.png", Canal 8 Punta Cana TV
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Wm0tIirwAaI/XzgSgfucd3I/AAAAAAAA4R4/P8FwD68fC00xVm39i-qNZewMWAqG2Be2wCK8BGAsYHg/s0/2020-08-15.jpg", Amé
-https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DqCASDFb1BA/YE1UxfihGbI/AAAAAAABAoE/bK1rgKUWLvM3DNRKfj9CXfbSBX3HykNzgCK8BGAsYHg/s512/2021-03-13.png", Urbancrist2 Worship
 https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4UNQ-eaQbUk/YE1UUzjDO3I/AAAAAAABAn8/QbEyp6jNP7MsJ90tDqBUMDyGXQVlXxkBgCK8BGAsYHg/s512/2021-03-13.png", Urbancris TV
@@ -87,7 +87,7 @@ https://edge1.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/index.m3u8
 https://vxlive.cdn.antel.net.uy:443/auth_V_AmasV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQW1hc1YlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTY1NDE3ODA3MyZyYW5kb209U2V0NjNyT3ZmdCZjLWlwPTE4Ni4xODUuMTY3LjIxNSZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzaDhxLGE5Mjc0NDBlMGZiNzU5OGQ1ZjgxNTQxYTMzOGMxMGRkZWFmNmE2MjkwYjYzYmYzN2E2YmYxMjYwNWYyNjkyZWE=/vxfmt=hls/h_06a4e64321ce21c4430cbac47fe7a5f9/var1200000/playlist.m3u8
 #EXTINF:-1,CARACOL tv
 https://vsd70.mycdn.me:443/hls/2421135510107.m3u8/sig/VpzFR0Q_kwI/expires/1654248889195/srcIp/186.185.167.215/clientType/0/srcAg/CHROME_ANDROID/mid/3450055237211/2421135510107_high/index.m3u8
-#EXTINF-1, EVTV
+#EXTINF:-1,EVTV
 https://streannliveevtv.cachefly.net:443/evtv1/evtv1/chunks.m3u8
 #EXTINF:-1, VIVO PLAY
 https://vp01-vivoplayiptv.delivery.fuugo.com:443/ngrp:vp01-VIVOplay_IPTV-aa730fa2_all/chunklist_b2179072.m3u8
@@ -111,7 +111,7 @@ https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
 http://200.6.154.43:1935/canal11/live/chunklist_w534727154.m3u8
 #EXTINF:-1, televen
 https://cloud.streamingconnect.tv/hls/televen/televenmoviles.m3u8
-#EXTINF:-1, WOW
+#EXTINF:-1,WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w2074580381.m3u8
 #EXTINF:-1, Chiquilines
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
