@@ -152,8 +152,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1458385159.m3u8
 https://simultv.s.llnwi.net:443/o058/KidCentral/KidCentral/interlink_3200.m3u8
 #EXTINF:-1, CANAL DE LAS ESTRELLAS
 https://edge1.prepro.cvattv.com.ar/live/live/Canal_de_las_estrellas/SA_Live_WebVTT_FTA/Canal_de_las_estrellas.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,13 MAX HD
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w111273773.m3u8?PlaylistM3UCL
 #EXTINF:-1,animeTV
 https://stmv1.srvif.com:443/animetv/animetv/chunklist_w1642444041.m3u8
 #EXTINF:-1,Retro Cartoon
