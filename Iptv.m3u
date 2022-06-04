@@ -158,8 +158,8 @@ https://edge1.prepro.cvattv.com.ar/live/live/Canal_de_las_estrellas/SA_Live_WebV
 https://stmv1.srvif.com:443/animetv/animetv/chunklist_w1642444041.m3u8
 #EXTINF:-1,Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-#EXTINF:-1,Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1,love nature
+https://bamus-spa-roku.amagi.tv:443/playlist1080-p.m3u8
 #EXTINF:-1,RETRO KIDS
 http://138.36.253.12:8009/play/a011/index.m3u8
 #EXTINF:-1,MXclassic
@@ -234,9 +234,10 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png", Aniplus
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
-#EXTINF:-1 
+#EXTINF:-1, De Pelicula
+http://tv.teleclub.xyz/live/ABRIL_02/DEPELICULA/index.m3u8
+#EXTINF:-1, 
 
-#EXTINF:-1
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png", RCKTV
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
@@ -526,6 +527,10 @@ http://190.83.119.67:8000/play/a0pm/index.m3u8
 http://190.83.119.67:8000/play/a0pu/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rh.png",Golden
 http://190.83.119.67:8000/play/a0rh/index.m3u8
+#EXTINF:-1, GOLDEN EDGE
+http://tv.teleclub.xyz/live/ABRIL_02/GOLDEN_EDGE/index.m3u8
+#EXTINF:-1, GOLDEN PLUS
+http://tv.teleclub.xyz/live/ABRIL_02/GOLDEN_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o3.png",Golf Channel
 http://190.83.119.67:8000/play/a0o3/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qg.png",Golf Channel HD
@@ -549,7 +554,7 @@ https://edge1.prepro.cvattv.com.ar/live/live/HBO_Signature/SA_Live_WebVTT_FTA/HB
 #EXTINF:-1,HBO Mundi HD
 https://edge-live13-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
 #EXTINF:-1,HBO POP HD
-https://edge-live13-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+http://tv.teleclub.xyz/live/ABRIL_02/HBO_POP/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0st.png",HOLA! TV HD
 http://190.83.119.67:8000/play/a0st/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rg.png",HTV
