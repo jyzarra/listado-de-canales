@@ -80,12 +80,12 @@ https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8
 https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-kl7V7U5q7f0/YI830_FLyoI/AAAAAAABCJg/VWmNBlxJKzYppBYkN1vC4Rz9WjB7jBrfQCK8BGAsYHg/s512/2021-05-02.png", La Fe Mueve Montanas
 https://inliveserver.com:1936/10020/10020/playlist.m3u8
-#EXTINF:-1, CANAL EL TRECE OPS 1
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1, CANAL EL TRECE ops2
+#EXTINF:-1,
+
+#EXTINF:-1, CANAL EL TRECE 
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,canal el trece
-https://edge1.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/index.m3u8
+#EXTINF:-1
+
 #EXTINF:-1,A+TV
 https://vxlive.cdn.antel.net.uy:443/auth_V_AmasV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQW1hc1YlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTY1NDE3ODA3MyZyYW5kb209U2V0NjNyT3ZmdCZjLWlwPTE4Ni4xODUuMTY3LjIxNSZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzaDhxLGE5Mjc0NDBlMGZiNzU5OGQ1ZjgxNTQxYTMzOGMxMGRkZWFmNmE2MjkwYjYzYmYzN2E2YmYxMjYwNWYyNjkyZWE=/vxfmt=hls/h_06a4e64321ce21c4430cbac47fe7a5f9/var1200000/playlist.m3u8
 #EXTINF:-1,CARACOL tv
