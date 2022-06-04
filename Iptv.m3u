@@ -236,8 +236,8 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 #EXTINF:-1, De Pelicula
 http://tv.teleclub.xyz/live/ABRIL_02/DEPELICULA/index.m3u8
-#EXTINF:-1, 
-
+#EXTINF:-1, VALE TV
+http://vcp1.myplaytv.com:80/valetv/valetv/chunklist_w1562065729.m3u8
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png", RCKTV
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
