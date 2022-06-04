@@ -277,8 +277,8 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w208725964.m3u8
 https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w545828669.m3u8
 #EXTINF:-1,MEGATV (JAEN)
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,telecolor canal zuliano
+https://vcp.myplaytv.com/telecolor/telecolor/chunklist_w1678703432.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/129d176f2117a7985aefe938703c34a5.png", Ziza TV
 https://v2.tustreaming.cl:443/zizatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-k3Xfmd6KcLo/YL98wEjWBnI/AAAAAAABCzo/6deLMFJ6YUElLm3DMqccKFmz8nyzWoRPQCJEEGAsYHg/s512/2021-06-08.png", RLOTV
