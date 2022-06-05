@@ -88,8 +88,8 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1,A+TV
 https://vxlive.cdn.antel.net.uy:443/auth_V_AmasV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQW1hc1YlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTY1NDE3ODA3MyZyYW5kb209U2V0NjNyT3ZmdCZjLWlwPTE4Ni4xODUuMTY3LjIxNSZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzaDhxLGE5Mjc0NDBlMGZiNzU5OGQ1ZjgxNTQxYTMzOGMxMGRkZWFmNmE2MjkwYjYzYmYzN2E2YmYxMjYwNWYyNjkyZWE=/vxfmt=hls/h_06a4e64321ce21c4430cbac47fe7a5f9/var1200000/playlist.m3u8
-#EXTINF:-1,CARACOL tv
-https://vsd70.mycdn.me:443/hls/2421135510107.m3u8/sig/VpzFR0Q_kwI/expires/1654248889195/srcIp/186.185.167.215/clientType/0/srcAg/CHROME_ANDROID/mid/3450055237211/2421135510107_high/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,EVTV
 https://streannliveevtv.cachefly.net:443/evtv1/evtv1/chunks.m3u8
 #EXTINF:-1, VIVO PLAY
@@ -209,7 +209,7 @@ http://190.61.37.173:9010/play/a042/index.m3u8
 #EXTINF:-1,TELERITMO
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
 #EXTINF:-1,BITME
-http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
+http://tv.teleclub.xyz/live/ABRIL_02/BITME/index.m3u8
 #EXTINF:-1,cinemax
 http://190.61.37.173:9010/play/a052/index.m3u8
 #EXTINF:-1,CINEMAX HD
