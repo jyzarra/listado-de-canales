@@ -797,8 +797,9 @@ http://138.36.253.12:8009/play/a00l/index.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1,global tv 
 http://190.108.83.142:8000/play/a00x/index.m3u8
-#EXTINF:-1, NV
-http://190.108.83.142:8000/play/a00x/index.m3u8
+#EXTINF:-1, canal el nueve
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/b2ef8636-e1c7-42ec-b841-8a6adaee6741/5.m3u8
+
 
 
 
