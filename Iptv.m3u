@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+
+
+
+
+
+#EXTINF:-1, PROMAR TV
+https://vcp.myplaytv.com:443/promar/promar/chunklist_w995873390.m3u8
 #EXTINF:-1, TELEARAGUA
 http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-1, CARACOL TV 
