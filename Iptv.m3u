@@ -818,5 +818,11 @@ https://linear-194.frequency.stream:443/194/hls/master/playlist_1280x720.m3u8
 https://linear-196.frequency.stream:443/196/hls/master/playlist_1280x720.m3u8
 EXTINF:-1,CANAL PRENDDE LIGA DE FUTBOL MX
 https://linear-193.frequency.stream:443/193/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/6aa52e21eee8c7009d9e0a931aa61080.png", Laciudadtv.cl
+https://5eaccbab48461.streamlock.net:1936/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/9b4795c2b8693accecf64feca033926b.png", LassTV
+https://streaming03.zas.media:1936/lasstv/lasstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/4a5bc18908397d4ada773540bf998afb.png", Planea TV
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
 
 
