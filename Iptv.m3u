@@ -306,6 +306,8 @@ https://videohd.live:19360/8010/8010.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana
 https://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1, PANAMERICANA OPS2
+https://cdnh71.iblups.com/hls/ptv2.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1,Disney Channer
