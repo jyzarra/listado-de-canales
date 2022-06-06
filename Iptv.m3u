@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1, frecuencia latina
+https://vsd120.mycdn.me:443/hls/2285916392007.m3u8/sig/y5FJEGAveQM/expires/1654594756773/srcIp/190.97.239.67/clientType/0/srcAg/CHROME_ANDROID/mid/5359537036871/2285916392007_high/index.m3u8
 #EXTINF:-1, CHINOLA TV 
 https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
 #EXTINF:-1, TICAVISION
@@ -546,9 +547,11 @@ http://190.83.119.67:8000/play/a0pu/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rh.png",Golden
 http://190.83.119.67:8000/play/a0rh/index.m3u8
 #EXTINF:-1, GOLDEN EDGE
-http://tv.teleclub.xyz/live/ABRIL_02/GOLDEN_EDGE/index.m3u8
+https://vsd120.mycdn.me:443/hls/2412025612884.m3u8/sig/XmvLQVx7ZhY/expires/1654593835948/srcIp/190.97.239.67/clientType/0/srcAg/CHROME_ANDROID/mid/3629470981716/2412025612884_high/index.m3u8
 #EXTINF:-1, GOLDEN PLUS
-http://tv.teleclub.xyz/live/ABRIL_02/GOLDEN_PLUS/index.m3u8
+https://vsd138.mycdn.me:443/hls/2391796025927.m3u8/sig/QelPjtwQm4Y/expires/1654593600602/srcIp/190.97.239.67/clientType/0/srcAg/CHROME_ANDROID/mid/5451149286983/2391796025927_high/index.m3u8
+#EXTINF:-1, GOLDEN PREMIER
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/75_.m3u8?token=bABHMjk7hMYk83lJ13tjSg&expires=1654518614&ip=190.97.239.69
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o3.png",Golf Channel
 http://190.83.119.67:8000/play/a0o3/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qg.png",Golf Channel HD
