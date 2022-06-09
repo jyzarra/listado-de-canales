@@ -45,8 +45,8 @@ https://marine2.miplay.cl/mega/playlist.m3u8
 https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png", CHV
 https://marine2.miplay.cl/chilevision/playlist.m3u8
-#EXTINF:-1,TC tv
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7KOOH_pOiurM8xVXRkcQsur7wn6LbuTX1i1pAsCskkJ)/dm/3/x7wijay/d/live-1.m3u8
+#EXTINF:-1, CHV OPS2
+https://marine2.miplay.cl:443/chilevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretencion
 https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png", 13 Prime
@@ -836,5 +836,5 @@ https://5eaccbab48461.streamlock.net:1936/8022/8022/playlist.m3u8
 https://streaming03.zas.media:1936/lasstv/lasstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/4a5bc18908397d4ada773540bf998afb.png", Planea TV
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
-
+#
 
