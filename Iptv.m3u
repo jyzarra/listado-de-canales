@@ -7,8 +7,8 @@ https://vsd120.mycdn.me:443/hls/2285916392007.m3u8/sig/y5FJEGAveQM/expires/16545
 https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
 #EXTINF:-1, TICAVISION
 https://59ef525c24caa.streamlock.net:443/HBTV/HBTV/chunklist_w1881512837.m3u8?PlaylistM3UCL
-#EXTINF:-1, TeleSur costa rica
-https://59ef525c24caa.streamlock.net:443/telesur/telesur/chunklist_w939471120.m3u8?PlaylistM3UCL
+#EXTINF:-1, CANAL ZAZ TV
+https://stream-us-east-1.getpublica.com/cl/a51dfc54-762a-4106-beb3-f0c6316e5c5a/1280x720_2697726_0_false.m3u8
 #EXTINF:-1, TVR MARACAY
 http://vcp1.myplaytv.com:80/trv/trv/chunklist_w262800341.m3u8
 #EXTINF:-1, PROMAR TV
@@ -41,8 +41,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8?nimblesessioni
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega
 https://marine2.miplay.cl/mega/playlist.m3u8
-#EXTINF:-1, MEGA OPS2
-https://marine2.miplay.cl:443/mega/tracks-v1a1/mono.m3u8
+#EXTINF:-1, IVC
+https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png", CHV
 https://marine2.miplay.cl/chilevision/playlist.m3u8
 #EXTINF:-1, CHV OPS2
