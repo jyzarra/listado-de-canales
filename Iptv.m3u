@@ -13,7 +13,7 @@ https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
 #EXTINF:-1, TICAVISION
 https://59ef525c24caa.streamlock.net:443/HBTV/HBTV/chunklist_w1881512837.m3u8?PlaylistM3UCL
 #EXTINF:-1, CANAL ZAZ TV
-https://stream-us-east-1.getpublica.com/cl/a51dfc54-762a-4106-beb3-f0c6316e5c5a/1280x720_2697726_0_false.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
 #EXTINF:-1, TVR MARACAY
 http://vcp1.myplaytv.com:80/trv/trv/chunklist_w262800341.m3u8
 #EXTINF:-1, PROMAR TV
