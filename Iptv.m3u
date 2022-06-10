@@ -335,7 +335,7 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1,Disney Channer
 http://190.61.37.173:9010/play/a04p/index.m3u8
-EXTINF:-1,DISNEY CHANNER OPS2
+#EXTINF:-1,DISNEY CHANNER OPS2
 https://edge1-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png", Teleuno
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
