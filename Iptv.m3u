@@ -2,7 +2,8 @@
 
 
 
-
+#EXTINF-1, ZONA PLAY TV
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 #EXTINF-1, WTV canal 20
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1, ACTIVATV
