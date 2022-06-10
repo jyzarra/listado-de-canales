@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF-1, AMG tv HD
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF-1, ZONA PLAY TV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 #EXTINF-1, WTV canal 20
