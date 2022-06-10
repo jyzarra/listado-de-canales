@@ -320,7 +320,7 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1,Mi tv clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1, MI tv clasica ops 2
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?nimblesessionid=170280387
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1,Disney Channer
