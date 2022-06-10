@@ -6,13 +6,13 @@
 
 
 
-#EXTINF-1, CHICOS ipe
+#EXTINF:-1, CHICOS ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF-1, AMG tv HD
+#EXTINF:-1, AMG tv HD
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF-1, ZONA PLAY TV
+#EXTINF:-1, ZONA PLAY TV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
-#EXTINF-1, WTV canal 20
+#EXTINF:-1, WTV canal 20
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1, ACTIVATV
 https://streamtv.mediasector.es/hls/activatv/.m3u8
