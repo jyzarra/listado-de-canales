@@ -3,7 +3,8 @@
 
 
 
-
+#EXTINF-1, WTV canal 20
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1, ACTIVATV
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 #EXTINF:-1, frecuencia latina
