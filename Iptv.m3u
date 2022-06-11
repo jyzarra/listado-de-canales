@@ -4,8 +4,28 @@
 
 
 
-
-
+#EXTINF:-1, CBeebies 
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
+#EXTINF:-1, VAMISA TV 
+https://vps1.lnx.pe/vamisa/envivo/index.m3u8
+#EXTINF:-1, TV GALICIA
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1, TV CARIOCA
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+#EXTINF:-1, TROPICAL TV
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+#EXTINF:-1, TeleSur
+https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
+#EXTINF:-1, SUPERtv
+https://tvdatta.com:3517/live/kachorrotvlive.m3u8
+#EXTINF:-1, Sitv
+http://190.122.104.221/Player/sitv.m3u8
+#EXTINF:-1, SISTEMA 1 TV 
+https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
+#EXTINF:-1, SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1, SAN ISIDRO TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1, CHICOS ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1, AMG tv HD
@@ -235,7 +255,11 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1,TeleSUR
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1,KidsFlix
-http://stream.ads.ottera.tv/cl/3f6bdb3c-346c-451b-8068-e24ecd650cad/1280x720_2300000_4_false.m3u8
+https://stream.ads.ottera.tv/cl/a0c4b83a-bbf8-46b2-812f-06dccdda0a28/1280x720_2300000_0_false.m3u8
+#EXTINF:-1, KURIKOS kids
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:-1, Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1,Disney XD
 http://190.61.37.173:9010/play/a042/index.m3u8
 #EXTINF:-1,TELERITMO
@@ -305,9 +329,9 @@ https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 https://59a564764e2b6.streamlock.net:443/vallenato/Vallenato2/chunklist_w2144489645.m3u8
 #EXTINF:-1, MEGAVISION CANAL 43
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w208725964.m3u8
-#EXTINF:-1,megaTv (yacuiba)
+#EXTINF:-1,megaTv 
 https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w545828669.m3u8
-#EXTINF:-1,MEGATV (JAEN)
+#EXTINF:-1,MEGATV 
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 #EXTINF:-1,telecolor canal zuliano
 https://vcp.myplaytv.com/telecolor/telecolor/chunklist_w1678703432.m3u8
@@ -329,15 +353,14 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1,MATICEStv
 http://v4.tustreaming.cl/matices/index.m3u8
-
-#EXTINF:-1,
-
+#EXTINF:-1,ORIENTAL TV
+https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1,Disney Channer
 http://190.61.37.173:9010/play/a04p/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,proyecta TV
+https://servilive.com:3194/live/proyectatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png", Teleuno
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion
