@@ -327,7 +327,8 @@ https://videohd.live:19360/8010/8010.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana
 https://cdnh71.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1,
+#EXTINF:-1,MATICEStv
+http://v4.tustreaming.cl/matices/index.m3u8
 
 #EXTINF:-1,
 
