@@ -1,14 +1,17 @@
 #EXTM3U
 
 
+#EXTINF:-1,102 Las Estrellas
+http://38.123.205.70:8000/play/a0d4/index.m3u8
 
-http://5.206.237.66:9000/play/a03f
-#EXTINF:-1,3017 Arena 1 PREMIUM
-http://5.206.237.66:9000/play/a06z
-#EXTINF:-1,3018 Arena 2 PREMIUM
-http://5.206.237.66:9000/play/a071
-#EXTINF:-1,3019 Arena 3 PREMIUM
-http://5.206.237.66:9000/play/a072
+#EXTINF:-1,160 Multi Premier
+http://38.123.205.70:8000/play/a0ce/index.m3u8
+
+
+
+
+
+
 
 
 
