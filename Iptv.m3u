@@ -568,7 +568,41 @@ http://154.73.54.55:9000/play/GO-BOX-ACTION/index.m3u8
 http://154.73.54.55:9000/play/GO-BOX-ANIMATION/index.m3u8
 
 
+#EXTINF:-1,ON-Cartoon-Zaman
+http://154.73.54.55:9000/play/ON-Cartoon-Zaman/index.m3u8
 
+
+#EXTINF:-1,ON-Netflix
+http://154.73.54.55:9000/play/ON-Netflix/index.m3u8
+
+#EXTINF:-1,AXN
+http://80.96.25.163:7878/play/a054/index.m3u8
+#EXTINF:-1,AXN Black
+http://80.96.25.163:7878/play/a07d/index.m3u8
+#EXTINF:-1,AXN SPIN
+http://80.96.25.163:7878/play/a068/index.m3u8
+#EXTINF:-1,AXN White
+http://80.96.25.163:7878/play/a03u/index.m3u8
+
+EXTINF:-1,CINETUBE
+http://80.96.25.163:7878/play/a061/index.m3u8
+
+EXTINF:-1,CinemaEst
+http://80.96.25.163:7878/play/a03h/index.m3u8
+#EXTINF:-1,Cinemaraton HD
+http://80.96.25.163:7878/play/a05n/index.m3u8
+#EXTINF:-1,Columna
+http://80.96.25.163:7878/play/a06o/index.m3u8
+#EXTINF:-1,DIGI 24
+http://80.96.25.163:7878/play/a04d/index.m3u8
+#EXTINF:-1,DIGI 24 HD
+http://80.96.25.163:7878/play/a044/index.m3u8
+#EXTINF:-1,DW
+http://80.96.25.163:7878/play/a077/index.m3u8
+
+
+#EXTINF:-1,MAGIC TV
+http://80.96.25.163:7878/play/a05p/index.m3u8
 
 
 #EXTINF:-1, CBeebies 
