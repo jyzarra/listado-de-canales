@@ -196,10 +196,46 @@ http://45.153.165.12:8000/play/a0bl/index.m3u8
 #EXTINF:-1,test
 http://45.153.165.12:8000/play/a0a7/index.m3u8
 
+EXTINF:-1,CIELO TV
+http://45.153.165.12:8000/play/a0bv/index.m3u8
+#EXTINF:-1,CINEVISION CH 19
+http://45.153.165.12:8000/play/a0f9/index.m3u8
+#EXTINF:-1,CMBF
+http://45.153.165.12:8000/play/a0do/index.m3u8
 
 
+#EXTINF:-1,Clave
+http://45.153.165.12:8000/play/a0dj/index.m3u8
+#EXTINF:-1,ConCiencia TV
+http://45.153.165.12:8000/play/a0cr/index.m3u8
+#EXTINF:-1,Coral 39
+http://45.153.165.12:8000/play/a0fm/index.m3u8
+#EXTINF:-1,Cubavisiðn
+http://45.153.165.12:8000/play/a0dc/index.m3u8
 
+#EXTINF:-1,CUBAVISION
+http://45.153.165.12:8000/play/a0du/index.m3u8
+#EXTINF:-1,CUBAVISION INTERNACIONAL
+http://45.153.165.12:8000/play/a0qn/index.m3u8
 
+#EXTINF:-1,123 TV
+http://45.153.165.12:8000/play/a0ew/index.m3u8
+#EXTINF:-1,ACN
+http://45.153.165.12:8000/play/a0e0/index.m3u8
+#EXTINF:-1,ALBA TV
+http://45.153.165.12:8000/play/a0cq/index.m3u8
+#EXTINF:-1,AME CH47
+http://45.153.165.12:8000/play/a0fg/index.m3u8
+#EXTINF:-1,ANTV
+http://45.153.165.12:8000/play/a0cn/index.m3u8
+#EXTINF:-1,Avila TV
+http://45.153.165.12:8000/play/a0cu/index.m3u8
+
+#EXTINF:-1,CINEVISION CH 19
+http://45.153.165.12:8000/play/a0f9/index.m3u8
+
+#EXTINF:-1,HTV MULTICASTL
+http://45.153.165.12:8000/play/a0ev/index.m3u8
 
 
 #EXTINF:-1, CBeebies 
