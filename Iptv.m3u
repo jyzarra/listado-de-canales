@@ -237,6 +237,56 @@ http://45.153.165.12:8000/play/a0f9/index.m3u8
 #EXTINF:-1,HTV MULTICASTL
 http://45.153.165.12:8000/play/a0ev/index.m3u8
 
+#EXTINF:-1,Infantil/CHab
+http://45.153.165.12:8000/play/a0dh/index.m3u8
+#EXTINF:-1,LUNATV
+http://45.153.165.12:8000/play/a0ea/index.m3u8
+#EXTINF:-1,MEGA TV CH43
+http://45.153.165.12:8000/play/a0fe/index.m3u8
+#EXTINF:-1,MULTIVISION
+http://45.153.165.12:8000/play/a0dz/index.m3u8
+
+#EXTINF:-1,Multivision
+http://45.153.165.12:8000/play/a0dg/index.m3u8
+#EXTINF:-1,Playboy
+http://45.153.165.12:8000/play/a0ez/index.m3u8
+
+#EXTINF:-1,TELEUNION CH45
+http://45.153.165.12:8000/play/a0ff/index.m3u8
+#EXTINF:-1,TLNOVELAS Multicast
+http://45.153.165.12:8000/play/a0fq/index.m3u8
+#EXTINF:-1,TV Galicia
+http://45.153.165.12:8000/play/a0d3/index.m3u8
+#EXTINF:-1,TVES
+http://45.153.165.12:8000/play/a0cl/index.m3u8
+#EXTINF:-1,TVFANB
+http://45.153.165.12:8000/play/a0cs/index.m3u8
+#EXTINF:-1,Tele Rebelde
+http://45.153.165.12:8000/play/a0dd/index.m3u8
+#EXTINF:-1,TeleCibao
+http://45.153.165.12:8000/play/a0f2/index.m3u8
+#EXTINF:-1,TELESUR
+http://45.153.165.12:8000/play/a0cm/index.m3u8
+#EXTINF:-1,TLT
+http://45.153.165.12:8000/play/a0cz/index.m3u8
+#EXTINF:-1,TLT HD
+http://45.153.165.12:8000/play/a0fs/index.m3u8
+#EXTINF:-1,TNI
+http://45.153.165.12:8000/play/a0bs/index.m3u8
+#EXTINF:-1,TRA
+http://45.153.165.12:8000/play/a0bj/index.m3u8
+
+#EXTINF:-1,TVFANB
+http://45.153.165.12:8000/play/a0cs/index.m3u8
+
+#EXTINF:-1,Televen
+http://45.153.165.12:8000/play/a0cy/index.m3u8
+#EXTINF:-1,Televida
+http://45.153.165.12:8000/play/a0br/index.m3u8
+#EXTINF:-1,ToomCats M
+http://45.153.165.12:8000/play/a0f1/index.m3u8
+
+
 
 #EXTINF:-1, CBeebies 
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
