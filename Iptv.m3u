@@ -54,6 +54,42 @@ http://190.233.211.25:8000/play/a09u/index.m3u8
 http://190.233.211.25:8000/play/a02y/index.m3u8
 
 
+#EXTINF:-1,GLOBAL
+http://190.233.211.25:8000/play/a00h/index.m3u8
+
+
+#EXTINF:-1,Canal Estrellas
+http://190.108.95.5:8000/play/a02g/index.m3u8
+
+#EXTINF:-1,Golden HD
+http://190.108.95.5:8000/play/a03m/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://190.108.95.5:8000/play/a008/index.m3u8
+
+#EXTINF:-1,Disney HD
+http://190.108.95.5:8000/play/a016/index.m3u8
+
+#EXTINF:-1,Latina
+http://190.108.95.5:8000/play/a02r/index.m3u8
+#EXTINF:-1,Latina HD
+http://190.108.95.5:8000/play/a00g/index.m3u8
+
+#EXTINF:-1,Space HD
+http://190.108.95.5:8000/play/a006/index.m3u8
+
+#EXTINF:-1,ViaX
+http://190.108.95.5:8000/play/a02f/index.m3u8
+#EXTINF:-1,WILLAX
+http://190.108.95.5:8000/play/a02p/index.m3u8
+
+#EXTINF:-1,Zona Latina
+http://190.108.95.5:8000/play/a01h/index.m3u8
+
+
+#EXTINF:-1,Esne TV
+http://190.108.95.5:8000/play/a03h/index.m3u8
+
+
 
 
 #EXTINF:-1, CBeebies 
