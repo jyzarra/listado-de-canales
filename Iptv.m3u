@@ -3,8 +3,9 @@
 
 
 
-#EXTINF:-1,VISION SUR
-http://200.60.18.178:21214/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.89.38.19:8000/playlist/tvg-logo/a0ij.png",Multipremier
+http://190.89.38.19:8000/play/a0ij/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://190.89.38.19:8000/playlist/tvg-logo/a0i8.png",Disney
@@ -12,13 +13,18 @@ http://190.89.38.19:8000/play/a0i8/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://190.89.38.19:8000/playlist/tvg-logo/a0iz.png",SPACE HD
+http://190.89.38.19:8000/play/a0iz/index.m3u8
+
+
+#EXTINF:-1,Canal Estrellas
+http://190.233.211.25:8000/play/a0b7/index.m3u8
 
 
 
 
-
-
-
+#EXTINF:-1,De PelŦcula
+http://190.233.211.25:8000/play/a07n/index.m3u8
 
 
 
