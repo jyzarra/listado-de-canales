@@ -323,10 +323,29 @@ http://190.83.2.121:8080/play/a02p/index.m3u8
 http://190.83.2.121:8080/play/a072/index.m3u8
 
 
+#EXTINF:-1,Golden
+http://190.83.2.121:8080/play/a03s/index.m3u8
+
+#EXTINF:-1,De PelŦcula
+http://190.233.211.25:8000/play/a07n/index.m3u8
+
+#EXTINF:-1,GLOBAL
+http://190.233.211.25:8000/play/a00h/index.m3u8
+
+#EXTINF:-1,Caracol HD
+http://181.65.181.189:8000/play/a03e/index.m3u8
 
 
+#EXTINF:-1,Movistar Deportes HD
+http://181.65.181.189:8000/play/a039/index.m3u8
 
 
+#EXTINF:-1,Panamericana
+http://181.65.181.189:8000/play/a004/index.m3u8
+
+
+#EXTINF:-1,STAR ACTION HD
+http://168.228.194.32:4000/play/a068/index.m3u8
 
 
 #EXTINF:-1, CBeebies 
