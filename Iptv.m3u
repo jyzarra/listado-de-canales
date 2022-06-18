@@ -147,6 +147,57 @@ http://54.219.95.167:8000/play/a0jj/index.m3u8
 #EXTINF:-1,letra a
 http://54.219.95.167:8000/play/a0bu/index.m3u8
 
+#EXTINF:-1,Canal de Las Estrellas
+http://45.153.165.12:8000/play/a0eo/index.m3u8
+
+#EXTINF:-1,GLOBOVISION
+http://45.153.165.12:8000/play/a0cv/index.m3u8
+#EXTINF:-1,Golden G
+http://45.153.165.12:8000/play/a0eu/index.m3u8
+#EXTINF:-1,HTV MULTICASTL
+http://45.153.165.12:8000/play/a0ev/index.m3u8
+
+#EXTINF:-1,HispanTV
+http://45.153.165.12:8000/play/a0ch/index.m3u8
+
+#EXTINF:-1,MEGA TV CH43
+http://45.153.165.12:8000/play/a0fe/index.m3u8
+#EXTINF:-1,Meridiano
+http://45.153.165.12:8000/play/a0cx/index.m3u8
+#EXTINF:-1,SexyHOT
+http://45.153.165.12:8000/play/a0eh/index.m3u8
+#EXTINF:-1,Super55
+http://45.153.165.12:8000/play/a0eb/index.m3u8
+#EXTINF:-1,TELE REBELDE
+http://45.153.165.12:8000/play/a0qo/index.m3u8
+#EXTINF:-1,TELEIMPACTO
+http://45.153.165.12:8000/play/a0bw/index.m3u8
+
+#EXTINF:-1,Tves Movil
+http://45.153.165.12:8000/play/a0d5/index.m3u8
+#EXTINF:-1,UNIMAS MULTI
+http://45.153.165.12:8000/play/a0dm/index.m3u8
+#EXTINF:-1,USA
+http://45.153.165.12:8000/play/a0ec/index.m3u8
+#EXTINF:-1,VIVID TV
+http://45.153.165.12:8000/play/a0f0/index.m3u8
+#EXTINF:-1,VTV
+http://45.153.165.12:8000/play/a0cj/index.m3u8
+#EXTINF:-1,VTV Movi
+http://45.153.165.12:8000/play/a0d4/index.m3u8
+#EXTINF:-1,Venevision
+http://45.153.165.12:8000/play/a0cw/index.m3u8
+#EXTINF:-1,Venus
+http://45.153.165.12:8000/play/a0ey/index.m3u8
+#EXTINF:-1,Vive TV
+http://45.153.165.12:8000/play/a0ck/index.m3u8
+#EXTINF:-1,WAPA
+http://45.153.165.12:8000/play/a0bl/index.m3u8
+#EXTINF:-1,test
+http://45.153.165.12:8000/play/a0a7/index.m3u8
+
+
+
 
 
 
