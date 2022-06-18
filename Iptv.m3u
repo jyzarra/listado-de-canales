@@ -286,6 +286,33 @@ http://45.153.165.12:8000/play/a0br/index.m3u8
 #EXTINF:-1,ToomCats M
 http://45.153.165.12:8000/play/a0f1/index.m3u8
 
+#EXTINF:-1,RHC
+http://45.153.165.10:8000/play/a0dq/index.m3u8
+#EXTINF:-1,RHC2
+http://45.153.165.10:8000/play/a0dt/index.m3u8
+#EXTINF:-1,RNN CH27
+http://45.153.165.10:8000/play/a0c4/index.m3u8
+#EXTINF:-1,RNN CH27
+http://45.153.165.10:8000/play/a0fb/index.m3u8
+
+#EXTINF:-1,SexyHOT
+http://45.153.165.10:8000/play/a0eh/index.m3u8
+
+#EXTINF:-1,GLOBOVISION
+http://45.153.165.10:8000/play/a0cv/index.m3u8
+#EXTINF:-1,Golden G
+http://45.153.165.10:8000/play/a0eu/index.m3u8
+#EXTINF:-1,HTV MULTICASTL
+http://45.153.165.10:8000/play/a0ev/index.m3u8
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1, CBeebies 
