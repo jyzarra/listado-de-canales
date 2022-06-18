@@ -27,11 +27,31 @@ http://190.233.211.25:8000/play/a0b7/index.m3u8
 http://190.233.211.25:8000/play/a07n/index.m3u8
 
 
+#EXTINF:-1,Golden HD
+http://190.233.211.25:8000/play/a01e/index.m3u8
 
 
+#EXTINF:-1,Lolly Kids HD
+http://190.233.211.25:8000/play/a0bd/index.m3u8
 
 
+#EXTINF:-1,Movistar Deportes
+http://190.233.211.25:8000/play/a00a/index.m3u8
+#EXTINF:-1,Movistar Deportes HD
+http://190.233.211.25:8000/play/a01c/index.m3u8
 
+
+#EXTINF:-1,TBS Very Funny HD
+http://190.233.211.25:8000/play/a0bm/index.m3u8
+
+#EXTINF:-1,TyC
+http://190.233.211.25:8000/play/a0aw/index.m3u8
+
+#EXTINF:-1,Zona Latina
+http://190.233.211.25:8000/play/a09u/index.m3u8
+
+#EXTINF:-1,America TV HD
+http://190.233.211.25:8000/play/a02y/index.m3u8
 
 
 
