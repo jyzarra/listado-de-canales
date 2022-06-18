@@ -304,9 +304,23 @@ http://45.153.165.10:8000/play/a0cv/index.m3u8
 http://45.153.165.10:8000/play/a0eu/index.m3u8
 #EXTINF:-1,HTV MULTICASTL
 http://45.153.165.10:8000/play/a0ev/index.m3u8
+#EXTINF:-1,Canal de Las Estrellas
+http://45.153.165.14:8000/play/a0eo/index.m3u8
 
+#EXTINF:-1,Canal de las Estrellas
+http://190.83.2.121:8080/play/a06l/index.m3u8
+#EXTINF:-1,Caracol HD
+http://190.83.2.121:8080/play/a06o/index.m3u8
 
+#EXTINF:-1,JBN
+http://190.83.2.121:8080/play/a07y/index.m3u8
 
+#EXTINF:-1,HCH
+http://190.83.2.121:8080/play/a07v/index.m3u8
+#EXTINF:-1,HCH- HON
+http://190.83.2.121:8080/play/a02p/index.m3u8
+#EXTINF:-1,HTV
+http://190.83.2.121:8080/play/a072/index.m3u8
 
 
 
