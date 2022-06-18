@@ -2,6 +2,39 @@
 
 
 
+#EXTINF:-1,Bollywood HD
+http://46.19.100.174:4450/play/a00h/index.m3u8
+
+#EXTINF:-1,Mega
+http://45.238.21.106:7788/play/a00z/index.m3u8
+
+#EXTINF:-1,Mega
+http://45.179.194.114:48000/play/a0ng/index.m3u8
+#EXTINF:-1,NPY
+http://45.179.194.114:48000/play/a0pg/index.m3u8
+
+#EXTINF:-1,SURTV
+http://45.179.194.114:48000/play/a0ph/index.m3u8
+
+
+#EXTINF:-1,GLOBOVISION
+http://45.153.165.10:8000/play/a0cv/index.m3u8
+
+#EXTINF:-1,TLNOVELAS Multicast
+http://45.153.165.14:8000/play/a0fq/index.m3u8
+
+#EXTINF:-1,TLNOVELAS Multicast
+http://45.153.165.13:8000/play/a0fq/index.m3u8
+#EXTINF:-1,VISION SUR
+http://200.60.18.178:21214/play/a0cm/index.m3u8
+#EXTINF:-1,Golden HD
+http://190.233.211.25:8000/play/a01e/index.m3u8
+
+#EXTINF:-1,Golden HD
+http://190.108.95.5:8000/play/a03m/index.m3u8
+#EXTINF:-1,Disney Channel HD
+http://185.236.229.229:8000/play/a008/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://190.89.38.19:8000/playlist/tvg-logo/a0ij.png",Multipremier
 http://190.89.38.19:8000/play/a0ij/index.m3u8
