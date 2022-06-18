@@ -90,6 +90,52 @@ http://190.108.95.5:8000/play/a01h/index.m3u8
 http://190.108.95.5:8000/play/a03h/index.m3u8
 
 
+#EXTINF:-1,Movistar Deportes HD
+http://190.108.95.5:8000/play/a00b/index.m3u8
+
+
+#EXTINF:-1,Panamericana TV
+http://190.108.95.5:8000/play/a02t/index.m3u8
+
+
+#EXTINF:-1,Hollywood HD
+http://46.19.100.174:4450/play/a005/index.m3u8
+
+
+#EXTINF:-1,EsneTV
+http://45.238.21.106:7788/play/a03q/index.m3u8
+
+
+#EXTINF:-1,Canal Caracol
+http://45.179.194.114:48000/play/a0p6/index.m3u8
+
+
+#EXTINF:-1,Mega
+http://45.179.194.114:48000/play/a0ng/index.m3u8
+
+
+#EXTINF:-1,PARAVISION
+http://45.179.194.114:48000/play/a0pd/index.m3u8
+#EXTINF:-1,Panamericana TV
+http://45.179.194.114:48000/play/a0n0/index.m3u8
+
+#EXTINF:-1,TC Television
+http://45.179.194.114:48000/play/a0p5/index.m3u8
+
+
+#EXTINF:-1,De PelŦcula
+http://45.225.88.39:8000/play/a05t/index.m3u8
+
+
+#EXTINF:-1,Panamericana
+http://45.225.88.39:8000/play/a058/index.m3u8
+
+
+#EXTINF:-1,TC Television
+http://45.225.88.39:8000/play/a00z/index.m3u8
+
+
+
 
 
 #EXTINF:-1, CBeebies 
