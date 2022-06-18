@@ -1,22 +1,24 @@
 #EXTM3U
 
 
-#EXTINF:-1,102 Las Estrellas
-http://38.123.205.70:8000/play/a0d4/index.m3u8
-
-#EXTINF:-1,160 Multi Premier
-http://38.123.205.70:8000/play/a0ce/index.m3u8
-
-#EXTINF:-1,US: FXM HD
-http://30frasiiii.hopto.me:80/0000/0000/243122
 
 
-#EXTINF:-1,US: Animal Planet
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130904
+#EXTINF:-1,VISION SUR
+http://200.60.18.178:21214/play/a0cm/index.m3u8
 
 
-#EXTINF:-1,US: Animal Planet
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130904.m3u8
+#EXTINF:-1 tvg-logo="http://190.89.38.19:8000/playlist/tvg-logo/a0i8.png",Disney
+http://190.89.38.19:8000/play/a0i8/index.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
