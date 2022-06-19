@@ -2,6 +2,46 @@
 
 
 
+
+
+
+
+Playlist
+Playlist Finder
+23 may 2022 a las 14:58
+#EXTM3U
+#EXTINF:-1,#0 HD
+http://195.154.179.18:8000/play/a00c
+#EXTINF:-1,AXN HD
+http://195.154.179.18:8000/play/a00a
+#EXTINF:-1,CAZAyPESCA HD
+http://195.154.179.18:8000/play/a00d
+#EXTINF:-1,DISCOVERY
+http://195.154.179.18:8000/play/a001
+#EXTINF:-1,DISNEY CH HD
+http://195.154.179.18:8000/play/a002
+#EXTINF:-1,EUROSPORT1HD
+http://195.154.179.18:8000/play/a00e
+#EXTINF:-1,FOX HD
+http://195.154.179.18:8000/play/a006
+#EXTINF:-1,HOLLYWOODHD
+http://195.154.179.18:8000/play/a005
+#EXTINF:-1,M+ SERIES 2 HD
+http://195.154.179.18:8000/play/a004
+#EXTINF:-1,M+DEPORTES2
+http://195.154.179.18:8000/play/a00f
+#EXTINF:-1,M. DRAMA HD
+http://195.154.179.18:8000/play/a007
+#EXTINF:-1,M. ESTRENOS 2 HD
+http://195.154.179.18:8000/play/a009
+#EXTINF:-1,M.COMEDIA HD
+http://195.154.179.18:8000/play/a00b
+#EXTINF:-1,M.ESTRENOSHD
+http://195.154.179.18:8000/play/a008
+
+#EXTINF:-1,Filzone
+http://185.223.125.141:8888/play/a00g/index.m3u8
+
 #EXTINF:-1,Bollywood HD
 http://46.19.100.174:4450/play/a00h/index.m3u8
 
