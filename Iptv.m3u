@@ -32,14 +32,10 @@ http://181.78.10.235:58002/play/a0bd/index.m3u8
 http://201.234.194.58:6020/play/a0dp/index.m3u8
 #EXTINF:-1,OROMAR TV
 http://201.234.194.58:6020/play/a0ds/index.m3u8
-#EXTINF:-1,HBO MUNDI
-http://201.234.194.58:6020/play/a0dg/index.m3u8
 #EXTINF:-1,Distrito Comedia
 http://201.234.194.58:6020/play/a0dk/index.m3u8
 #EXTINF:-1,Filzone
 http://185.223.125.141:8888/play/a00g/index.m3u8
-#EXTINF:-1,Golden Edge
-http://45.167.250.116:20023/play/a0f5/index.m3u8
 #EXTINF:-1,Mega
 http://45.238.21.106:7788/play/a00z/index.m3u8
 #EXTINF:-1,NPY
@@ -52,58 +48,22 @@ http://45.153.165.10:8000/play/a0cv/index.m3u8
 http://45.153.165.14:8000/play/a0fq/index.m3u8
 #EXTINF:-1,VISION SUR
 http://200.60.18.178:21214/play/a0cm/index.m3u8
-#EXTINF:-1,Golden Plus HD
-http://190.108.95.5:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.89.38.19:8000/playlist/tvg-logo/a0ij.png",Multipremier
 http://190.89.38.19:8000/play/a0ij/index.m3u8
 #EXTINF:-1,Canal Estrellas
 http://190.233.211.25:8000/play/a0b7/index.m3u8
-
-
-
-
-#EXTINF:-1,De PelŦcula
-http://190.233.211.25:8000/play/a07n/index.m3u8
-
-
-#EXTINF:-1,Golden HD
-http://190.233.211.25:8000/play/a01e/index.m3u8
-
-
-#EXTINF:-1,Lolly Kids HD
-http://190.233.211.25:8000/play/a0bd/index.m3u8
-
-
 #EXTINF:-1,Movistar Deportes
 http://190.233.211.25:8000/play/a00a/index.m3u8
-#EXTINF:-1,Movistar Deportes HD
-http://190.233.211.25:8000/play/a01c/index.m3u8
-
-
-#EXTINF:-1,TBS Very Funny HD
-http://190.233.211.25:8000/play/a0bm/index.m3u8
-
-#EXTINF:-1,TyC
+#EXTINF:-1,TyC Deportes
 http://190.233.211.25:8000/play/a0aw/index.m3u8
-
 #EXTINF:-1,Zona Latina
 http://190.233.211.25:8000/play/a09u/index.m3u8
-
 #EXTINF:-1,America TV HD
 http://190.233.211.25:8000/play/a02y/index.m3u8
-
-
 #EXTINF:-1,GLOBAL
 http://190.233.211.25:8000/play/a00h/index.m3u8
 
 
-#EXTINF:-1,Canal Estrellas
-http://190.108.95.5:8000/play/a02g/index.m3u8
-
-#EXTINF:-1,Golden HD
-http://190.108.95.5:8000/play/a03m/index.m3u8
-#EXTINF:-1,HBO POP HD
-http://190.108.95.5:8000/play/a008/index.m3u8
 
 #EXTINF:-1,Disney HD
 http://190.108.95.5:8000/play/a016/index.m3u8
@@ -666,8 +626,6 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1, CHICOS ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1, AMG tv HD
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1, ZONA PLAY TV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 #EXTINF:-1, WTV canal 20
@@ -690,8 +648,6 @@ https://vcp.myplaytv.com:443/promar/promar/chunklist_w995873390.m3u8
 http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-1, CARACOL TV 
 https://vkvsd53.mycdn.me:443/hls/2456696195643.m3u8/sig/EDoXc4n_maE/srcIp/190.97.239.70/expires/1654799332956/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3583049870139/id/2456696195643/2456696195643_high/index.m3u8
-#EXTINF:-1, DISTRITO COMEDIA
-http://tv.teleclub.xyz/live/ABRIL_02/DISTRITOCOMEDIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rHFloKz5ypo/XzgNbcFRQgI/AAAAAAAA4Q8/4nKRXr3B33A4BFXqIpCAx6uBfDaDGlnHwCK8BGAsYHg/s0/2020-08-15.png", Catatumbo TV
 http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-opdSbo77LkM/YEtiwd5aljI/AAAAAAABAkw/zfF3b8WRKCkMiaVpD4zlHy0siTQmvlXRgCK8BGAsYHg/s512/2021-03-12.png", TVS Maracay
@@ -712,8 +668,6 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8?nimblesessioni
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8?nimblesessionid=4993247&PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png", Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega
-https://marine2.miplay.cl/mega/playlist.m3u8
 #EXTINF:-1, IVC
 https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png", CHV
@@ -840,8 +794,6 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1458385159.m3u8
 #EXTINF:-1,KIDS CENTRAL
 https://simultv.s.llnwi.net:443/o058/KidCentral/KidCentral/interlink_3200.m3u8
-#EXTINF:-1, CANAL DE LAS ESTRELLAS
-https://edge1.prepro.cvattv.com.ar/live/live/Canal_de_las_estrellas/SA_Live_WebVTT_FTA/Canal_de_las_estrellas.m3u8
 #EXTINF:-1,13 MAX HD
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w111273773.m3u8?PlaylistM3UCL
 #EXTINF:-1,animeTV
@@ -928,8 +880,6 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png", Aniplus
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
-#EXTINF:-1, De Pelicula
-http://tv.teleclub.xyz/live/ABRIL_02/DEPELICULA/index.m3u8
 #EXTINF:-1, VALE TV
 http://vcp1.myplaytv.com:80/valetv/valetv/chunklist_w1562065729.m3u8
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
@@ -1232,11 +1182,11 @@ http://190.83.119.67:8000/play/a0pu/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rh.png",Golden
 http://190.83.119.67:8000/play/a0rh/index.m3u8
 #EXTINF:-1, GOLDEN EDGE
-https://vsd120.mycdn.me:443/hls/2412025612884.m3u8/sig/XmvLQVx7ZhY/expires/1654593835948/srcIp/190.97.239.67/clientType/0/srcAg/CHROME_ANDROID/mid/3629470981716/2412025612884_high/index.m3u8
-#EXTINF:-1, GOLDEN PLUS
-https://vsd138.mycdn.me:443/hls/2391796025927.m3u8/sig/QelPjtwQm4Y/expires/1654593600602/srcIp/190.97.239.67/clientType/0/srcAg/CHROME_ANDROID/mid/5451149286983/2391796025927_high/index.m3u8
+http://45.167.250.116:20023/play/a0f5/index.m3u8
+#EXTINF:-1, GOLDEN PLUS HD
+http://190.108.95.5:8000/play/a03m/index.m3u8
 #EXTINF:-1, GOLDEN PREMIER
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/75_.m3u8?token=bABHMjk7hMYk83lJ13tjSg&expires=1654518614&ip=190.97.239.69
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o3.png",Golf Channel
 http://190.83.119.67:8000/play/a0o3/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qg.png",Golf Channel HD
@@ -1257,10 +1207,10 @@ http://190.83.119.67:8000/play/a0ov/index.m3u8
 http://190.83.119.67:8000/play/a0os/index.m3u8
 #EXTINF:-1,HBO signature HD
 https://edge1.prepro.cvattv.com.ar/live/live/HBO_Signature/SA_Live_WebVTT_FTA/HBO_Signature.m3u8
-#EXTINF:-1,HBO Mundi HD
-https://edge1-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+#EXTINF:-1,HBO MUNDI HD
+http://201.234.194.58:6020/play/a0dg/index.m3u8
 #EXTINF:-1,HBO POP HD
-https://edge1-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+http://190.108.95.5:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0st.png",HOLA! TV HD
 http://190.83.119.67:8000/play/a0st/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rg.png",HTV
