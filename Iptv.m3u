@@ -28,8 +28,6 @@
 
 #EXTINF:-1,Nuestra Tele
 http://181.78.10.235:58002/play/a0bd/index.m3u8
-#EXTINF:-1,Telenovelas
-http://201.234.194.58:6020/play/a093/index.m3u8
 #EXTINF:-1,TC Televisiðn
 http://201.234.194.58:6020/play/a0dp/index.m3u8
 #EXTINF:-1,OROMAR TV
@@ -44,62 +42,19 @@ http://185.223.125.141:8888/play/a00g/index.m3u8
 http://45.167.250.116:20023/play/a0f5/index.m3u8
 #EXTINF:-1,HTV
 http://45.167.250.116:20023/play/a0hx/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,Mega
 http://45.238.21.106:7788/play/a00z/index.m3u8
-
-#EXTINF:-1,Mega
-http://45.179.194.114:48000/play/a0ng/index.m3u8
 #EXTINF:-1,NPY
 http://45.179.194.114:48000/play/a0pg/index.m3u8
-
 #EXTINF:-1,SURTV
 http://45.179.194.114:48000/play/a0ph/index.m3u8
-
-
 #EXTINF:-1,GLOBOVISION
 http://45.153.165.10:8000/play/a0cv/index.m3u8
-
-#EXTINF:-1,TLNOVELAS Multicast
+#EXTINF:-1,TLNOVELAS
 http://45.153.165.14:8000/play/a0fq/index.m3u8
 
-#EXTINF:-1,TLNOVELAS Multicast
-http://45.153.165.13:8000/play/a0fq/index.m3u8
+
+
 #EXTINF:-1,VISION SUR
 http://200.60.18.178:21214/play/a0cm/index.m3u8
 #EXTINF:-1,Golden HD
