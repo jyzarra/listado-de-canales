@@ -32,66 +32,18 @@ http://181.78.10.235:58002/play/a0bd/index.m3u8
 http://201.234.194.58:6020/play/a093/index.m3u8
 #EXTINF:-1,TC Televisiðn
 http://201.234.194.58:6020/play/a0dp/index.m3u8
-#EXTINF:-1,TCM
-http://201.234.194.58:6020/play/a0b1/index.m3u8
 #EXTINF:-1,OROMAR TV
 http://201.234.194.58:6020/play/a0ds/index.m3u8
 #EXTINF:-1,HBO MUNDI
 http://201.234.194.58:6020/play/a0dg/index.m3u8
 #EXTINF:-1,Distrito Comedia
 http://201.234.194.58:6020/play/a0dk/index.m3u8
-
-#EXTINF:-1,HBO MUNDI
-http://54.219.95.167:8000/play/a0jj/index.m3u8
-
 #EXTINF:-1,Filzone
 http://185.223.125.141:8888/play/a00g/index.m3u8
 
-#EXTINF:-1,MVS TV
-http://187.135.175.109:9000/play/a012/index.m3u8
 
-#EXTINF:-1,Canal 13 HD
-http://201.189.120.0:8087/play/a002/index.m3u8
-#EXTINF:-1,Chilevision HD
-http://201.189.120.0:8087/play/a006/index.m3u8
-#EXTINF:-1,Chilevision Musica
-http://201.189.120.0:8087/play/a007/index.m3u8
-#EXTINF:-1,MEGA HD
-http://201.189.120.0:8087/play/a00j/index.m3u8
-#EXTINF:-1,STGO.TV
-http://201.189.120.0:8087/play/a00n/index.m3u8
-#EXTINF:-1,TV+ HD
-http://201.189.120.0:8087/play/a00e/index.m3u8
-#EXTINF:-1,TaTeTi SD
-http://201.189.120.0:8087/play/a00f/index.m3u8
 
-#EXTINF:-1,24h
-http://37.35.150.11:8000/play/a003
-#EXTINF:-1,BeMad tv HD
-http://37.35.150.11:8000/play/a00g
-#EXTINF:-1,Boing
-http://37.35.150.11:8000/play/a009
-#EXTINF:-1,Cuatro
-http://37.35.150.11:8000/play/a00u
-#EXTINF:-1,Cuatro HD
-http://37.35.150.11:8000/play/a00y
-#EXTINF:-1,Divinity
-http://37.35.150.11:8000/play/a00w
-#EXTINF:-1,Energy
-http://37.35.150.11:8000/play/a008
-#EXTINF:-1,FDF
-http://37.35.150.11:8000/play/a00v
-#EXTINF:-1,La 1
-http://37.35.150.11:8000/play/a001
-#EXTINF:-1,La 1 HD
-http://37.35.150.11:8000/play/a004
-#EXTINF:-1,La 2
-http://37.35.150.11:8000/play/a002
-#EXTINF:-1,La 2 HD
-http://37.35.150.11:8000/play/a005
 
-#EXTINF:-1,Golden
-http://45.167.250.116:20023/play/a0fs/index.m3u8
 #EXTINF:-1,Golden Edge
 http://45.167.250.116:20023/play/a0f5/index.m3u8
 #EXTINF:-1,HTV
