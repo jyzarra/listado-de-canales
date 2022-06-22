@@ -42,10 +42,6 @@ http://45.238.21.106:7788/play/a00z/index.m3u8
 http://45.179.194.114:48000/play/a0pg/index.m3u8
 #EXTINF:-1,SURTV
 http://45.179.194.114:48000/play/a0ph/index.m3u8
-#EXTINF:-1,GLOBOVISION
-http://45.153.165.10:8000/play/a0cv/index.m3u8
-#EXTINF:-1,TLNOVELAS
-http://45.153.165.14:8000/play/a0fq/index.m3u8
 #EXTINF:-1,VISION SUR
 http://200.60.18.178:21214/play/a0cm/index.m3u8
 #EXTINF:-1,Multipremier
@@ -70,16 +66,12 @@ http://190.108.95.5:8000/play/a006/index.m3u8
 http://190.108.95.5:8000/play/a02f/index.m3u8
 #EXTINF:-1,WILLAX
 http://190.108.95.5:8000/play/a02p/index.m3u8
-#EXTINF:-1,Esne TV
-http://190.108.95.5:8000/play/a03h/index.m3u8
 #EXTINF:-1,Panamericana TV
 http://190.108.95.5:8000/play/a02t/index.m3u8
 #EXTINF:-1,EsneTV
 http://45.238.21.106:7788/play/a03q/index.m3u8
 #EXTINF:-1,PARAVISION
 http://45.179.194.114:48000/play/a0pd/index.m3u8
-#EXTINF:-1,De PelŦcula
-http://45.225.88.39:8000/play/a05t/index.m3u8
 
 
 
@@ -99,8 +91,10 @@ http://45.225.88.39:8000/play/a05t/index.m3u8
 
 
 
-#EXTINF:-1,letra a
-http://54.219.95.167:8000/play/a0bu/index.m3u8
+
+
+
+
 
 
 
