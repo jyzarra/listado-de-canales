@@ -79,12 +79,12 @@ http://190.233.211.25:8000/play/a07n/index.m3u8
 
 
 
-#EXTINF:-1,Caracol HD
-http://181.65.181.189:8000/play/a03e/index.m3u8
 
 
-#EXTINF:-1,Movistar Deportes HD
-http://181.65.181.189:8000/play/a039/index.m3u8
+
+
+
+
 
 #EXTINF:-1,7-Teletica
 http://168.228.194.32:4000/play/a04k/index.m3u8
@@ -249,54 +249,20 @@ http://161.132.107.27:64206/play/a0ie/index.m3u8
 #EXTINF:-1,Bethel TV
 http://161.132.107.27:64206/play/a0id/index.m3u8
 
-#EXTINF:-1,OneSeg
-http://161.132.107.27:64206/play/a0ig/index.m3u8
-#EXTINF:-1,PANAMERICANA HD
-http://161.132.107.27:64206/play/a0if/index.m3u8
-#EXTINF:-1,Panamericana TV
-http://161.132.107.27:64206/play/a0ga/index.m3u8
-
-#EXTINF:-1,GO-BOX-ACTION
-http://154.73.54.55:9000/play/GO-BOX-ACTION/index.m3u8
-#EXTINF:-1,GO-BOX-ANIMATION
-http://154.73.54.55:9000/play/GO-BOX-ANIMATION/index.m3u8
 
 
-#EXTINF:-1,ON-Cartoon-Zaman
-http://154.73.54.55:9000/play/ON-Cartoon-Zaman/index.m3u8
 
 
-#EXTINF:-1,ON-Netflix
-http://154.73.54.55:9000/play/ON-Netflix/index.m3u8
-
-#EXTINF:-1,AXN
-http://80.96.25.163:7878/play/a054/index.m3u8
-#EXTINF:-1,AXN Black
-http://80.96.25.163:7878/play/a07d/index.m3u8
-#EXTINF:-1,AXN SPIN
-http://80.96.25.163:7878/play/a068/index.m3u8
-#EXTINF:-1,AXN White
-http://80.96.25.163:7878/play/a03u/index.m3u8
-
-EXTINF:-1,CINETUBE
-http://80.96.25.163:7878/play/a061/index.m3u8
-
-EXTINF:-1,CinemaEst
-http://80.96.25.163:7878/play/a03h/index.m3u8
-#EXTINF:-1,Cinemaraton HD
-http://80.96.25.163:7878/play/a05n/index.m3u8
-#EXTINF:-1,Columna
-http://80.96.25.163:7878/play/a06o/index.m3u8
-#EXTINF:-1,DIGI 24
-http://80.96.25.163:7878/play/a04d/index.m3u8
-#EXTINF:-1,DIGI 24 HD
-http://80.96.25.163:7878/play/a044/index.m3u8
-#EXTINF:-1,DW
-http://80.96.25.163:7878/play/a077/index.m3u8
 
 
-#EXTINF:-1,MAGIC TV
-http://80.96.25.163:7878/play/a05p/index.m3u8
+
+
+
+
+
+
+
+
 
 
 
@@ -689,8 +655,8 @@ http://190.83.119.67:8000/play/a0q7/index.m3u8
 http://190.83.119.67:8000/play/a0pr/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q8.png",AMC HD
 http://190.83.119.67:8000/play/a0q8/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pp.png",AXN
-http://190.83.119.67:8000/play/a0pp/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pp.png",AXN HD
+http://168.228.194.32:4000/play/a074/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qe.png",AZ click HD
 http://190.83.119.67:8000/play/a0qe/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v4.png",Amixtv
