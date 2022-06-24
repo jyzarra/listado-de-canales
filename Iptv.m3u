@@ -26,6 +26,8 @@ http://vcp1.myplaytv.com:80/valetv/valetv/chunklist_w1562065729.m3u8
 https://vcp.myplaytv.com:443/canali/canali/chunklist_w1757795756.m3u8
 #EXTINF:-1,Catatumbo TV
 http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8
+#EXTINF:-1,TVO
+http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w1900604199.m3u8
 #EXTINF:-1,TV EPACO
 http://138.186.20.245:8000/play/a06p/index.m3u8
 #EXTINF:-1,TVS Maracay
@@ -52,7 +54,8 @@ http://138.186.20.245:8000/play/a06l/index.m3u8
 http://138.186.20.245:8000/play/a070/index.m3u8
 #EXTINF:-1,Globovision
 http://138.186.20.245:8000/play/a07o/index.m3u8
-
+#EXTINF:-1,telecolor canal zuliano
+https://vcp.myplaytv.com/telecolor/telecolor/chunklist_w1678703432.m3u8
 
 
 
@@ -305,8 +308,10 @@ https://cdn01.yowi.tv/KPFPGJU8A6/live-600.m3u8
 https://vcp.myplaytv.com:443/nubehtv/nubehtv/chunklist_w1542997801.m3u8
 #EXTINF:-1,OXIGENO NETWORK TV
 https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w1424555001.m3u8
-#EXTINF:-1,TVO
-http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w1900604199.m3u8
+
+
+
+
 #EXTINF:-1,visit X TV
 http://stream.visit-x.tv:80/vxtv/live/chunklist_w1068976249.m3u8
 #EXTINF:-1,City tv
@@ -386,13 +391,13 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1598904428.m3u8
 #EXTINF:-1,PANAVISION
 https://vcp.myplaytv.com:443/panavision/panavision/chunklist_w786594979.m3u8
-#EXTINF:-1,telesur tv
-https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1,venezolana de television
-https://www.dailymotion.com/cdn/live/video/x828i6j.m3u8?sec=qtqHzmxevS4MQZsvVf_VttBzezewLKTLP3iAb_NH-bdSkDQ9TbWZcw2dbc_VWLs9j-IUjZeeORbK6UActz5Jlw&dmTs=85174&dmV1st=6E4C2A7959BD280446AE661C57766EA6
 
-#EXTINF:-1, canal i
-https://vcp.myplaytv.com:443/canali/canali/chunklist_w1757795756.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1,Dragon Ball TV
 http://138.36.253.12:8009/play/a00v/index.m3u8
@@ -483,8 +488,10 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w208725964.m3u8
 https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w545828669.m3u8
 #EXTINF:-1,MEGATV 
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
-#EXTINF:-1,telecolor canal zuliano
-https://vcp.myplaytv.com/telecolor/telecolor/chunklist_w1678703432.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/129d176f2117a7985aefe938703c34a5.png", Ziza TV
 https://v2.tustreaming.cl:443/zizatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-k3Xfmd6KcLo/YL98wEjWBnI/AAAAAAABCzo/6deLMFJ6YUElLm3DMqccKFmz8nyzWoRPQCJEEGAsYHg/s512/2021-06-08.png", RLOTV
