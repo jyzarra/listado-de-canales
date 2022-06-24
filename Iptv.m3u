@@ -28,9 +28,8 @@ https://vcp.myplaytv.com:443/canali/canali/chunklist_w1757795756.m3u8
 http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8
 #EXTINF:-1,TVS Maracay
 http://vcp1.myplaytv.com:1935/tvs/tvs/playlist.m3u8
-
-
-
+#EXTINF:-1,ANTV
+http://138.186.20.245:8000/play/a06m/index.m3u8
 
 
 
