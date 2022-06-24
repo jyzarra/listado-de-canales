@@ -26,11 +26,24 @@ http://vcp1.myplaytv.com:80/valetv/valetv/chunklist_w1562065729.m3u8
 https://vcp.myplaytv.com:443/canali/canali/chunklist_w1757795756.m3u8
 #EXTINF:-1,Catatumbo TV
 http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8
+#EXTINF:-1,TV EPACO
+http://138.186.20.245:8000/play/a06p/index.m3u8
 #EXTINF:-1,TVS Maracay
 http://vcp1.myplaytv.com:1935/tvs/tvs/playlist.m3u8
 #EXTINF:-1,ANTV
 http://138.186.20.245:8000/play/a06m/index.m3u8
-
+#EXTINF:-1,CONCIENCIA tv
+http://138.186.20.245:8000/play/a06q/index.m3u8
+#EXTINF:-1,FANB
+http://138.186.20.245:8000/play/a06r/index.m3u8
+#EXTINF:-1,La Tele
+http://138.186.20.245:8000/play/a03j/index.m3u8
+#EXTINF:-1,MERIDIANO TELEVISION
+http://138.186.20.245:8000/play/a06o/index.m3u8
+#EXTINF:-1,LA TELE TUYA
+http://138.186.20.245:8000/play/a07p/index.m3u8
+#EXTINF:-1,TVculturas
+http://138.186.20.245:8000/play/a09d/index.m3u8
 
 
 
