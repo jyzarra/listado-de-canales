@@ -44,6 +44,26 @@ http://138.186.20.245:8000/play/a06o/index.m3u8
 http://138.186.20.245:8000/play/a07p/index.m3u8
 #EXTINF:-1,TVculturas
 http://138.186.20.245:8000/play/a09d/index.m3u8
+#EXTINF:-1,VENEZOLANA DE TELEVISION 
+http://138.186.20.245:8000/play/a06n/index.m3u8
+#EXTINF:-1,VIVE TV
+http://138.186.20.245:8000/play/a06l/index.m3u8
+#EXTINF:-1,Telesur
+http://138.186.20.245:8000/play/a070/index.m3u8
+#EXTINF:-1,Globovision
+http://138.186.20.245:8000/play/a07o/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
