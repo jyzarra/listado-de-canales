@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+*** CANALES DE VENEZUELA ***
+
+
 #EXTINF:-1,GUIA DE CANALES Y PROGRAMACION
 http://168.228.194.32:4000/play/a778/index.m3u8
 #EXTINF:-1,EVENTOS
@@ -72,8 +76,22 @@ https://cdn01.yowi.tv/KPFPGJU8A6/live-600.m3u8
 https://vcp.myplaytv.com:443/nubehtv/nubehtv/chunklist_w1542997801.m3u8
 #EXTINF:-1,OXIGENO NETWORK TV
 https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w1424555001.m3u8
-#EXTINF:-1, IVC
+#EXTINF:-1,IVC
 https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
+
+
+
+
+*** CANALES INFANTILES ***
+
+#EXTINF:-1,Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://190.83.119.67:8000/play/a0ob/index.m3u8
+#EXTINF:-1,NicKelodeon
+http://190.61.37.173:9010/play/a04o/index.m3u8
+#EXTINF:-1,Nick Jr
+http://190.83.119.67:8000/play/a0p9/index.m3u8
 
 
 
@@ -591,10 +609,12 @@ http://190.83.119.67:8000/play/a0ns/index.m3u8
 http://190.83.119.67:8000/play/a0v6/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qt.png",CANAL 13 - NI
 http://190.83.119.67:8000/play/a0qt/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0op.png",CARTOON NT HD
-http://190.83.119.67:8000/play/a0op/index.m3u8
-#EXTINF:-1, cartoon network
-https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pc.png",CCN
 http://190.83.119.67:8000/play/a0pc/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qq.png",CDN2- RD
@@ -649,8 +669,8 @@ http://190.83.119.67:8000/play/a0oy/index.m3u8
 http://190.83.119.67:8000/play/a0oo/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0np.png",Canal del Congreso
 http://190.83.119.67:8000/play/a0np/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p8.png",Cartoon Network
-http://190.83.119.67:8000/play/a0p8/index.m3u8
+
+
 #EXTINF:-1, eduardo tv
 http://190.61.37.173:9010/play/a061/index.m3u8
 #EXTINF:-1,cartoonito 
@@ -687,8 +707,10 @@ http://190.83.119.67:8000/play/a0sa/index.m3u8
 http://190.83.119.67:8000/play/a0tb/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tf.png",Discovery ID HD
 http://190.83.119.67:8000/play/a0tf/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ob.png",Discovery Kids HD
-http://190.83.119.67:8000/play/a0ob/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ny.png",Discovery Science
 http://190.83.119.67:8000/play/a0ny/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tc.png",Discovery World HD
@@ -831,12 +853,16 @@ http://190.83.119.67:8000/play/a0t8/index.m3u8
 http://190.83.119.67:8000/play/a0pk/index.m3u8
 #EXTINF:-1,NAT GEO KIDS
 http://190.61.37.173:9010/play/a03g/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p9.png",Nick Jr
+
+#EXTINF:-1,Nick Jr
 http://190.83.119.67:8000/play/a0p9/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0so.png",Nick SIM HD
 http://190.83.119.67:8000/play/a0so/index.m3u8
-#EXTINF:-1, NicKelodeon
-http://190.61.37.173:9010/play/a04o/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o4.png",PXTV
 http://190.83.119.67:8000/play/a0o4/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ol.png",Paramount
