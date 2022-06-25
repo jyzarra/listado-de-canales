@@ -94,10 +94,20 @@ http://190.61.37.173:9010/play/a04o/index.m3u8
 http://190.83.119.67:8000/play/a0p9/index.m3u8
 #EXTINF:-1,Teen Nick HD
 http://190.83.119.67:8000/play/a0q1/index.m3u8
-
-
+#EXTINF:-1,Disney Channel HD
+http://190.108.95.5:8000/play/a016/index.m3u8
+#EXTINF:-1,Disney Junior HD
+http://45.92.69.77:8000/play/a03t/index.m3u8
 #EXTINF:-1,cartoonito HD
 https://edge1.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomerang.m3u8
+#EXTINF:-1,Tooncast
+http://190.83.119.67:8000/play/a0s3/index.m3u8
+
+
+
+
+
+
 
 
 
@@ -135,8 +145,10 @@ http://190.233.211.25:8000/play/a0aw/index.m3u8
 http://190.233.211.25:8000/play/a09u/index.m3u8
 #EXTINF:-1,America TV HD
 http://190.233.211.25:8000/play/a02y/index.m3u8
-#EXTINF:-1,Disney Channel HD
-http://190.108.95.5:8000/play/a016/index.m3u8
+
+
+
+
 #EXTINF:-1,Frecuencia Latina HD
 http://190.108.95.5:8000/play/a00g/index.m3u8
 #EXTINF:-1,Space HD
@@ -863,8 +875,8 @@ http://190.61.37.173:9010/play/a03g/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0so.png",Nick SIM HD
-http://190.83.119.67:8000/play/a0so/index.m3u8
+
+
 
 
 
@@ -971,10 +983,11 @@ http://190.83.119.67:8000/play/a0qr/index.m3u8
 http://190.83.119.67:8000/play/a0of/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sn.png",Tigo Sports HD
 http://190.83.119.67:8000/play/a0sn/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s3.png",Tooncast
-http://190.83.119.67:8000/play/a0s3/index.m3u8
-#EXTINF:-1,TOONCAST
-https://edge-live13-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pe.png",Tru TV
 http://190.83.119.67:8000/play/a0pe/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0om.png",UNIVERSAL CINEMA
