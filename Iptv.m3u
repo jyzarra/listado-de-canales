@@ -106,6 +106,10 @@ http://45.92.69.77:8000/play/a03t/index.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomerang.m3u8
 #EXTINF:-1,Tooncast
 http://190.83.119.67:8000/play/a0s3/index.m3u8
+#EXTINF:-1,Baby First
+http://190.83.119.67:8000/play/a0r3/index.m3u8
+#EXTINF:-1,Baby TV
+http://190.83.119.67:8000/play/a0ns/index.m3u8
 #EXTINF:-1,CANAL ZAZ TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
 #EXTINF:-1, PLANETA KIDS
@@ -287,8 +291,8 @@ https://streamtv.mediasector.es/hls/activatv/.m3u8
 https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
 #EXTINF:-1, TICAVISION
 https://59ef525c24caa.streamlock.net:443/HBTV/HBTV/chunklist_w1881512837.m3u8?PlaylistM3UCL
-#EXTINF:-1, CANAL ZAZ TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
+
+
 
 
 
@@ -496,8 +500,8 @@ https://stream.ads.ottera.tv/cl/a0c4b83a-bbf8-46b2-812f-06dccdda0a28/1280x720_23
 http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
 #EXTINF:-1, Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1,Disney XD
-http://190.61.37.173:9010/play/a042/index.m3u8
+
+
 #EXTINF:-1,TELERITMO
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
 #EXTINF:-1,BITME
@@ -668,10 +672,12 @@ http://190.83.119.67:8000/play/a0pg/index.m3u8
 http://190.83.119.67:8000/play/a0s4/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pt.png",BBC World
 http://190.83.119.67:8000/play/a0pt/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r3.png",Baby First
-http://190.83.119.67:8000/play/a0r3/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ns.png",Baby TV
-http://190.83.119.67:8000/play/a0ns/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v6.png",Beinsports
 http://190.83.119.67:8000/play/a0v6/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qt.png",CANAL 13 - NI
