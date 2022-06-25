@@ -84,7 +84,7 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 *** CANALES INFANTILES ***
 
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1,Cartoon Network HD
 https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
 #EXTINF:-1,Discovery Kids HD
 http://190.83.119.67:8000/play/a0ob/index.m3u8
@@ -92,7 +92,11 @@ http://190.83.119.67:8000/play/a0ob/index.m3u8
 http://190.61.37.173:9010/play/a04o/index.m3u8
 #EXTINF:-1,Nick Jr
 http://190.83.119.67:8000/play/a0p9/index.m3u8
-#EXTINF:-1,cartoonito 
+#EXTINF:-1,Teen Nick HD
+http://190.83.119.67:8000/play/a0q1/index.m3u8
+
+
+#EXTINF:-1,cartoonito HD
 https://edge1.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomerang.m3u8
 
 
@@ -945,8 +949,10 @@ http://190.83.119.67:8000/play/a0nw/index.m3u8
 http://190.83.119.67:8000/play/a0o6/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nr.png",TVM25 -  ESA
 http://190.83.119.67:8000/play/a0nr/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q1.png",Teen Nick HD
-http://190.83.119.67:8000/play/a0q1/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p1.png",Tele Antillas - RD
 http://190.83.119.67:8000/play/a0p1/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rz.png",TeleMicro - RD
