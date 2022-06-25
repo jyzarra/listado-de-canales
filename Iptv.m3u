@@ -114,7 +114,8 @@ http://190.83.119.67:8000/play/a0s3/index.m3u8
 
 
 
-
+#EXTINF:-1,Penthouse HD1
+http://45.92.69.77:8000/play/a032/index.m3u8
 #EXTINF:-1,Nuestra Tele
 http://181.78.10.235:58002/play/a0bd/index.m3u8
 #EXTINF:-1,TC Televisiðn
@@ -732,8 +733,8 @@ http://190.83.119.67:8000/play/a0tf/index.m3u8
 http://190.83.119.67:8000/play/a0ny/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tc.png",Discovery World HD
 http://190.83.119.67:8000/play/a0tc/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pb.png",Disney JR
-http://190.83.119.67:8000/play/a0pb/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s7.png",E!
 http://190.83.119.67:8000/play/a0s7/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q5.png",E! Entertairment HD
