@@ -124,10 +124,19 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8?nimblesessioni
 http://138.36.253.12:8009/play/a00v/index.m3u8
 #EXTINF:-1,BITME
 http://tv.teleclub.xyz/live/ABRIL_02/BITME/index.m3u8
+#EXTINF:-1,Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,SEMILLITAS
 http://190.83.119.67:8000/play/a0pd/index.m3u8
+#EXTINF:-1,Paka Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1,ACS Network TV
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+#EXTINF:-1,Kids90
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
+#EXTINF:-1,Cloud Server Kids
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
+
 #EXTINF:-1,Anime Zone TV
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 
@@ -593,10 +602,15 @@ https://cloudvideo.servers10.com:8081/8206/index.m3u8
 https://cloudvideo.servers10.com:8081/8208/index.m3u8
 #EXTINF:-1,ViWiX TV ACCION
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png", Kids90
-https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/274ff2c35f3c15674e5e8c580baec385.png", Cloud Server Kids
-https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/3a66236cd4d5f46b440f80ccc87129f1.png", Exprezion TV
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 #EXTINF:-1,vallenato internacional
@@ -619,8 +633,10 @@ https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8
 https://stmv2.voxtvhd.com.br/puertonatales/puertonatales/playlist.m3u8
 #EXTINF:-1, EvaRETRO
 https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV
@@ -641,8 +657,10 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8
 https://servilive.com:3194/live/proyectatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png", Teleuno
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png", Mi TV Televisión Clásica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 3
