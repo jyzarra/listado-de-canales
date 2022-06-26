@@ -157,8 +157,16 @@ http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 
 
 
-
-
+#EXTINF:-1,CBeebies
+http://45.153.35.221:8000/play/a00b/index.m3u8
+#EXTINF:-1,CBeebies
+http://45.153.35.221:8000/play/a007/index.m3u8
+#EXTINF:-1,AXN Movies HD
+http://45.92.69.77:8000/play/a04r/index.m3u8
+#EXTINF:-1,AXN White
+http://45.92.69.77:8000/play/a069/index.m3u8
+#EXTINF:-1,AXN White HD
+http://45.92.69.77:8000/play/a04v/index.m3u8
 #EXTINF:-1,Hollywood
 http://45.92.69.77:8000/play/a06f/index.m3u8
 #EXTINF:-1,Hollywood HD
