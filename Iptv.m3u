@@ -116,6 +116,30 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avo
 https://mediacpstreamchile.com:1936/8152/8152/chunklist_w350987082.m3u8
 #EXTINF:-1,Chavo TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
+#EXTINF:-1,Energeek Radio
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8?nimblesessionid=4993279&PlaylistM3UCL
+#EXTINF:-1,EnerGeek
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8?nimblesessionid=4993247&PlaylistM3UCL
+#EXTINF:-1,Dragon Ball TV
+http://138.36.253.12:8009/play/a00v/index.m3u8
+#EXTINF:-1,BITME
+http://tv.teleclub.xyz/live/ABRIL_02/BITME/index.m3u8
+#EXTINF:-1,SEMILLITAS
+http://190.83.119.67:8000/play/a0pd/index.m3u8
+#EXTINF:-1,ACS Network TV
+https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+#EXTINF:-1,Anime Zone TV
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -317,10 +341,12 @@ https://paneltv.online:1936/8116/8116/playlist.m3u8
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/8c2f2173bc185136286b7335795f678b.png", TVV
 https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/0a827a2aa3eb974cf2e999e0139f6d0f.png", Energeek Radio
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8?nimblesessionid=4993279&PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/21292151846695a1a7dff79bad326e50.png", EnerGeek
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8?nimblesessionid=4993247&PlaylistM3UCL
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png", Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
@@ -484,8 +510,9 @@ http://138.36.253.12:8009/play/a005/index.m3u8
 
 
 
-#EXTINF:-1,Dragon Ball TV
-http://138.36.253.12:8009/play/a00v/index.m3u8
+
+
+
 #EXTINF:-1,GLITZ
 http://138.36.253.12:8009/play/a018/index.m3u8
 #EXTINF:-1,Inter TV
@@ -504,8 +531,10 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 
 #EXTINF:-1,TELERITMO
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
-#EXTINF:-1,BITME
-http://tv.teleclub.xyz/live/ABRIL_02/BITME/index.m3u8
+
+
+
+
 #EXTINF:-1,cinemax
 http://190.61.37.173:9010/play/a052/index.m3u8
 #EXTINF:-1,CINEMAX HD
@@ -541,8 +570,8 @@ https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 
 
-#EXTINF:-1,Chavo TV
-https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
+
+
 
 #EXTINF:-1,KPOP
 http://138.36.253.12:8009/play/a007/index.m3u8
@@ -620,14 +649,18 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png", Anime Zone TV | AR
-http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png", Estrella TV
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d0743d852c7c3b8f6f5996ac0780fefc.png", Nitida TV
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/f4e6f06a328814e84dd4da2c89843129.png", ACS Network TV
-https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="DANTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png",DAN TV (720p)
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r0.png",11 - Repretel
@@ -926,8 +959,8 @@ http://190.83.119.67:8000/play/a0qw/index.m3u8
 http://190.83.119.67:8000/play/a0t8/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pk.png",National Geographic
 http://190.83.119.67:8000/play/a0pk/index.m3u8
-#EXTINF:-1,NAT GEO KIDS
-http://190.61.37.173:9010/play/a03g/index.m3u8
+
+
 
 
 
@@ -963,8 +996,10 @@ http://190.83.119.67:8000/play/a0nq/index.m3u8
 http://190.83.119.67:8000/play/a0r5/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ti.png",RT Noticas
 http://190.83.119.67:8000/play/a0ti/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pd.png",SEMILLITAS
-http://190.83.119.67:8000/play/a0pd/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nn.png",SERTV - PAN
 http://190.83.119.67:8000/play/a0nn/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s5.png",SONY
