@@ -110,6 +110,8 @@ http://190.83.119.67:8000/play/a0s3/index.m3u8
 http://190.83.119.67:8000/play/a0r3/index.m3u8
 #EXTINF:-1,Baby TV
 http://190.83.119.67:8000/play/a0ns/index.m3u8
+#EXTINF:-1,CBeebies 
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
 #EXTINF:-1,CHICOS ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1,DosKids
@@ -122,6 +124,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avo
 https://mediacpstreamchile.com:1936/8152/8152/chunklist_w350987082.m3u8
 #EXTINF:-1,Chavo TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
+#EXTINF:-1,CSTV
+https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1,Energeek Radio
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8?nimblesessionid=4993279&PlaylistM3UCL
 #EXTINF:-1,EnerGeek
@@ -148,6 +152,8 @@ https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 EXTINF:-1,RETRO KIDS
 http://138.36.253.12:8009/play/a011/index.m3u8
+#EXTINF:-1,Mi TV Televisión Clásica
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1,KIDS CENTRAL
 https://simultv.s.llnwi.net:443/o058/KidCentral/KidCentral/interlink_3200.m3u8
 #EXTINF:-1,KidsFlix
@@ -156,6 +162,8 @@ https://stream.ads.ottera.tv/cl/a0c4b83a-bbf8-46b2-812f-06dccdda0a28/1280x720_23
 http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
 #EXTINF:-1,Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1,Vintage TV
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 #EXTINF:-1,CHINOLA TV 
 https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
 #EXTINF:-1,animeTV
@@ -166,11 +174,15 @@ http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
 #EXTINF:-1,LATINO KIDS
 https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w2082715386.m3u8
-
+#EXTINF:-1,Aniplus
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 #EXTINF:-1,Chiquilines
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
 
+
+
+**** CANALES DE PELICULAS Y SERIES****
 
 
 
@@ -323,8 +335,8 @@ http://168.228.194.32:4000/play/a04k/index.m3u8
 
 
 
-#EXTINF:-1, CBeebies 
-https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
+
+
 #EXTINF:-1, VAMISA TV 
 https://vps1.lnx.pe/vamisa/envivo/index.m3u8
 #EXTINF:-1, TV GALICIA
@@ -603,14 +615,14 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/68440ade4173cf6883793fe3238cc238.png", APlus TV
 https://stmv1.voxtvhd.com.br:443/aplustv/aplustv/chunklist_w325268689.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/47dbf3d973bc8bbb819631a37cbb942d.png", Vintage TV
-https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E_i3NMhXprE/XzgiJBP-YeI/AAAAAAAA4YY/htokywgIrT8erB8ThIjJED5hRTUpqwGBwCK8BGAsYHg/s0/2020-08-15.png", Mundo +
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png", Aniplus
-https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
+
+
 
 
 
@@ -618,8 +630,8 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png", RCKTV
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/34feb14ad3ee6a17a160ab0635915bf0.png", CSTV
-https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
+
+
 
 
 
@@ -704,8 +716,8 @@ https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png", Mi TV Televisión Clásica
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema
