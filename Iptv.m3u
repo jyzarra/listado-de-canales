@@ -110,6 +110,12 @@ http://190.83.119.67:8000/play/a0s3/index.m3u8
 http://190.83.119.67:8000/play/a0r3/index.m3u8
 #EXTINF:-1,Baby TV
 http://190.83.119.67:8000/play/a0ns/index.m3u8
+#EXTINF:-1,CHICOS ipe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1,DosKids
+http://138.36.253.12:8009/play/a003/index.m3u8
+#EXTINF:-1,Pequeradio 
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1,CANAL ZAZ TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
 #EXTINF:-1, PLANETA KIDS
@@ -136,16 +142,33 @@ https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
 #EXTINF:-1,Cloud Server Kids
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
+#EXTINF:-1,RetroCruh TV
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/b5860709-8f63-40cf-a5f2-2cda3294e24b/5.m3u8
+#EXTINF:-1,Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+EXTINF:-1,RETRO KIDS
+http://138.36.253.12:8009/play/a011/index.m3u8
+#EXTINF:-1,KIDS CENTRAL
+https://simultv.s.llnwi.net:443/o058/KidCentral/KidCentral/interlink_3200.m3u8
+#EXTINF:-1,KidsFlix
+https://stream.ads.ottera.tv/cl/a0c4b83a-bbf8-46b2-812f-06dccdda0a28/1280x720_2300000_0_false.m3u8
+#EXTINF:-1,KURIKOS kids
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:-1,Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1,CHINOLA TV 
 https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
 #EXTINF:-1,animeTV
 https://stmv1.srvif.com:443/animetv/animetv/chunklist_w1642444041.m3u8
 #EXTINF:-1,Anime Zone TV
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1,CONtv Anime
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
+#EXTINF:-1,LATINO KIDS
+https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w2082715386.m3u8
 
-
-
-
+#EXTINF:-1,Chiquilines
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
 
 
@@ -322,8 +345,8 @@ https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1, SAN ISIDRO TV
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-#EXTINF:-1, CHICOS ipe
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+
 #EXTINF:-1, ZONA PLAY TV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 #EXTINF:-1, WTV canal 20
@@ -377,8 +400,11 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png", CHV
 https://marine2.miplay.cl/chilevision/playlist.m3u8
-#EXTINF:-1,CONtv Anime
-https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretencion
 https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png", 13 Prime
@@ -460,8 +486,10 @@ https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
 
 #EXTINF:-1,WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w2074580381.m3u8
-#EXTINF:-1, Chiquilines
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+
+
+
+
 #EXTINF:-1 ,Telecanal
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 
@@ -470,16 +498,16 @@ http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 
 #EXTINF:-1,My Cinema Asia
 http://210.210.155.35/uq2663/h/h193/index.m3u8
-#EXTINF:-1, LATINO KIDS
-https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w2082715386.m3u8
+
+
 #EXTINF:-1, Global Got Talent
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
 #EXTINF:-1,VALLEVISION
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w110658420.m3u8
 #EXTINF:-1,Sarapiqui TV
 https://tiquiciatv.duckdns.org/hls/livestv.m3u8
-#EXTINF:-1,RetroCruh TV
-https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/b5860709-8f63-40cf-a5f2-2cda3294e24b/5.m3u8
+
+
 #EXTINF:-1,Rakuten TV Accion Movies
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv:443/3000.m3u8
 #EXTINF:-1,Rakuten TV Comedy Movies
@@ -490,24 +518,24 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv:443/3000.m3u8
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv:443/3000.m3u8
 #EXTINF:-1, Rakuten TV Shows
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv:443/3000.m3u8
-#EXTINF:-1,Pequeradio 
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+
 #EXTINF:-1,ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1458385159.m3u8
-#EXTINF:-1,KIDS CENTRAL
-https://simultv.s.llnwi.net:443/o058/KidCentral/KidCentral/interlink_3200.m3u8
+
+
 #EXTINF:-1,13 MAX HD
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w111273773.m3u8?PlaylistM3UCL
 
 
 
 
-#EXTINF:-1,Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+
 #EXTINF:-1,love nature
 https://bamus-spa-roku.amagi.tv:443/playlist1080-p.m3u8
-#EXTINF:-1,RETRO KIDS
-http://138.36.253.12:8009/play/a011/index.m3u8
+
+
 #EXTINF:-1,MXclassic
 http://138.36.253.12:8009/play/a00a/index.m3u8
 #EXTINF:-1,MXfamily
@@ -545,12 +573,12 @@ http://138.36.253.12:8009/play/a015/index.m3u8
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1,TeleSUR
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1,KidsFlix
-https://stream.ads.ottera.tv/cl/a0c4b83a-bbf8-46b2-812f-06dccdda0a28/1280x720_2300000_0_false.m3u8
-#EXTINF:-1, KURIKOS kids
-http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
-#EXTINF:-1, Spacetoon
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1,TELERITMO
@@ -563,8 +591,8 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tec
 http://190.61.37.173:9010/play/a052/index.m3u8
 #EXTINF:-1,CINEMAX HD
 https://edge1.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
-#EXTINF:-1,DosKids
-http://138.36.253.12:8009/play/a003/index.m3u8
+
+
 #EXTINF:-1, CDM INTERNACIONAL
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w152721132.m3u8
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", Mega Cine TV | DO
