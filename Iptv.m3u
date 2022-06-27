@@ -215,6 +215,8 @@ http://190.83.119.67:8000/play/a0t9/index.m3u8
 http://45.92.69.77:8000/play/a07o/index.m3u8
 #EXTINF:-1,Multipremier
 http://190.61.37.173:9010/play/a050/index.m3u8
+#EXTINF:-1,Multicinema
+http://190.83.119.67:8000/play/a0o5/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://190.83.119.67:8000/play/a0si/index.m3u8
 #EXTINF:-1,STAR LIFE
@@ -235,6 +237,19 @@ http://190.83.119.67:8000/play/a0t0/index.m3u8
 http://190.83.119.67:8000/play/a0ui/index.m3u8
 #EXTINF:-1,UNIVERSAL REALITY HD
 http://190.83.119.67:8000/play/a0sz/index.m3u8
+EXTINF:-1,A&E HD
+http://190.83.119.67:8000/play/a0q7/index.m3u8
+http://190.83.119.67:8000/play/a0pr/index.m3u8
+#EXTINF:-1,AMC HD
+http://190.83.119.67:8000/play/a0q8/index.m3u8
+
+
+
+
+
+
+
+
 
 
 
@@ -253,15 +268,6 @@ http://190.83.119.67:8000/play/a0sz/index.m3u8
 http://45.153.35.221:8000/play/a00b/index.m3u8
 #EXTINF:-1,CBeebies
 http://45.153.35.221:8000/play/a007/index.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1,Horse TV
 http://45.92.69.77:8000/play/a007/index.m3u8
@@ -805,14 +811,14 @@ http://190.83.119.67:8000/play/a0oi/index.m3u8
 http://190.83.119.67:8000/play/a0qy/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qz.png",7-Teletica
 http://190.83.119.67:8000/play/a0qz/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s8.png",A&E
-http://190.83.119.67:8000/play/a0s8/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q7.png",A&E HD
-http://190.83.119.67:8000/play/a0q7/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pr.png",AMC
-http://190.83.119.67:8000/play/a0pr/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q8.png",AMC HD
-http://190.83.119.67:8000/play/a0q8/index.m3u8
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qe.png",AZ click HD
@@ -1023,15 +1029,17 @@ http://190.83.119.67:8000/play/a0qg/index.m3u8
 http://190.83.119.67:8000/play/a0oz/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r7.png",H2
 http://190.83.119.67:8000/play/a0r7/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ou.png",HBO Family HD
+#EXTINF:-1,HBO Family HD
 http://190.83.119.67:8000/play/a0ou/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0or.png",HBO HD
+#EXTINF:-1,HBO HD
 http://190.83.119.67:8000/play/a0or/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png",HBO Plus HD
+#EXTINF:-1,HBO Plus HD
 http://190.83.119.67:8000/play/a0ot/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png",HBO XTREME
+#EXTINF:-1 tvg-logo="http://1
+
+#EXTINF:-1,HBO XTREME
 http://190.83.119.67:8000/play/a0ov/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png",HBO2 HD
+#EXTINF:-1,HBO2 HD
 http://190.83.119.67:8000/play/a0os/index.m3u8
 #EXTINF:-1,HBO signature HD
 https://edge1.prepro.cvattv.com.ar/live/live/HBO_Signature/SA_Live_WebVTT_FTA/HBO_Signature.m3u8
@@ -1077,8 +1085,8 @@ http://190.83.119.67:8000/play/a0sv/index.m3u8
 http://190.83.119.67:8000/play/a0nu/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tj.png",Movistar La liga
 http://190.83.119.67:8000/play/a0tj/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o5.png",Multicinema
-http://190.83.119.67:8000/play/a0o5/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0og.png",Multimedios
 http://190.83.119.67:8000/play/a0og/index.m3u8
 
