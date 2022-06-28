@@ -266,13 +266,17 @@ http://45.167.250.116:20023/play/a0f5/index.m3u8
 #EXTINF:-1,GOLDEN PLUS HD
 http://190.108.95.5:8000/play/a03m/index.m3u8
 #EXTINF:-1,GOLDEN PREMIER
-
-
-
-
-
-
-
+sin ip
+#EXTINF:-1,De PelŦcula
+http://190.233.211.25:8000/play/a07n/index.m3u8
+#EXTINF:-1,NuestraVision 
+https://siloh-ns1.plutotv.net:443/lilo/production/Nuestravision/master_1.m3u8
+#EXTINF:-1,TC Televisiðn
+http://201.234.194.58:6020/play/a0dp/index.m3u8
+#EXTINF:-1,OROMAR TV
+http://201.234.194.58:6020/play/a0ds/index.m3u8
+#EXTINF:-1,TCM
+http://190.83.119.67:8000/play/a0ri/index.m3u8
 
 
 
@@ -332,10 +336,13 @@ http://212.18.115.192:3169/play/a00c/index.m3u8
 http://45.92.69.77:8000/play/a032/index.m3u8
 #EXTINF:-1,Nuestra Tele
 http://181.78.10.235:58002/play/a0bd/index.m3u8
-#EXTINF:-1,TC Televisiðn
-http://201.234.194.58:6020/play/a0dp/index.m3u8
-#EXTINF:-1,OROMAR TV
-http://201.234.194.58:6020/play/a0ds/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1,Distrito Comedia
 http://201.234.194.58:6020/play/a0dk/index.m3u8
 #EXTINF:-1,Filzone
@@ -380,8 +387,11 @@ http://45.238.21.106:7788/play/a03q/index.m3u8
 http://45.179.194.114:48000/play/a0pd/index.m3u8
 #EXTINF:-1,Caracol HD
 http://190.83.2.121:8080/play/a06o/index.m3u8
-#EXTINF:-1,De PelŦcula
-http://190.233.211.25:8000/play/a07n/index.m3u8
+
+
+
+
+
 #EXTINF:-1,7-Teletica
 http://168.228.194.32:4000/play/a04k/index.m3u8
 
@@ -562,8 +572,11 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1,A+TV
 https://vxlive.cdn.antel.net.uy:443/auth_V_AmasV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQW1hc1YlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTY1NDE3ODA3MyZyYW5kb209U2V0NjNyT3ZmdCZjLWlwPTE4Ni4xODUuMTY3LjIxNSZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzaDhxLGE5Mjc0NDBlMGZiNzU5OGQ1ZjgxNTQxYTMzOGMxMGRkZWFmNmE2MjkwYjYzYmYzN2E2YmYxMjYwNWYyNjkyZWE=/vxfmt=hls/h_06a4e64321ce21c4430cbac47fe7a5f9/var1200000/playlist.m3u8
-#EXTINF:-1,NuestraVision 
-https://siloh-ns1.plutotv.net:443/lilo/production/Nuestravision/master_1.m3u8
+
+
+
+
+
 #EXTINF:-1,EVTV
 https://streannliveevtv.cachefly.net:443/evtv1/evtv1/chunks.m3u8
 #EXTINF:-1, VIVO PLAY
@@ -1191,10 +1204,11 @@ http://190.83.119.67:8000/play/a0r9/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pv.png",TBN Enlace
 http://190.83.119.67:8000/play/a0pv/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pj.png",TBS
+#EXTINF:-1,TBS
 http://190.83.119.67:8000/play/a0pj/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ri.png",TCM
-http://190.83.119.67:8000/play/a0ri/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oa.png",TD+2 HD CR
 http://190.83.119.67:8000/play/a0oa/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o9.png",TD+HD CR
