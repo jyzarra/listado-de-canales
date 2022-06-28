@@ -319,8 +319,12 @@ https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproduccion
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
 #EXTINF:-1,DAN TV HD
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
-
-
+#EXTINF:-1,GEN TV
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1,CINE ARGENTINO
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1, CINE SUREÑO
+https://olympusamagi.pc.cdn.bitgravity.com:443/CineSureno-roku/master_6.m3u8
 
 
 #EXTINF:-1,Eduardo tv
@@ -841,14 +845,16 @@ https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV
-https://videohd.live:19360/8010/8010.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1, CINE SUREÑO
-https://olympusamagi.pc.cdn.bitgravity.com:443/CineSureno-roku/master_6.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana
-https://cdnh71.iblups.com/hls/ptv2.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,MATICEStv
 http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1,ORIENTAL TV
