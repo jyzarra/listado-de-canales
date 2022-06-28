@@ -744,7 +744,7 @@ https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV
+#EXTINF:-1, Viwix TV
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 #EXTINF:-1,Viwix TV Music
 https://cloudvideo.servers10.com:8081/8210/index.m3u8
