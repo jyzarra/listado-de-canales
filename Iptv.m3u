@@ -271,6 +271,10 @@ sin ip
 http://190.233.211.25:8000/play/a07n/index.m3u8
 #EXTINF:-1,NuestraVision 
 https://siloh-ns1.plutotv.net:443/lilo/production/Nuestravision/master_1.m3u8
+#EXTINF:-1,Cine Latino
+http://190.83.119.67:8000/play/a0tl/index.m3u8
+#EXTINF:-1,Claro Cinema
+http://190.83.119.67:8000/play/a0sh/index.m3u8
 #EXTINF:-1,TC Televisiðn
 http://201.234.194.58:6020/play/a0dp/index.m3u8
 #EXTINF:-1,OROMAR TV
@@ -303,16 +307,24 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv:443/3000.m3u8
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv:443/3000.m3u8
 #EXTINF:-1,Rakuten TV Shows
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv:443/3000.m3u8
+#EXTINF:-1,Europa HD
+http://190.83.119.67:8000/play/a0qb/index.m3u8
+#EXTINF:-1,EURO Channel
+http://190.83.119.67:8000/play/a0r6/index.m3u8
+#EXTINF:-1,DHE HD
+http://190.83.119.67:8000/play/a0qd/index.m3u8
+#EXTINF:-1,Estrella TV
+https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
+#EXTINF:-1,Nitida TV
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
+#EXTINF:-1,DAN TV HD
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 
 
 
 
-
-
-
-
-
-
+#EXTINF:-1,Eduardo tv
+http://190.61.37.173:9010/play/a061/index.m3u8
 
 
 
@@ -861,16 +873,15 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png", Estrella TV
-https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d0743d852c7c3b8f6f5996ac0780fefc.png", Nitida TV
-https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="DANTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png",DAN TV (720p)
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r0.png",11 - Repretel
 http://190.83.119.67:8000/play/a0r0/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oh.png",13-Sinart
@@ -985,16 +996,19 @@ http://190.83.119.67:8000/play/a0oo/index.m3u8
 http://190.83.119.67:8000/play/a0np/index.m3u8
 
 
-#EXTINF:-1, eduardo tv
-http://190.61.37.173:9010/play/a061/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tl.png",Cine Latino
-http://190.83.119.67:8000/play/a0tl/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sh.png",Claro Cinema
-http://190.83.119.67:8000/play/a0sh/index.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0re.png",Claro Musica
 http://190.83.119.67:8000/play/a0re/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0on.png",Claro Sports  HD
@@ -1009,10 +1023,12 @@ http://190.83.119.67:8000/play/a0s0/index.m3u8
 http://190.83.119.67:8000/play/a0su/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oq.png",Concert Channel HD
 http://190.83.119.67:8000/play/a0oq/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ok.png",DHE
-http://190.83.119.67:8000/play/a0ok/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qd.png",DHE HD
-http://190.83.119.67:8000/play/a0qd/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sr.png",DISC THEATHER HD
 http://190.83.119.67:8000/play/a0sr/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qp.png",Digital 15 - RD
@@ -1053,14 +1069,21 @@ http://190.83.119.67:8000/play/a0t5/index.m3u8
 http://190.61.37.173:9010/play/a05c/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t4.png",ESPN HD
 http://190.83.119.67:8000/play/a0t4/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r6.png",EURO Channel
-http://190.83.119.67:8000/play/a0r6/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pw.png",EWTN
 http://190.83.119.67:8000/play/a0pw/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r8.png",El Gourmet
 http://190.83.119.67:8000/play/a0r8/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qb.png",Europa HD
-http://190.83.119.67:8000/play/a0qb/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sg.png",Exa TV
 http://190.83.119.67:8000/play/a0sg/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sp.png",FOX SPORTS 2 HD
