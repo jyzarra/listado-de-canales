@@ -213,6 +213,8 @@ http://190.83.119.67:8000/play/a0ta/index.m3u8
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1,CINECANAL HD
 http://190.83.119.67:8000/play/a0sl/index.m3u8
+#EXTINF:-1,CINEMAX HD
+https://edge1.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
 #EXTINF:-1,SONY HD
 http://190.83.119.67:8000/play/a0sk/index.m3u8
 #EXTINF:-1,Sony Movies HD
@@ -331,8 +333,8 @@ https://olympusamagi.pc.cdn.bitgravity.com:443/CineSureno-roku/master_6.m3u8
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1,PlanetaTV Movies
 https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
-
-
+#EXTINF:-1,APlus TV
+https://stmv1.voxtvhd.com.br:443/aplustv/aplustv/chunklist_w325268689.m3u8?PlaylistM3UCL
 
 
 
@@ -758,10 +760,11 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tec
 
 
 
-#EXTINF:-1,cinemax
-http://190.61.37.173:9010/play/a052/index.m3u8
-#EXTINF:-1,CINEMAX HD
-https://edge1.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1, CDM INTERNACIONAL
@@ -773,8 +776,8 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1,APlus TV
-https://stmv1.voxtvhd.com.br:443/aplustv/aplustv/chunklist_w325268689.m3u8?PlaylistM3UCL
+
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E_i3NMhXprE/XzgiJBP-YeI/AAAAAAAA4YY/htokywgIrT8erB8ThIjJED5hRTUpqwGBwCK8BGAsYHg/s0/2020-08-15.png", Mundo +
