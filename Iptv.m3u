@@ -281,6 +281,8 @@ http://201.234.194.58:6020/play/a0dp/index.m3u8
 http://201.234.194.58:6020/play/a0ds/index.m3u8
 #EXTINF:-1,TCM
 http://190.83.119.67:8000/play/a0ri/index.m3u8
+#EXTINF:-1,Retro Plus TV Señal 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1,Viwix TV
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 #EXTINF:-1,ViwiX TV TERROR
@@ -325,6 +327,14 @@ https://videohd.live:19360/8010/8010.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1, CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com:443/CineSureno-roku/master_6.m3u8
+#EXTINF:-1,Telesistema
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1,PlanetaTV Movies
+https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
+
+
+
+
 
 
 #EXTINF:-1,Eduardo tv
@@ -768,15 +778,15 @@ https://stmv1.voxtvhd.com.br:443/aplustv/aplustv/chunklist_w325268689.m3u8?Playl
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E_i3NMhXprE/XzgiJBP-YeI/AAAAAAAA4YY/htokywgIrT8erB8ThIjJED5hRTUpqwGBwCK8BGAsYHg/s0/2020-08-15.png", Mundo +
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
 
 
 
 
 
-https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png", RCKTV
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
 
@@ -790,8 +800,8 @@ https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
 http://138.36.253.12:8009/play/a007/index.m3u8
 #EXTINF:-1,PLANETA TV MUSIC 
 https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w1013592556_b2820000.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Movies
-https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
+
+
 
 
 
@@ -871,10 +881,11 @@ https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+
+
+
+
+
 
 
 
