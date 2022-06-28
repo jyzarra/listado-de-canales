@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-*** CANALES DE VENEZUELA ***
+*** CANALES DE VENEZUELA Y FAVORITOS***
 
 
 #EXTINF:-1,GUIA DE CANALES Y PROGRAMACION
@@ -185,6 +185,24 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 **** CANALES DE PELICULAS Y SERIES****
 
 
+
+#EXTINF:-1,HBO Family HD
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+#EXTINF:-1,HBO HD
+http://190.83.119.67:8000/play/a0or/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://190.83.119.67:8000/play/a0ot/index.m3u8
+#EXTINF:-1 tvg-logo="http://1
+#EXTINF:-1,HBO XTREME
+http://190.83.119.67:8000/play/a0ov/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://190.83.119.67:8000/play/a0os/index.m3u8
+#EXTINF:-1,HBO signature HD
+https://edge1.prepro.cvattv.com.ar/live/live/HBO_Signature/SA_Live_WebVTT_FTA/HBO_Signature.m3u8
+#EXTINF:-1,HBO MUNDI HD
+http://201.234.194.58:6020/play/a0dg/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://190.108.95.5:8000/play/a008/index.m3u8
 #EXTINF:-1,Space HD
 http://190.108.95.5:8000/play/a006/index.m3u8
 #EXTINF:-1,TNT HD
@@ -197,7 +215,7 @@ http://190.83.119.67:8000/play/a0tk/index.m3u8
 http://190.83.119.67:8000/play/a0sl/index.m3u8
 #EXTINF:-1,SONY HD
 http://190.83.119.67:8000/play/a0sk/index.m3u8
-EXTINF:-1,Sony Movies HD
+#EXTINF:-1,Sony Movies HD
 http://190.83.119.67:8000/play/a0qc/index.m3u8
 #EXTINF:-1,AXN HD
 http://168.228.194.32:4000/play/a074/index.m3u8
@@ -214,7 +232,7 @@ http://190.83.119.67:8000/play/a0t9/index.m3u8
 #EXTINF:-1,Hollywood HD
 http://45.92.69.77:8000/play/a07o/index.m3u8
 #EXTINF:-1,Multipremier
-http://190.61.37.173:9010/play/a050/index.m3u8
+http://190.89.38.19:8000/play/a0ij/index.m3u8
 #EXTINF:-1,Multicinema
 http://190.83.119.67:8000/play/a0o5/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
@@ -237,14 +255,17 @@ http://190.83.119.67:8000/play/a0t0/index.m3u8
 http://190.83.119.67:8000/play/a0ui/index.m3u8
 #EXTINF:-1,UNIVERSAL REALITY HD
 http://190.83.119.67:8000/play/a0sz/index.m3u8
-EXTINF:-1,A&E HD
+#EXTINF:-1,A&E HD
 http://190.83.119.67:8000/play/a0q7/index.m3u8
-http://190.83.119.67:8000/play/a0pr/index.m3u8
 #EXTINF:-1,AMC HD
 http://190.83.119.67:8000/play/a0q8/index.m3u8
-
-
-
+#EXTINF:-1,Golden
+http://190.83.119.67:8000/play/a0rh/index.m3u8
+#EXTINF:-1,GOLDEN EDGE
+http://45.167.250.116:20023/play/a0f5/index.m3u8
+#EXTINF:-1,GOLDEN PLUS HD
+http://190.108.95.5:8000/play/a03m/index.m3u8
+#EXTINF:-1,GOLDEN PREMIER
 
 
 
@@ -327,8 +348,8 @@ http://45.179.194.114:48000/play/a0pg/index.m3u8
 http://45.179.194.114:48000/play/a0ph/index.m3u8
 #EXTINF:-1,VISION SUR
 http://200.60.18.178:21214/play/a0cm/index.m3u8
-#EXTINF:-1,Multipremier
-http://190.89.38.19:8000/play/a0ij/index.m3u8
+
+
 #EXTINF:-1,Canal Estrellas HD
 http://190.233.211.25:8000/play/a0b7/index.m3u8
 #EXTINF:-1,Movistar Deportes
@@ -1013,13 +1034,13 @@ http://190.83.119.67:8000/play/a0q6/index.m3u8
 http://190.83.119.67:8000/play/a0pm/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pu.png",France24
 http://190.83.119.67:8000/play/a0pu/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rh.png",Golden
-http://190.83.119.67:8000/play/a0rh/index.m3u8
-#EXTINF:-1, GOLDEN EDGE
-http://45.167.250.116:20023/play/a0f5/index.m3u8
-#EXTINF:-1, GOLDEN PLUS HD
-http://190.108.95.5:8000/play/a03m/index.m3u8
-#EXTINF:-1, GOLDEN PREMIER
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o3.png",Golf Channel
 http://190.83.119.67:8000/play/a0o3/index.m3u8
@@ -1029,24 +1050,26 @@ http://190.83.119.67:8000/play/a0qg/index.m3u8
 http://190.83.119.67:8000/play/a0oz/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r7.png",H2
 http://190.83.119.67:8000/play/a0r7/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://190.83.119.67:8000/play/a0ou/index.m3u8
-#EXTINF:-1,HBO HD
-http://190.83.119.67:8000/play/a0or/index.m3u8
-#EXTINF:-1,HBO Plus HD
-http://190.83.119.67:8000/play/a0ot/index.m3u8
-#EXTINF:-1 tvg-logo="http://1
 
-#EXTINF:-1,HBO XTREME
-http://190.83.119.67:8000/play/a0ov/index.m3u8
-#EXTINF:-1,HBO2 HD
-http://190.83.119.67:8000/play/a0os/index.m3u8
-#EXTINF:-1,HBO signature HD
-https://edge1.prepro.cvattv.com.ar/live/live/HBO_Signature/SA_Live_WebVTT_FTA/HBO_Signature.m3u8
-#EXTINF:-1,HBO MUNDI HD
-http://201.234.194.58:6020/play/a0dg/index.m3u8
-#EXTINF:-1,HBO POP HD
-http://190.108.95.5:8000/play/a008/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0st.png",HOLA! TV HD
 http://190.83.119.67:8000/play/a0st/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rg.png",HTV
