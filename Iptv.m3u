@@ -277,6 +277,42 @@ http://201.234.194.58:6020/play/a0dp/index.m3u8
 http://201.234.194.58:6020/play/a0ds/index.m3u8
 #EXTINF:-1,TCM
 http://190.83.119.67:8000/play/a0ri/index.m3u8
+#EXTINF:-1,Viwix TV
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+#EXTINF:-1,ViwiX TV TERROR
+https://cloudvideo.servers10.com:8081/8206/index.m3u8
+#EXTINF:-1,ViWix Tv SERIES
+https://cloudvideo.servers10.com:8081/8208/index.m3u8
+#EXTINF:-1,ViWiX TV ACCION
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
+#EXTINF:-1,MXclassic
+http://138.36.253.12:8009/play/a00a/index.m3u8
+#EXTINF:-1,MXfamily
+http://138.36.253.12:8009/play/a00b/index.m3u8
+#EXTINF:-1,MXprime
+http://138.36.253.12:8009/play/a01n/index.m3u8
+#EXTINF:-1,MXOLD
+http://138.36.253.12:8009/play/a00d/index.m3u8
+#EXTINF:-1,Rakuten TV Accion Movies
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv:443/3000.m3u8
+#EXTINF:-1,Rakuten TV Comedy Movies
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv:443/3000.m3u8
+#EXTINF:-1,Rakuten TV Top Free
+https://rakuten-topfree-2-eu.rakuten.wurl.tv:443/3000.m3u8
+#EXTINF:-1,Rakuten TV Spotlight
+https://rakuten-spotlight-2-eu.rakuten.wurl.tv:443/3000.m3u8
+#EXTINF:-1,Rakuten TV Shows
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv:443/3000.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -617,16 +653,16 @@ http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w110658420.m3u8
 https://tiquiciatv.duckdns.org/hls/livestv.m3u8
 
 
-#EXTINF:-1,Rakuten TV Accion Movies
-https://rakuten-actionmovies-2-eu.rakuten.wurl.tv:443/3000.m3u8
-#EXTINF:-1,Rakuten TV Comedy Movies
-https://rakuten-comedymovies-2-eu.rakuten.wurl.tv:443/3000.m3u8
-#EXTINF:-1, Rakuten TV Top Free
-https://rakuten-topfree-2-eu.rakuten.wurl.tv:443/3000.m3u8
-#EXTINF:-1, Rakuten TV Spotlight
-https://rakuten-spotlight-2-eu.rakuten.wurl.tv:443/3000.m3u8
-#EXTINF:-1, Rakuten TV Shows
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv:443/3000.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1,ORBIT TV
@@ -645,14 +681,14 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w111273773.m3u8?
 https://bamus-spa-roku.amagi.tv:443/playlist1080-p.m3u8
 
 
-#EXTINF:-1,MXclassic
-http://138.36.253.12:8009/play/a00a/index.m3u8
-#EXTINF:-1,MXfamily
-http://138.36.253.12:8009/play/a00b/index.m3u8
-#EXTINF:-1,MXprime
-http://138.36.253.12:8009/play/a01n/index.m3u8
-#EXTINF:-1,MXOLD
-http://138.36.253.12:8009/play/a00d/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1,OLDMusic
 http://138.36.253.12:8009/play/a00e/index.m3u8
 #EXTINF:-1,mundo y sabor
@@ -744,16 +780,18 @@ https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
 
 
 
-#EXTINF:-1, Viwix TV
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+
+
+
 #EXTINF:-1,Viwix TV Music
 https://cloudvideo.servers10.com:8081/8210/index.m3u8
-#EXTINF:-1,ViwiX TV TERROR
-https://cloudvideo.servers10.com:8081/8206/index.m3u8
-#EXTINF:-1,ViWix Tv SERIES
-https://cloudvideo.servers10.com:8081/8208/index.m3u8
-#EXTINF:-1,ViWiX TV ACCION
-https://cloudvideo.servers10.com:8081/8128/index.m3u8
+
+
+
+
+
+
+
 
 
 
