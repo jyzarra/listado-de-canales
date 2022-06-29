@@ -79,14 +79,25 @@ https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w1424555001.m3u8
 #EXTINF:-1,IVC
 https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
 
+#EXTINF:-1,Universal
+http://190.83.2.121:8080/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.89.38.19:8000/playlist/tvg-logo/a0gx.png",FX Movies HD
+http://190.89.38.19:8000/play/a0gx/index.m3u8
+#EXTINF:-1,Universal
+http://200.60.18.178:21214/play/a090/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.89.38.19:8000/playlist/tvg-logo/a0ih.png",Universal
+http://190.89.38.19:8000/play/a0ih/index.m3u8
 
-
+#EXTINF:-1,TVES
+http://45.153.165.12:8000/play/a0cl/index.m3u8
+#EXTINF:-1,TLT HD
+http://45.153.165.12:8000/play/a0fs/index.m3u8
 #EXTINF:-1,HBO POP HD
 http://181.65.181.185:8000/play/a02d/index.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://181.65.181.185:8000/play/a02u/index.m3u8
 
-#EXTINF:-2022, HBO MUNDI
+#EXTINF:-1,-2022, HBO MUNDI
 https://edge1.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
 
 #EXTINF:-1,UNIVERSAL
