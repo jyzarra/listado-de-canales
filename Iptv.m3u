@@ -81,6 +81,10 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 
 
+#EXTINF:-1 tvg-logo="http://200.125.170.74:8000/playlist/tvg-logo/a0hs.png",Nickelodeon HD
+http://200.125.170.74:8000/play/a0hs/index.m3u8
+#EXTINF:-1,Multipremier
+http://201.220.134.44:8185/play/a051/index.m3u8
 
 *** CANALES INFANTILES ***
 
