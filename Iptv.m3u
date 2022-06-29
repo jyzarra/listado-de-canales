@@ -81,12 +81,12 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 
 
-#EXTINF:-1,Disney HD
-http://181.65.181.190:8000/play/a03k/index.m3u8
-#EXTINF:-1,Disney Channel HD
-http://45.92.69.77:8000/play/a056/index.m3u8
-#EXTINF:-1,FX Movies HD
-http://190.61.37.9:8000/play/a036/index.m3u8
+
+
+
+
+
+
 
 
 
@@ -115,7 +115,7 @@ http://190.83.119.67:8000/play/a0q1/index.m3u8
 #EXTINF:-1,Nick Music
 http://212.18.115.194:3531/play/a02h/index.m3u8
 #EXTINF:-1,Disney Channel HD
-http://190.108.95.5:8000/play/a016/index.m3u8
+http://181.65.181.190:8000/play/a03k/index.m3u8
 #EXTINF:-1,Disney Junior HD
 http://45.92.69.77:8000/play/a03t/index.m3u8
 #EXTINF:-1,cartoonito HD
