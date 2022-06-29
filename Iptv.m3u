@@ -31,7 +31,7 @@ https://vcp.myplaytv.com:443/canali/canali/chunklist_w1757795756.m3u8
 #EXTINF:-1,Corazon Llanero
 https://vcp.myplaytv.com:443/coll/coll/chunklist_w1478988526.m3u8?PlaylistM3UCL
 #EXTINF:-1,Catatumbo TV
-http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8
+https://vcp3.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8
 #EXTINF:-1,TVO
 http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w1900604199.m3u8
 #EXTINF:-1,TV EPACO
