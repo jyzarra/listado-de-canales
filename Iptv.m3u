@@ -80,6 +80,12 @@ https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w1424555001.m3u8
 https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
 
 
+
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://181.65.181.190:8000/play/a02u/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://181.65.181.190:8000/play/a02d/index.m3u8
+
 #EXTINF:-1,HBO POP HD
 http://190.108.95.5:8000/play/a008/index.m3u8
 #EXTINF:-1,Universal HD
@@ -93,14 +99,17 @@ http://149.62.197.74:9790/play/a007/index.m3u8
 7 personas reaccionaron
 
 
-
+#EXTINF:-1,FX Movies HD
+http://190.61.37.9:8000/play/a036/index.m3u8
 #EXTINF:-1,FX Movies HD
 http://168.228.194.32:4000/play/a049/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://200.125.170.74:8000/playlist/tvg-logo/a0gx.png",FX Movies HD
+http://200.125.170.74:8000/play/a0gx/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="http://200.125.170.74:8000/playlist/tvg-logo/a0ih.png",Universal
+http://200.125.170.74:8000/play/a0ih/index.m3u8
 
 
 
