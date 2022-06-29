@@ -81,6 +81,19 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 
 
+#EXTINF:-1,HBO POP HD
+http://181.65.181.185:8000/play/a02d/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://181.65.181.185:8000/play/a02u/index.m3u8
+
+#EXTINF:-2022, HBO MUNDI
+https://edge1.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
+
+#EXTINF:-1,UNIVERSAL
+http://54.219.95.167:8000/play/a0bt/index.m3u8
+#EXTINF:-1,Universal HD
+http://45.179.194.114:48000/play/a0uq/index.m3u8
+
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://181.65.181.190:8000/play/a02u/index.m3u8
 #EXTINF:-1,HBO POP HD
