@@ -80,20 +80,20 @@ https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w1424555001.m3u8
 https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0vl.png",Sony Movies HD
-http://190.83.119.254:8000/play/a0vl/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0v8.png",SPACE HD
-http://190.83.119.254:8000/play/a0v8/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0wl.png",Nick SIM HD
-http://190.83.119.254:8000/play/a0wl/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.254:8000/playlist/tvg-logo/a0uj.png",Nickelodeon
-http://190.83.119.254:8000/play/a0uj/index.m3u8
-#EXTINF:-1 tvg-logo="http://200.125.170.74:8000/playlist/tvg-logo/a0gx.png",FX Movies HD
-http://200.125.170.74:8000/play/a0gx/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://200.125.170.74:8000/playlist/tvg-logo/a0ih.png",Universal
-http://200.125.170.74:8000/play/a0ih/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 *** CANALES INFANTILES ***
 
@@ -102,7 +102,7 @@ https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
 #EXTINF:-1,Discovery Kids HD
 http://190.83.119.67:8000/play/a0ob/index.m3u8
 #EXTINF:-1,NicKelodeon
-http://190.61.37.173:9010/play/a04o/index.m3u8
+http://190.83.119.254:8000/play/a0wl/index.m3u8
 #EXTINF:-1,Nick Jr
 http://190.83.119.67:8000/play/a0p9/index.m3u8
 #EXTINF:-1,Nick Toons
@@ -217,7 +217,7 @@ http://201.234.194.58:6020/play/a0dg/index.m3u8
 #EXTINF:-1,HBO POP HD
 http://190.108.95.5:8000/play/a008/index.m3u8
 #EXTINF:-1,Space HD
-http://190.108.95.5:8000/play/a006/index.m3u8
+http://190.83.119.254:8000/play/a0v8/index.m3u8
 #EXTINF:-1,TNT HD
 http://190.83.119.67:8000/play/a0sq/index.m3u8
 #EXTINF:-1,TNT Series HD
