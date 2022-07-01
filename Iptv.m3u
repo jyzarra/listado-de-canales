@@ -373,8 +373,8 @@ https://stmv1.voxtvhd.com.br:443/aplustv/aplustv/chunklist_w325268689.m3u8?Playl
 
 
 
-#EXTINF:-1,Eduardo tv
-http://190.61.37.173:9010/play/a061/index.m3u8
+
+
 
 
 
@@ -803,10 +803,12 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tec
 
 #EXTINF:-1, CDM INTERNACIONAL
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w152721132.m3u8
-#EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", Mega Cine TV | DO
+
+#EXTINF:-1,Mega Cine TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png", Dreiko TV
+#EXTINF:-1,Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 
