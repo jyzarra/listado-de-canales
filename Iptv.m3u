@@ -82,14 +82,26 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 
 
-#EXTINF :-1, Disney Channel HD
-http://45.92.69.77:8000/play/a056/index.m3u8
-# EXTINF :-1, Disney Junior HD
-http://45.92.69.77:8000/play/a03t/index.m3u8
 
+#EXTINF :-1, Disney Channel
+http://212.18.115.194:3531/play/a02s/index.m3u8
+#EXTINF :-1, Disney 😆
+http://212.18.115.194:3531/play/a02o/index.m3u8
 
+#EXTINF :-1,Disney Channel
+http://212.18.115.193:3531/play/a02s/index.m3u8
+#EXTINF :-1,Disney 😆
+http://212.18.115.193:3531/play/a02o/index.m3u8
 
+#EXTINF :-1, Disney Channel
+http://212.18.115.191:3531/play/a02s/index.m3u8
+#EXTINF :-1, Disney 😆
+http://212.18.115.191:3531/play/a02o/index.m3u8
 
+#EXTINF :-1,Disney
+http://201.220.134.44:8185/play/a04q/index.m3u8
+#EXTINF :-1,Disney 😆
+http://201.220.134.44:8185/play/a09d/index.m3u8
 
 
 *** CANALES INFANTILES ***
