@@ -81,6 +81,17 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 
 
+
+
+
+#EXTINF:-1,Teen Nick HD
+http://200.60.18.178:21214/play/a06p/index.m3u8
+#EXTINF:-1,TVES
+http://45.153.165.12:8000/play/a0cl/index.m3u8
+#EXTINF:-1,Universal HD
+http://45.179.194.114:48000/play/a0uq/index.m3u8
+#EXTINF:-1,Disney HD
+http://181.65.181.185:8000/play/a03k/index.m3u8
 #EXTINF:-1,Disney HD
 http://181.65.181.190:8000/play/a03k/index.m3u8
 
