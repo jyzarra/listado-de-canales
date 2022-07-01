@@ -82,7 +82,10 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 
 
-
+#EXTINF :-1, Disney Channel HD
+http://45.92.69.77:8000/play/a056/index.m3u8
+# EXTINF :-1, Disney Junior HD
+http://45.92.69.77:8000/play/a03t/index.m3u8
 
 
 
