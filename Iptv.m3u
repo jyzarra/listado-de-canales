@@ -373,10 +373,12 @@ https://stmv1.voxtvhd.com.br:443/aplustv/aplustv/chunklist_w325268689.m3u8?Playl
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w2074580381.m3u8
 #EXTINF:-1,ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1458385159.m3u8
-
-
-
-
+#EXTINF:-1,Filzone
+http://185.223.125.141:8888/play/a00g/index.m3u8
+#EXTINF:-1,Mega Cine TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1,Dreiko TV
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
 
 
@@ -442,8 +444,8 @@ http://181.78.10.235:58002/play/a0bd/index.m3u8
 
 #EXTINF:-1,Distrito Comedia
 http://201.234.194.58:6020/play/a0dk/index.m3u8
-#EXTINF:-1,Filzone
-http://185.223.125.141:8888/play/a00g/index.m3u8
+
+
 #EXTINF:-1,Mega
 http://45.238.21.106:7788/play/a00z/index.m3u8
 #EXTINF:-1,NPY
@@ -803,10 +805,10 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tec
 #EXTINF:-1, CDM INTERNACIONAL
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w152721132.m3u8
 
-#EXTINF:-1,Mega Cine TV
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1,Dreiko TV
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
