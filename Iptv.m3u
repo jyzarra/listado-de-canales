@@ -369,11 +369,10 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
 #EXTINF:-1,APlus TV
 https://stmv1.voxtvhd.com.br:443/aplustv/aplustv/chunklist_w325268689.m3u8?PlaylistM3UCL
-
-
-
-
-
+#EXTINF:-1,WOW
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w2074580381.m3u8
+#EXTINF:-1,ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1458385159.m3u8
 
 
 
@@ -691,8 +690,8 @@ https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
 
 
 
-#EXTINF:-1,WOW
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w2074580381.m3u8
+
+
 
 
 
@@ -727,8 +726,8 @@ https://tiquiciatv.duckdns.org/hls/livestv.m3u8
 
 
 
-#EXTINF:-1,ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1458385159.m3u8
+
+
 
 
 #EXTINF:-1,13 MAX HD
