@@ -82,14 +82,22 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1,ISDBT UNIVERSAL HD
+http://179.43.82.2:9091/play/a0b0/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://181.65.181.184:8000/play/a02u/index.m3u8
+#EXTINF:-1,Disney HD
+http://181.65.181.184:8000/play/a03k/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://181.65.181.186:8000/play/a02u/index.m3u8
+#EXTINF:-1,Disney HD
+http://181.65.181.186:8000/play/a03k/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://181.65.181.187:8000/play/a02u/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://181.65.181.187:8000/play/a02d/index.m3u8
+#EXTINF:-1,Disney HD
+http://181.65.181.187:8000/play/a03k/index.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://181.65.181.188:8000/play/a02u/index.m3u8
 #EXTINF:-1,Disney HD
