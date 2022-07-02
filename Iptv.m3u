@@ -176,6 +176,8 @@ https://mediacpstreamchile.com:1936/8152/8152/chunklist_w350987082.m3u8
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1,CSTV
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
+#EXTINF:-1,RLOTV
+https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8
 #EXTINF:-1,Energeek Radio
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8?nimblesessionid=4993279&PlaylistM3UCL
 #EXTINF:-1,EnerGeek
@@ -228,7 +230,8 @@ https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w2082715386.
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 #EXTINF:-1,Chiquilines
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
-
+#EXTINF:-1,ZooMoo
+http://190.83.119.67:8000/play/a0nt/index.m3u8
 
 
 
@@ -395,6 +398,10 @@ http://185.223.125.141:8888/play/a00g/index.m3u8
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1,Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+#EXTINF:-1,Sarapiqui TV
+https://tiquiciatv.duckdns.org/hls/livestv.m3u8
+#EXTINF:-1,13 MAX HD
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w111273773.m3u8?PlaylistM3UCL
 
 
 
@@ -404,13 +411,8 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
 
 
-#EXTINF:-1,CBeebies
-http://45.153.35.221:8000/play/a00b/index.m3u8
-#EXTINF:-1,CBeebies
-http://45.153.35.221:8000/play/a007/index.m3u8
 
-#EXTINF:-1,Horse TV
-http://45.92.69.77:8000/play/a007/index.m3u8
+
 #EXTINF:-1,Hot
 http://45.92.69.77:8000/play/a01r/index.m3u8
 
@@ -728,8 +730,6 @@ http://210.210.155.35/uq2663/h/h193/index.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
 #EXTINF:-1,VALLEVISION
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w110658420.m3u8
-#EXTINF:-1,Sarapiqui TV
-https://tiquiciatv.duckdns.org/hls/livestv.m3u8
 
 
 
@@ -748,8 +748,10 @@ https://tiquiciatv.duckdns.org/hls/livestv.m3u8
 
 
 
-#EXTINF:-1,13 MAX HD
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w111273773.m3u8?PlaylistM3UCL
+
+
+
+
 
 
 
@@ -900,8 +902,10 @@ https://tv.portalexpress.es:3399/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/129d176f2117a7985aefe938703c34a5.png", Ziza TV
 https://v2.tustreaming.cl:443/zizatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-k3Xfmd6KcLo/YL98wEjWBnI/AAAAAAABCzo/6deLMFJ6YUElLm3DMqccKFmz8nyzWoRPQCJEEGAsYHg/s512/2021-06-08.png", RLOTV
-https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", EvaVisión
 https://stmv2.voxtvhd.com.br/puertonatales/puertonatales/playlist.m3u8
 #EXTINF:-1, EvaRETRO
@@ -1422,8 +1426,9 @@ http://190.83.119.67:8000/play/a0r1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nt.png",ZooMoo
-http://190.83.119.67:8000/play/a0nt/index.m3u8
+
+
+
 #EXTINF:-1,LTV
 http://190.61.37.173:9010/play/a04z/index.m3u8
 #EXTINF:-1,Maya tv
