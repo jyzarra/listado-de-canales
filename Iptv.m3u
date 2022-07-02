@@ -84,36 +84,44 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 
 
-#EXTINF:-1,Teen Nick HD
-http://200.60.18.178:21214/play/a06p/index.m3u8
-#EXTINF:-1,TVES
-http://45.153.165.12:8000/play/a0cl/index.m3u8
-#EXTINF:-1,Universal HD
-http://45.179.194.114:48000/play/a0uq/index.m3u8
-#EXTINF:-1,Disney HD
-http://181.65.181.185:8000/play/a03k/index.m3u8
-#EXTINF:-1,Disney HD
-http://181.65.181.190:8000/play/a03k/index.m3u8
 
-#EXTINF:-1, Disney Channel
-http://212.18.115.194:3531/play/a02s/index.m3u8
-#EXTINF:-1, Disney 😆
-http://212.18.115.194:3531/play/a02o/index.m3u8
+
+
+
+
+
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://181.65.181.188:8000/play/a02u/index.m3u8
+#EXTINF:-1,Disney HD
+http://181.65.181.188:8000/play/a03k/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://181.65.181.189:8000/play/a02u/index.m3u8
+#EXTINF:-1,Disney HD
+http://181.65.181.189:8000/play/a03k/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://190.108.95.5:8000/play/a008/index.m3u8
 
 #EXTINF:-1,Disney Channel
-http://212.18.115.193:3531/play/a02s/index.m3u8
-#EXTINF :-1,Disney 😆
-http://212.18.115.193:3531/play/a02o/index.m3u8
+http://190.108.95.5:8000/play/a03s/index.m3u8
+#EXTINF:-1,Disney HD
+http://190.108.95.5:8000/play/a016/index.m3u8
 
-#EXTINF:-1, Disney Channel
-http://212.18.115.191:3531/play/a02s/index.m3u8
-#EXTINF:-1, Disney 😆
-http://212.18.115.191:3531/play/a02o/index.m3u8
+#EXTINF:-1,Golden HD
+http://190.233.211.25:8000/play/a01e/index.m3u8
+#EXTINF:-1,Disney Channel
+http://190.233.211.25:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.89.38.19:8000/playlist/tvg-logo/a0i8.png",Disney
+http://190.89.38.19:8000/play/a0i8/index.m3u8
 
-#EXTINF:-1,Disney
-http://201.220.134.44:8185/play/a04q/index.m3u8
-#EXTINF:-1,Disney 😆
-http://201.220.134.44:8185/play/a09d/index.m3u8
+#EXTINF:-1,Disney HD
+http://181.65.181.185:8000/play/a03k/index.m3u8
+
+#EXTINF:-1,Disney Channel
+http://45.225.88.39:8000/play/a021/index.m3u8
+#EXTINF:-1,Disney Channel
+http://45.238.21.106:7788/play/a00c/index.m3u8
+
+
 
 
 *** CANALES INFANTILES ***
