@@ -82,52 +82,8 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 
 
-#EXTINF:-1,ISDBT UNIVERSAL HD
-http://179.43.82.2:9091/play/a0b0/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://181.65.181.184:8000/play/a02u/index.m3u8
-#EXTINF:-1,Disney HD
-http://181.65.181.184:8000/play/a03k/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://181.65.181.186:8000/play/a02u/index.m3u8
-#EXTINF:-1,Disney HD
-http://181.65.181.186:8000/play/a03k/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://181.65.181.187:8000/play/a02u/index.m3u8
-#EXTINF:-1,HBO POP HD
-http://181.65.181.187:8000/play/a02d/index.m3u8
-#EXTINF:-1,Disney HD
-http://181.65.181.187:8000/play/a03k/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://181.65.181.188:8000/play/a02u/index.m3u8
-#EXTINF:-1,Disney HD
-http://181.65.181.188:8000/play/a03k/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://181.65.181.189:8000/play/a02u/index.m3u8
-#EXTINF:-1,Disney HD
-http://181.65.181.189:8000/play/a03k/index.m3u8
-#EXTINF:-1,HBO POP HD
-http://190.108.95.5:8000/play/a008/index.m3u8
 
-#EXTINF:-1,Disney Channel
-http://190.108.95.5:8000/play/a03s/index.m3u8
-#EXTINF:-1,Disney HD
-http://190.108.95.5:8000/play/a016/index.m3u8
 
-#EXTINF:-1,Golden HD
-http://190.233.211.25:8000/play/a01e/index.m3u8
-#EXTINF:-1,Disney Channel
-http://190.233.211.25:8000/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.89.38.19:8000/playlist/tvg-logo/a0i8.png",Disney
-http://190.89.38.19:8000/play/a0i8/index.m3u8
-
-#EXTINF:-1,Disney HD
-http://181.65.181.185:8000/play/a03k/index.m3u8
-
-#EXTINF:-1,Disney Channel
-http://45.225.88.39:8000/play/a021/index.m3u8
-#EXTINF:-1,Disney Channel
-http://45.238.21.106:7788/play/a00c/index.m3u8
 
 
 
@@ -149,7 +105,7 @@ http://190.83.119.67:8000/play/a0q1/index.m3u8
 #EXTINF:-1,Nick Music
 http://212.18.115.194:3531/play/a02h/index.m3u8
 #EXTINF:-1,Disney Channel HD
-http://181.65.181.190:8000/play/a03k/index.m3u8
+http://181.65.181.187:8000/play/a03k/index.m3u8
 #EXTINF:-1,Disney Junior HD
 http://45.92.69.77:8000/play/a03t/index.m3u8
 #EXTINF:-1,cartoonito HD
@@ -235,8 +191,10 @@ http://190.83.119.67:8000/play/a0nt/index.m3u8
 
 
 
-**** CANALES DE PELICULAS Y SERIES****
 
+
+
+**** CANALES DE PELICULAS Y SERIES****
 
 
 #EXTINF:-1,HBO Family HD
@@ -255,7 +213,7 @@ https://edge1.prepro.cvattv.com.ar/live/live/HBO_Signature/SA_Live_WebVTT_FTA/HB
 #EXTINF:-1,HBO MUNDI HD
 https://edge1.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
 #EXTINF:-1,HBO POP HD
-http://190.108.95.5:8000/play/a008/index.m3u8
+http://181.65.181.187:8000/play/a02d/index.m3u8
 #EXTINF:-1,Space HD
 http://190.83.119.254:8000/play/a0v8/index.m3u8
 #EXTINF:-1,TNT HD
@@ -299,7 +257,7 @@ http://190.83.119.67:8000/play/a0qf/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://190.83.119.67:8000/play/a0q2/index.m3u8
 #EXTINF:-1,Universal Channel
-http://190.61.37.173:9010/play/a04y/index.m3u8
+http://181.65.181.187:8000/play/a02u/index.m3u8
 #EXTINF:-1,UNIVERSAL CINEMA HD
 http://190.83.119.67:8000/play/a0v2/index.m3u8
 #EXTINF:-1,UNIVERSAL COMEDY HD
