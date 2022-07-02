@@ -636,11 +636,6 @@ https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Wm0tIirwAaI/XzgSgfucd3I/AAAAAAAA4R4/P8FwD68fC00xVm39i-qNZewMWAqG2Be2wCK8BGAsYHg/s0/2020-08-15.jpg", Amé
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mLk3w8rRy2E/XzgcBFkX40I/AAAAAAAA4VE/Woxy8sdQnTcUkC2ZBbv_6pBvjL6oY2xzACK8BGAsYHg/s0/2020-08-15.jpg", Telecanal 12
 https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KTkAN2D6aBg/XzgeAkRU0XI/AAAAAAAA4WI/oO5KUB-W-6EMsCALKbOGQmS2EfuDvarUwCK8BGAsYHg/s0/2020-08-15.png", Televisión del Este
@@ -659,20 +654,21 @@ http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-H-NVSh7JGf4/XzgczIRMOsI/AAAAAAAA4Vk/y_Lv0icuD_kPVSTqLQ89IpjhZEd3ad1aACK8BGAsYHg/s0/2020-08-15.jpg", Telenord 12
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w36Bp5Kua6w/Xzgcs8BkqPI/AAAAAAAA4Vg/delKewJS1gwLtPPQZDSb2q7ZWBwz4mfBACK8BGAsYHg/s0/2020-08-15.png", Telenord 10
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w36Bp5Kua6w/Xzgcs8BkqPI/AAAAAAAA4Vg/delKewJS1gwLtPPQZDSb2q7ZWBwz4mfBACK8BGAsYHg/s0/2020-08-15.png",Telenord 10
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-0WEp8Wwui4Q/Xzgal1m0fzI/AAAAAAAA4Uk/rYMFLqx6jsE342dqmqaCzFKNyfygiuIzQCK8BGAsYHg/s0/2020-08-15.png", Ready TV
+#EXTINF:-1,Ready TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-vqvx9FsfLk0/XzgWl2BgDoI/AAAAAAAA4Tw/j9hiiFJmW9cmkMKjRM4-v9VxR8eQfONawCK8BGAsYHg/s0/2020-08-15.jpg", Musavision
+#EXTINF:-1,Musavision
 https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-J9MpGmEaVwk/XzgWd2PEeVI/AAAAAAAA4Ts/gsReFcO99xIi9t25aMDUhMOVFdaj5jBTgCK8BGAsYHg/s0/2020-08-15.jpg", Microvision
+#EXTINF:-1,Microvision
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MUJsvP4LUEE/XzgQHZNiNdI/AAAAAAAA4Rc/iiRRQp0BCX00MnMJZsfR2E_bLhyN6gUAACK8BGAsYHg/s0/2020-08-15.png", Hilando Fino
+#EXTINF:-1,Hilando Fino
 https://primary-out.iptv-global.net/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-nb3HIODiLDM/XzgWLtnp3XI/AAAAAAAA4Tk/8UEOEhd2HZw5wBMZT_eNNABGpW9c2w65gCK8BGAsYHg/s0/2020-08-15.jpg", GH Television
+#EXTINF:-1,GH Television
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a157fcb0f29e1407aaca997c8564765a.png", Canal 8 Punta Cana TV
+#EXTINF:-1,Canal 8 Punta Cana TV
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
+
 #EXTINF:-1,Urban tv
 https://urbanrevolution.es:8443/live/TV/chunklist_w1659759335.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DqCASDFb1BA/YE1UxfihGbI/AAAAAAABAoE/bK1rgKUWLvM3DNRKfj9CXfbSBX3HykNzgCK8BGAsYHg/s512/2021-03-13.png", Urbancrist2 Worship
