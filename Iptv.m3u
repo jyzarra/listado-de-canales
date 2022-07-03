@@ -360,6 +360,30 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 https://tiquiciatv.duckdns.org/hls/livestv.m3u8
 #EXTINF:-1,13 MAX HD
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w111273773.m3u8?PlaylistM3UCL
+#EXTINF:-1,Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+#EXTINF:-1,Musavision
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8
+#EXTINF:-1,Microvision
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1,Hilando Fino
+https://primary-out.iptv-global.net/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8
+#EXTINF:-1,GH Television
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+#EXTINF:-1,Canal 8 Punta Cana TV
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
+#EXTINF:-1,Telenovisa 43
+http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8
+#EXTINF:-1,Telenord 8
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1,Telenord 12
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
+#EXTINF:-1,Telenord 10
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+
+
+
+
 
 
 
@@ -606,26 +630,20 @@ https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-T-aOB_KmAl8/XzgdcQW2MhI/AAAAAAAA4Vw/gUo6n9IYqVEfYX75LIxV6SGMThCJ55-WACK8BGAsYHg/s0/2020-08-15.jpg", Teleradio Norte
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-tLCdv43ZkBI/XzgUt_3YhGI/AAAAAAAA4Sk/WOe41jACpdgEDDLGXMz7qNstxIBohBxFQCK8BGAsYHg/s0/2020-08-15.png", Telenovisa 43
-http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P4P3Fo23ruc/XzgcmLYJ46I/AAAAAAAA4Vc/0PbZbLJIjckXdsj_Wca-n7D7QS4GCEiYwCK8BGAsYHg/s0/2020-08-15.jpg", Telenord 8
-http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-H-NVSh7JGf4/XzgczIRMOsI/AAAAAAAA4Vk/y_Lv0icuD_kPVSTqLQ89IpjhZEd3ad1aACK8BGAsYHg/s0/2020-08-15.jpg", Telenord 12
-http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w36Bp5Kua6w/Xzgcs8BkqPI/AAAAAAAA4Vg/delKewJS1gwLtPPQZDSb2q7ZWBwz4mfBACK8BGAsYHg/s0/2020-08-15.png",Telenord 10
-http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
-#EXTINF:-1,Ready TV
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-#EXTINF:-1,Musavision
-https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8
-#EXTINF:-1,Microvision
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-#EXTINF:-1,Hilando Fino
-https://primary-out.iptv-global.net/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8
-#EXTINF:-1,GH Television
-https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
-#EXTINF:-1,Canal 8 Punta Cana TV
-https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,Urban tv
 https://urbanrevolution.es:8443/live/TV/chunklist_w1659759335.m3u8?PlaylistM3UCL
