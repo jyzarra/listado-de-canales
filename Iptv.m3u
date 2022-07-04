@@ -81,10 +81,30 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 
 
+
+
+
+
+
+
+#EXTINF:-1,Multipremier
+http://168.232.168.242:8089/play/a051/index.m3u8
+#EXTINF:-1,CABLEMAR TV HD
+http://168.232.168.242:8089/play/a0hu/index.m3u8
+#EXTINF:-1,Golden HD
+http://190.239.17.3:8000/play/a004/index.m3u8
+#EXTINF:-1,Film1 Action HD
+http://212.18.115.177:3531/play/a018/index.m3u8
+#EXTINF:-1,Film1 Drama HD
+http://212.18.115.177:3531/play/a016/index.m3u8
+#EXTINF:-1,Film1 Family HD
+http://212.18.115.177:3531/play/a019/index.m3u8
+#EXTINF:-1,Film1 Premiere HD
+http://212.18.115.177:3531/play/a017/index.m3u8
 #EXTINF:-1,HBO 3
 http://185.231.160.49/597/1/index.m3u8
 
-EXTINF:-1,holi
+#EXTINF:-1,holi
 http://185.231.160.49/613/1/index.m3u8
 
 
