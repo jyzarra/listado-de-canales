@@ -81,6 +81,15 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 
 
+
+
+#EXTINF:-1,TC Televisiðn
+http://45.225.47.234:41/play/a0el/index.m3u8
+
+#EXTINF:-1,Disney Xd
+http://45.225.47.234:41/play/a0dw/index.m3u8
+#EXTINF:-1,OROMAR TV
+http://45.225.47.234:41/play/a0ep/index.m3u8
 #EXTINF:-1,Vip Comedy HD
 http://93.170.122.14:4000/play/a004/index.m3u8
 #EXTINF:-1,Vip Megahit HD
