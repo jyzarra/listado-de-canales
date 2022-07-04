@@ -82,57 +82,23 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 
 
-#EXTINF:-1,FXM
-http://190.61.41.182:8000/play/a18t/index.m3u8
+
+
 #EXTINF:-1,TC Televisiðn
 http://45.225.47.234:41/play/a0el/index.m3u8
 
-#EXTINF:-1,Disney Xd
-http://45.225.47.234:41/play/a0dw/index.m3u8
-#EXTINF:-1,OROMAR TV
-http://45.225.47.234:41/play/a0ep/index.m3u8
-#EXTINF:-1,Vip Comedy HD
-http://93.170.122.14:4000/play/a004/index.m3u8
-#EXTINF:-1,Vip Megahit HD
-http://93.170.122.14:4000/play/a003/index.m3u8
-#EXTINF:-1,Vip Premiere HD
-http://93.170.122.14:4000/play/a002/index.m3u8
-#EXTINF:-1,Oromar TV
-http://45.182.23.22:58001/play/a05q/index.m3u8
-#EXTINF:-1,TC Televisiðn
-http://45.70.237.121:8000/play/a08v/index.m3u8
-#EXTINF:-1,OROMAR TV
-http://45.70.237.121:8000/play/a08z/index.m3u8
-#EXTINF:-1,CINE ACCION
-http://146.0.43.38:8000/play/CINEACCION3/index.m3u8
-#EXTINF:-1,CINE FAMILIAR
-http://146.0.43.38:8000/play/CINEFA/index.m3u8
-#EXTINF:-1,ULTRA INFANTIL
-http://146.0.43.38:8000/play/ULÑTRAKIDS/index.m3u8
-#EXTINF:-1 tvg-id="tctelevision.ec",EC | TC TELEVISION FHD
-http://146.0.43.38:8000/play/a00f/index.m3u8
-#EXTINF:-1,Multipremier
-http://168.232.168.242:8089/play/a051/index.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,CABLEMAR TV HD
 http://168.232.168.242:8089/play/a0hu/index.m3u8
-#EXTINF:-1,Golden HD
-http://190.239.17.3:8000/play/a004/index.m3u8
-#EXTINF:-1,Film1 Action HD
-http://212.18.115.177:3531/play/a018/index.m3u8
-#EXTINF:-1,Film1 Drama HD
-http://212.18.115.177:3531/play/a016/index.m3u8
-#EXTINF:-1,Film1 Family HD
-http://212.18.115.177:3531/play/a019/index.m3u8
-#EXTINF:-1,Film1 Premiere HD
-http://212.18.115.177:3531/play/a017/index.m3u8
-#EXTINF:-1,HBO 3
-http://185.231.160.49/597/1/index.m3u8
 
-#EXTINF:-1,holi
-http://185.231.160.49/613/1/index.m3u8
-
-#EXTINF:-1 tvg-id="oromar.ec",EC | OROMAR TV HD
-http://146.0.43.38:8000/play/a00d/index.m3u8
 
 
 *** CANALES INFANTILES ***
@@ -292,7 +258,7 @@ http://190.83.119.67:8000/play/a0t9/index.m3u8
 #EXTINF:-1,Hollywood HD
 http://45.92.69.77:8000/play/a07o/index.m3u8
 #EXTINF:-1,Multipremier
-http://201.220.134.44:8185/play/a051/index.m3u8
+http://168.232.168.242:8089/play/a051/index.m3u8
 #EXTINF:-1,Multicinema
 http://190.83.119.67:8000/play/a0o5/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
@@ -338,7 +304,7 @@ http://190.83.119.67:8000/play/a0sh/index.m3u8
 #EXTINF:-1,TC Televisiðn
 http://201.234.194.58:6020/play/a0dp/index.m3u8
 #EXTINF:-1,OROMAR TV
-http://201.234.194.58:6020/play/a0ds/index.m3u8
+http://45.225.47.234:41/play/a0ep/index.m3u8
 #EXTINF:-1,TCM
 http://190.83.119.67:8000/play/a0ri/index.m3u8
 #EXTINF:-1,Retro Plus TV Señal 3
