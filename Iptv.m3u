@@ -393,10 +393,22 @@ http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
 #EXTINF:-1,Telenord 10
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
-
-
-
-
+#EXTINF:-1,VAMISA TV 
+https://vps1.lnx.pe/vamisa/envivo/index.m3u8
+#EXTINF:-1,TROPICAL TV
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+#EXTINF:-1,SUPERtv
+https://tvdatta.com:3517/live/kachorrotvlive.m3u8
+#EXTINF:-1,SISTEMA 1 TV 
+https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
+#EXTINF:-1,SAN ISIDRO TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+#EXTINF:-1,ZONA PLAY TV
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
+#EXTINF:-1,WTV canal 20
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1,VISION SUR
+http://200.60.18.178:21214/play/a0cm/index.m3u8
 
 
 
@@ -465,8 +477,8 @@ http://45.238.21.106:7788/play/a00z/index.m3u8
 http://45.179.194.114:48000/play/a0pg/index.m3u8
 #EXTINF:-1,SURTV
 http://45.179.194.114:48000/play/a0ph/index.m3u8
-#EXTINF:-1,VISION SUR
-http://200.60.18.178:21214/play/a0cm/index.m3u8
+
+
 
 #EXTINF:-1,CABLEMAR TV HD
 http://168.232.168.242:8089/play/a0hu/index.m3u8
@@ -544,32 +556,32 @@ http://168.228.194.32:4000/play/a04k/index.m3u8
 
 
 
-#EXTINF:-1, VAMISA TV 
-https://vps1.lnx.pe/vamisa/envivo/index.m3u8
+
+
 #EXTINF:-1, TV GALICIA
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1, TV CARIOCA
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
-#EXTINF:-1, TROPICAL TV
-https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+
+
 #EXTINF:-1, TeleSur
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
-#EXTINF:-1, SUPERtv
-https://tvdatta.com:3517/live/kachorrotvlive.m3u8
+
+
 #EXTINF:-1, Sitv
 http://190.122.104.221/Player/sitv.m3u8
-#EXTINF:-1, SISTEMA 1 TV 
-https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
+
+
 #EXTINF:-1, SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1, SAN ISIDRO TV
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
 
-#EXTINF:-1, ZONA PLAY TV
-https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
-#EXTINF:-1, WTV canal 20
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1, ACTIVATV
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 
