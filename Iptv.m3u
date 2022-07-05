@@ -81,13 +81,41 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 
 
+#EXTINF:-1,Disney 😆
+http://45.238.21.106:8000/play/a01h/index.m3u8
+#EXTINF:-1,Disney Channel
+http://190.61.43.91:6500/play/a02f/index.m3u8
+#EXTINF:-1,Disney HD
+http://190.61.43.91:6500/play/a01a/index.m3u8
+#EXTINF:-1,Disney Jr
+http://190.61.43.91:6500/play/a00t/index.m3u8
+
+#EXTINF:-1,CARACOL HD
+http://190.61.43.91:6500/play/1/index.m3u8
+
+#EXTINF:-1,FXM Oeste
+http://187.189.119.135:8000/play/a00j/index.m3u8
+#EXTINF:-1,MX Classic
+http://45.160.15.130:8111/play/a0dc/index.m3u8
+#EXTINF:-1,MX Family
+http://45.160.15.130:8111/play/a09v/index.m3u8
+#EXTINF:-1,MX OLD
+http://45.160.15.130:8111/play/a0de/index.m3u8
+#EXTINF:-1,MX Prime
+http://45.160.15.130:8111/play/a0dd/index.m3u8
+#EXTINF:-1,FX Movies
+http://45.238.21.106:6688/play/a012/index.m3u8
+#EXTINF:-1,MVS TV
+http://189.129.31.59:8000/play/a04w/index.m3u8
+#EXTINF:-1,MVS TV
+http://189.129.31.59:8000/play/a012/index.m3u8
+
+#EXTINF:-1,FXM Oeste
+http://189.129.29.179:8000/play/a00j/index.m3u8
 
 
-
-
-
-
-
+#EXTINF:-1,FXM Oeste
+http://189.129.31.59:8000/play/a00j/index.m3u8
 
 
 
