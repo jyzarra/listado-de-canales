@@ -81,41 +81,7 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 
 
 
-#EXTINF:-1,Disney 😆
-http://45.238.21.106:8000/play/a01h/index.m3u8
-#EXTINF:-1,Disney Channel
-http://190.61.43.91:6500/play/a02f/index.m3u8
-#EXTINF:-1,Disney HD
-http://190.61.43.91:6500/play/a01a/index.m3u8
-#EXTINF:-1,Disney Jr
-http://190.61.43.91:6500/play/a00t/index.m3u8
 
-#EXTINF:-1,CARACOL HD
-http://190.61.43.91:6500/play/1/index.m3u8
-
-#EXTINF:-1,FXM Oeste
-http://187.189.119.135:8000/play/a00j/index.m3u8
-#EXTINF:-1,MX Classic
-http://45.160.15.130:8111/play/a0dc/index.m3u8
-#EXTINF:-1,MX Family
-http://45.160.15.130:8111/play/a09v/index.m3u8
-#EXTINF:-1,MX OLD
-http://45.160.15.130:8111/play/a0de/index.m3u8
-#EXTINF:-1,MX Prime
-http://45.160.15.130:8111/play/a0dd/index.m3u8
-#EXTINF:-1,FX Movies
-http://45.238.21.106:6688/play/a012/index.m3u8
-#EXTINF:-1,MVS TV
-http://189.129.31.59:8000/play/a04w/index.m3u8
-#EXTINF:-1,MVS TV
-http://189.129.31.59:8000/play/a012/index.m3u8
-
-#EXTINF:-1,FXM Oeste
-http://189.129.29.179:8000/play/a00j/index.m3u8
-
-
-#EXTINF:-1,FXM Oeste
-http://189.129.31.59:8000/play/a00j/index.m3u8
 
 
 
@@ -135,11 +101,11 @@ http://189.129.31.59:8000/play/a00j/index.m3u8
 https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
 #EXTINF:-1,Discovery Kids HD
 http://190.83.119.67:8000/play/a0ob/index.m3u8
-#EXTINF:-1,NicKelodeon
+#EXTINF:-1,NicK HD
 http://190.83.119.254:8000/play/a0wl/index.m3u8
 #EXTINF:-1,Nick Jr
 http://190.83.119.67:8000/play/a0p9/index.m3u8
-#EXTINF:-1,Nick Toons
+#EXTINF:-1,Nick Toons HD
 http://212.18.115.193:3531/play/a05d/index.m3u8
 #EXTINF:-1,Teen Nick HD
 http://190.83.119.67:8000/play/a0q1/index.m3u8
@@ -175,9 +141,9 @@ https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1,RLOTV
 https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8
-#EXTINF:-1,Energeek Radio
+#EXTINF:-1,Energeek Radio HD
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8?nimblesessionid=4993279&PlaylistM3UCL
-#EXTINF:-1,EnerGeek
+#EXTINF:-1,EnerGeek HD
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8?nimblesessionid=4993247&PlaylistM3UCL
 #EXTINF:-1,Dragon Ball TV
 http://138.36.253.12:8009/play/a00v/index.m3u8
@@ -209,7 +175,7 @@ https://simultv.s.llnwi.net:443/o058/KidCentral/KidCentral/interlink_3200.m3u8
 https://stream.ads.ottera.tv/cl/a0c4b83a-bbf8-46b2-812f-06dccdda0a28/1280x720_2300000_0_false.m3u8
 #EXTINF:-1,KURIKOS kids
 http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
-#EXTINF:-1,Spacetoon
+#EXTINF:-1,Spacetoon HD
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1,Vintage TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
