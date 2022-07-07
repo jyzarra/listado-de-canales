@@ -95,7 +95,8 @@ http://168.232.168.242:8089/play/a09d/index.m3u8
 #EXTINF:-1,TLNOVELAS HD
 http://168.232.168.242:8089/play/a0ih/index.m3u8
 
-
+#EXTINF:-1,HOLLYWOODHD
+http://212.14.97.248:8000/play/a01w/index.m3u8
 
 
 
