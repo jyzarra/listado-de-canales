@@ -78,19 +78,12 @@ https://vcp.myplaytv.com:443/nubehtv/nubehtv/chunklist_w1542997801.m3u8
 https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w1424555001.m3u8
 #EXTINF:-1,IVC
 https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
+#EXTINF:-1,City tv
+https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
 
 
 
 
-
-#EXTINF:-1,Disney 😆 M?xico
-http://187.135.181.145:8000/play/a00b/index.m3u8
-
-#EXTINF:-1,Disney 😆
-http://212.18.115.177:3531/play/a02o/index.m3u8
-
-#EXTINF:-1,Disney 😆
-http://168.232.168.242:8089/play/a09d/index.m3u8
 
 #EXTINF:-1,TLNOVELAS HD
 http://168.232.168.242:8089/play/a0ih/index.m3u8
@@ -308,6 +301,8 @@ http://45.225.47.234:41/play/a0ep/index.m3u8
 http://190.83.119.67:8000/play/a0ri/index.m3u8
 #EXTINF:-1,Retro Plus TV Señal 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:-1,EvaRETRO
+https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
 #EXTINF:-1,Viwix TV
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 #EXTINF:-1,ViwiX TV TERROR
@@ -424,13 +419,22 @@ https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1,Teleradio Norte
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1,TeleSUR 1
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1,Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1,TeleSur 2
+https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
+#EXTINF:-1,MATICEStv
+http://v4.tustreaming.cl/matices/index.m3u8
+#EXTINF:-1,ORIENTAL TV
+https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
+#EXTINF:-1,Retro Play TV
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+#EXTINF:-1,proyecta TV
+https://servilive.com:3194/live/proyectatvlive.m3u8
+#EXTINF:-1,Teleuno
+https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
 
 
@@ -587,8 +591,8 @@ https://america-crtvg.flumotion.com/playlist.m3u8
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
 
 
-#EXTINF:-1, TeleSur
-https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
+
+
 
 
 #EXTINF:-1, Sitv
@@ -714,8 +718,8 @@ https://vp01-vivoplayiptv.delivery.fuugo.com:443/ngrp:vp01-VIVOplay_IPTV-aa730fa
 
 #EXTINF:-1,visit X TV
 http://stream.visit-x.tv:80/vxtv/live/chunklist_w1068976249.m3u8
-#EXTINF:-1,City tv
-https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
+
+
 
 
 
@@ -804,10 +808,10 @@ http://138.36.253.12:8009/play/a005/index.m3u8
 http://138.36.253.12:8009/play/a018/index.m3u8
 #EXTINF:-1,Inter TV
 http://138.36.253.12:8009/play/a015/index.m3u8
-#EXTINF:-1,HBTV
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1,TeleSUR
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+
+
+
 
 
 
@@ -837,8 +841,8 @@ https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w1527211
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+
+
 
 
 
@@ -895,8 +899,9 @@ https://cloudvideo.servers10.com:8081/8210/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/3a66236cd4d5f46b440f80ccc87129f1.png", Exprezion TV
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+
+
+
 #EXTINF:-1,vallenato internacional
 https://59a564764e2b6.streamlock.net:443/vallenato/Vallenato2/chunklist_w2144489645.m3u8
 #EXTINF:-1, MEGAVISION CANAL 43
@@ -917,13 +922,13 @@ https://v2.tustreaming.cl:443/zizatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", EvaVisión
 https://stmv2.voxtvhd.com.br/puertonatales/puertonatales/playlist.m3u8
-#EXTINF:-1, EvaRETRO
-https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png", Telemax
+
+
+#EXTINF:-1,Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
 
@@ -935,16 +940,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
 
 
-#EXTINF:-1,MATICEStv
-http://v4.tustreaming.cl/matices/index.m3u8
-#EXTINF:-1,ORIENTAL TV
-https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:-1,proyecta TV
-https://servilive.com:3194/live/proyectatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png", Teleuno
-https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
 
 
