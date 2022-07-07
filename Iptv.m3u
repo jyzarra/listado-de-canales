@@ -86,11 +86,14 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 #EXTINF:-1,Disney 😆 M?xico
 http://187.135.181.145:8000/play/a00b/index.m3u8
 
+#EXTINF:-1,Disney 😆
+http://212.18.115.177:3531/play/a02o/index.m3u8
 
+#EXTINF:-1,Disney 😆
+http://168.232.168.242:8089/play/a09d/index.m3u8
 
-
-
-
+#EXTINF:-1,TLNOVELAS HD
+http://168.232.168.242:8089/play/a0ih/index.m3u8
 
 
 
