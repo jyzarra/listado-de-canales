@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-*** CANALES DE VENEZUELA Y FAVORITOS***
+*** CANALES DE VENEZUELA Y MI FAVORITOS***
 
 
 #EXTINF:-1,GUIA DE CANALES Y PROGRAMACION
@@ -440,7 +440,11 @@ http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w110658420.m3u8
 
 
 
+*** CANALES DE VARIEDAD Y DOCUMENTALES ***
 
+
+#EXTINF:-1,Telemundo HD
+http://190.83.119.67:8000/play/a0q9/index.m3u8
 
 
 
@@ -1383,10 +1387,11 @@ http://190.83.119.67:8000/play/a0p1/index.m3u8
 http://190.83.119.67:8000/play/a0rz/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qu.png",Telecentro - RD
 http://190.83.119.67:8000/play/a0qu/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pf.png",Telemundo
-http://190.83.119.67:8000/play/a0pf/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q9.png",Telemundo HD
-http://190.83.119.67:8000/play/a0q9/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p3.png",Telesistema RD
 http://190.83.119.67:8000/play/a0p3/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qr.png",Teleuniverso - RD
