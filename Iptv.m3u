@@ -85,8 +85,8 @@ https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
 
 
 
-#EXTINF:-1,TLNOVELAS HD
-http://168.232.168.242:8089/play/a0ih/index.m3u8
+
+
 
 #EXTINF:-1,HOLLYWOODHD
 http://212.14.97.248:8000/play/a01w/index.m3u8
@@ -449,6 +449,10 @@ http://190.83.119.67:8000/play/a0q9/index.m3u8
 http://201.234.194.58:6020/play/a0dk/index.m3u8
 #EXTINF:-1,Canal Estrellas HD
 http://190.233.211.25:8000/play/a0b7/index.m3u8
+#EXTINF:-1,TLNOVELAS HD
+http://168.232.168.242:8089/play/a0ih/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://190.83.119.67:8000/play/a0td/index.m3u8
 #EXTINF:-1,Caracol Internacional HD
 http://190.83.2.121:8080/play/a06o/index.m3u8
 #EXTINF:-1,Frecuencia Latina HD
@@ -481,6 +485,17 @@ http://190.83.119.67:8000/play/a0t8/index.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1,History Channel HD
 http://190.83.119.67:8000/play/a0px/index.m3u8
+#EXTINF:-1,History channer 2
+http://190.83.119.67:8000/play/a0r7/index.m3u8
+#EXTINF:-1,CANAL PRENDE CINE CLUB
+https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1,CANAL PRENDE FAMILIA 
+https://linear-195.frequency.stream:443/195/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1,CANAL PRENDE ROMANCE
+https://linear-194.frequency.stream:443/194/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1,CANAL PRENDE ORO
+https://linear-196.frequency.stream:443/196/hls/master/playlist_1280x720.m3u8
+
 
 
 #EXTINF:-1,Hot
@@ -1235,8 +1250,9 @@ http://190.83.119.67:8000/play/a0o3/index.m3u8
 http://190.83.119.67:8000/play/a0qg/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oz.png",Guatevision - GUA
 http://190.83.119.67:8000/play/a0oz/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r7.png",H2
-http://190.83.119.67:8000/play/a0r7/index.m3u8
+
+
+
 
 
 
@@ -1327,8 +1343,9 @@ http://190.83.119.67:8000/play/a0o4/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0td.png",Pasiones HD
-http://190.83.119.67:8000/play/a0td/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ow.png",Playboy
 http://190.83.119.67:8000/play/a0ow/index.m3u8
 #EXTINF:-1, PLAYBOY HD
@@ -1502,14 +1519,16 @@ http://138.36.253.12:8009/play/a00l/index.m3u8
 
 #EXTINF:-1, canal el nueve
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/b2ef8636-e1c7-42ec-b841-8a6adaee6741/5.m3u8
-#EXTINF:-1,CANAL PRENDE CINE CLUB
-https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1,CANAL PRENDE FAMILIA 
-https://linear-195.frequency.stream:443/195/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1,CANAL PRENDE ROMANCE
-https://linear-194.frequency.stream:443/194/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1,CANAL PRENDE ORO
-https://linear-196.frequency.stream:443/196/hls/master/playlist_1280x720.m3u8
+
+
+
+
+
+
+
+
+
+
 EXTINF:-1,CANAL PRENDDE LIGA DE FUTBOL MX
 https://linear-193.frequency.stream:443/193/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/6aa52e21eee8c7009d9e0a931aa61080.png", Laciudadtv.cl
