@@ -445,7 +445,36 @@ http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w110658420.m3u8
 
 #EXTINF:-1,Telemundo HD
 http://190.83.119.67:8000/play/a0q9/index.m3u8
-
+#EXTINF:-1,Distrito Comedia
+http://201.234.194.58:6020/play/a0dk/index.m3u8
+#EXTINF:-1,Canal Estrellas HD
+http://190.233.211.25:8000/play/a0b7/index.m3u8
+#EXTINF:-1,Caracol Internacional HD
+http://190.83.2.121:8080/play/a06o/index.m3u8
+#EXTINF:-1,Frecuencia Latina HD
+http://190.108.95.5:8000/play/a00g/index.m3u8
+#EXTINF:-1,Panamericana TV
+http://190.108.95.5:8000/play/a02t/index.m3u8
+#EXTINF:-1,Mega
+http://45.238.21.106:7788/play/a00z/index.m3u8
+#EXTINF:-1,global tv 
+http://190.108.83.142:8000/play/a00x/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://190.83.119.67:8000/play/a0q4/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://190.83.119.67:8000/play/a0tb/index.m3u8
+#EXTINF:-1,Discovery ID HD
+http://190.83.119.67:8000/play/a0tf/index.m3u8
+#EXTINF:-1,Discovery Science
+http://190.83.119.67:8000/play/a0ny/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://190.83.119.67:8000/play/a0tc/index.m3u8
+#EXTINF:-1,Discovery THEATHER HD
+http://190.83.119.67:8000/play/a0sr/index.m3u8
+#EXTINF:-1,E! Entertairment HD
+http://190.83.119.67:8000/play/a0q5/index.m3u8
+#EXTINF:-1,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
 
 
@@ -497,12 +526,12 @@ http://181.78.10.235:58002/play/a0bd/index.m3u8
 
 
 
-#EXTINF:-1,Distrito Comedia
-http://201.234.194.58:6020/play/a0dk/index.m3u8
 
 
-#EXTINF:-1,Mega
-http://45.238.21.106:7788/play/a00z/index.m3u8
+
+
+
+
 #EXTINF:-1,NPY
 http://45.179.194.114:48000/play/a0pg/index.m3u8
 #EXTINF:-1,SURTV
@@ -512,36 +541,36 @@ http://45.179.194.114:48000/play/a0ph/index.m3u8
 
 #EXTINF:-1,CABLEMAR TV HD
 http://168.232.168.242:8089/play/a0hu/index.m3u8
-#EXTINF:-1,Canal Estrellas HD
-http://190.233.211.25:8000/play/a0b7/index.m3u8
+
+
 #EXTINF:-1,Movistar Deportes
 http://190.233.211.25:8000/play/a00a/index.m3u8
 #EXTINF:-1,TyC Deportes
 http://190.233.211.25:8000/play/a0aw/index.m3u8
 #EXTINF:-1,Zona Latina
 http://190.233.211.25:8000/play/a09u/index.m3u8
-#EXTINF:-1,America TV HD
-http://190.233.211.25:8000/play/a02y/index.m3u8
 
 
 
 
-#EXTINF:-1,Frecuencia Latina HD
-http://190.108.95.5:8000/play/a00g/index.m3u8
+
+
+
+
 
 
 #EXTINF:-1,ViaX
 http://190.108.95.5:8000/play/a02f/index.m3u8
 #EXTINF:-1,WILLAX
 http://190.108.95.5:8000/play/a02p/index.m3u8
-#EXTINF:-1,Panamericana TV
-http://190.108.95.5:8000/play/a02t/index.m3u8
+
+
 #EXTINF:-1,EsneTV
 http://45.238.21.106:7788/play/a03q/index.m3u8
 #EXTINF:-1,PARAVISION
 http://45.179.194.114:48000/play/a0pd/index.m3u8
-#EXTINF:-1,Caracol HD
-http://190.83.2.121:8080/play/a06o/index.m3u8
+
+
 
 
 
@@ -627,8 +656,8 @@ https://streamtv.mediasector.es/hls/activatv/.m3u8
 
 
 
-#EXTINF:-1, CARACOL TV 
-https://vkvsd53.mycdn.me:443/hls/2456696195643.m3u8/sig/EDoXc4n_maE/srcIp/190.97.239.70/expires/1654799332956/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3583049870139/id/2456696195643/2456696195643_high/index.m3u8
+
+
 
 
 
@@ -931,8 +960,8 @@ https://stmv2.voxtvhd.com.br/puertonatales/puertonatales/playlist.m3u8
 
 
 
-#EXTINF:-1,Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+
+
 
 
 
@@ -993,10 +1022,11 @@ http://190.83.119.67:8000/play/a0qz/index.m3u8
 http://190.83.119.67:8000/play/a0qe/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v4.png",Amixtv
 http://190.83.119.67:8000/play/a0v4/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sb.png",Animal Planet
-http://190.83.119.67:8000/play/a0sb/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q4.png",Animal Planet HD
-http://190.83.119.67:8000/play/a0q4/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nv.png",Antena 3
 http://190.83.119.67:8000/play/a0nv/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p2.png",Antena 7- RD
@@ -1114,30 +1144,24 @@ http://190.83.119.67:8000/play/a0oq/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sr.png",DISC THEATHER HD
-http://190.83.119.67:8000/play/a0sr/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qp.png",Digital 15 - RD
 http://190.83.119.67:8000/play/a0qp/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sa.png",Discovery Channel
-http://190.83.119.67:8000/play/a0sa/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tb.png",Discovery Channel HD
-http://190.83.119.67:8000/play/a0tb/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tf.png",Discovery ID HD
-http://190.83.119.67:8000/play/a0tf/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ny.png",Discovery Science
-http://190.83.119.67:8000/play/a0ny/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tc.png",Discovery World HD
-http://190.83.119.67:8000/play/a0tc/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s7.png",E!
-http://190.83.119.67:8000/play/a0s7/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q5.png",E! Entertairment HD
-http://190.83.119.67:8000/play/a0q5/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0se.png",ESPN
 http://190.83.119.67:8000/play/a0se/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0py.png",ESPN  +
@@ -1469,8 +1493,8 @@ http://138.36.253.12:8009/play/a00n/index.m3u8
 http://138.36.253.12:8009/play/a00j/index.m3u8
 #EXTINF:-1,ZoonBack
 http://138.36.253.12:8009/play/a00l/index.m3u8
-#EXTINF:-1,global tv 
-http://190.108.83.142:8000/play/a00x/index.m3u8
+
+
 #EXTINF:-1, canal el nueve
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/b2ef8636-e1c7-42ec-b841-8a6adaee6741/5.m3u8
 #EXTINF:-1,CANAL PRENDE CINE CLUB
