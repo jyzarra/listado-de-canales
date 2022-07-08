@@ -457,6 +457,8 @@ http://190.108.95.5:8000/play/a00g/index.m3u8
 http://190.108.95.5:8000/play/a02t/index.m3u8
 #EXTINF:-1,Mega
 http://45.238.21.106:7788/play/a00z/index.m3u8
+#EXTINF:-1,CHV
+https://marine2.miplay.cl/chilevision/playlist.m3u8
 #EXTINF:-1,global tv 
 http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:-1,Animal Planet HD
@@ -473,10 +475,12 @@ http://190.83.119.67:8000/play/a0tc/index.m3u8
 http://190.83.119.67:8000/play/a0sr/index.m3u8
 #EXTINF:-1,E! Entertairment HD
 http://190.83.119.67:8000/play/a0q5/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://190.83.119.67:8000/play/a0t8/index.m3u8
 #EXTINF:-1,Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-
-
+#EXTINF:-1,History Channel HD
+http://190.83.119.67:8000/play/a0px/index.m3u8
 
 
 #EXTINF:-1,Hot
@@ -688,8 +692,8 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png", CHV
-https://marine2.miplay.cl/chilevision/playlist.m3u8
+
+
 
 
 
@@ -1259,10 +1263,11 @@ http://190.83.119.67:8000/play/a0st/index.m3u8
 http://190.83.119.67:8000/play/a0rg/index.m3u8
 #EXTINF:-1,VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sc.png",History Channel
-http://190.83.119.67:8000/play/a0sc/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0px.png",History HD
-http://190.83.119.67:8000/play/a0px/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nz.png",Hola!TV
 http://190.83.119.67:8000/play/a0nz/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ss.png",Home & Health HD
@@ -1299,10 +1304,10 @@ http://190.83.119.67:8000/play/a0og/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qw.png",NEXT - PAN
 http://190.83.119.67:8000/play/a0qw/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t8.png",Nat Geo HD
-http://190.83.119.67:8000/play/a0t8/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pk.png",National Geographic
-http://190.83.119.67:8000/play/a0pk/index.m3u8
+
+
+
+
 
 
 
