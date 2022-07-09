@@ -463,6 +463,8 @@ http://190.233.211.25:8000/play/a0b7/index.m3u8
 http://168.232.168.242:8089/play/a0ih/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://190.83.119.67:8000/play/a0td/index.m3u8
+#EXTINF:-1,GLITZ
+http://138.36.253.12:8009/play/a018/index.m3u8
 #EXTINF:-1,Caracol Internacional HD
 http://190.83.2.121:8080/play/a06o/index.m3u8
 #EXTINF:-1,Frecuencia Latina HD
@@ -865,8 +867,8 @@ http://138.36.253.12:8009/play/a005/index.m3u8
 
 
 
-#EXTINF:-1,GLITZ
-http://138.36.253.12:8009/play/a018/index.m3u8
+
+
 #EXTINF:-1,Inter TV
 http://138.36.253.12:8009/play/a015/index.m3u8
 
