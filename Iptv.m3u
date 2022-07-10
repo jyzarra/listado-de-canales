@@ -94,9 +94,15 @@ http://91.219.23.234:8000/play/108/index.m3u8
 http://91.219.23.234:8000/play/128/index.m3u8
 
 
+#EXTINF:-1,Las Estrellas
+http://181.78.10.235:58002/play/a0bl/index.m3u8
+
+#EXTINF:-1,Las Estrellas
+http://181.78.10.235:58002/play/a0b8/index.m3u8
 
 
-
+#EXTINF:-1,Movistar TV
+http://181.78.10.235:58002/play/a0af/index.m3u8
 
 
 
