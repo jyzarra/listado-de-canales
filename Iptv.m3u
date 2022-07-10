@@ -85,17 +85,18 @@ https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
 
 
 
-#EXTINF:-1,BOING
-http://185.140.187.41:8000/play/a00z/index.m3u8
-#EXTINF:-1,CALLE 13
-http://185.140.187.41:8000/play/a01r/index.m3u8
-#EXTINF:-1,CALLE 13 HD
-http://185.140.187.41:8000/play/a023/index.m3u8
 
-#EXTINF:-1,HOLLYWOOD
-http://185.140.187.41:8000/play/a027/index.m3u8
-#EXTINF:-1,HOLLYWOODHD
-http://185.140.187.41:8000/play/a01q/index.m3u8
+#EXTINF:-1,ТНТ HD
+http://91.219.23.234:8000/play/108/index.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
