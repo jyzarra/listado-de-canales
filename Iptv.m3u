@@ -84,12 +84,15 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
 
 
-
+#EXTINF:-1,DMAX HD
+http://185.205.201.96:8001/play/a032/index.m3u8
 
 #EXTINF:-1,ТНТ HD
 http://91.219.23.234:8000/play/108/index.m3u8
 
 
+#EXTINF:-1,Sky Cinema Premieren HD
+http://185.205.201.96:8004/play/a03r/index.m3u8
 #EXTINF:-1,Nat Geo Wild HD
 http://91.219.23.234:8000/play/128/index.m3u8
 
