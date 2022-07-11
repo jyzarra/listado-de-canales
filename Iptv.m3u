@@ -82,6 +82,41 @@ https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w1424555001.m3u8
 https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
 #EXTINF:-1,City tv
 https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
+
+
+#EXTINF:-1,Canal 1 HD
+http://201.182.242.130:8002/play/a0a8/index.m3u8
+#EXTINF:-1,Canal 13 HD
+http://201.182.242.130:8002/play/a0ak/index.m3u8
+#EXTINF:-1,Canal 24 Horas HD
+http://201.182.242.130:8002/play/a0al/index.m3u8
+
+#EXTINF:-1,FX Movies HD
+http://201.182.242.130:8002/play/a0a3/index.m3u8
+#EXTINF:-1,Golden HD
+http://201.182.242.130:8002/play/a0a6/index.m3u8
+#EXTINF:-1,Movistar Deportes HD
+http://201.182.242.130:8002/play/a0a4/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://201.182.242.130:8002/play/a09b/index.m3u8
+#EXTINF:-1,PlayBoy HD
+http://201.182.242.130:8002/play/a09l/index.m3u8
+#EXTINF:-1,Playboy HD
+http://201.182.242.130:8002/play/a09g/index.m3u8
+#EXTINF:-1,Las Estrellas HD
+http://201.182.242.130:8002/play/a0ao/index.m3u8
+#EXTINF:-1,Latina HD
+http://201.182.242.130:8002/play/a0ag/index.m3u8
+
+#EXTINF:-1,MEGA HD
+http://201.182.242.130:8002/play/a09o/index.m3u8
+#EXTINF:-1,Premiere Clubes HD
+http://201.182.242.130:8001/play/a0a6/index.m3u8
+#EXTINF:-1,Disney XD-ext
+http://201.182.242.130:8000/play/a03n/index.m3u8
+#EXTINF:-1,Golden Premiere 2 HD
+http://205.240.202.91:8001/play/a0d8/index.m3u8
+
 #EXTINF:-1,284 Disney 😆
 http://38.123.205.70:8000/play/a0j0/index.m3u8
 
