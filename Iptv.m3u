@@ -84,102 +84,59 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
 
 
-#EXTINF:-1,Canal 1 HD
-http://201.182.242.130:8002/play/a0a8/index.m3u8
-#EXTINF:-1,Canal 13 HD
-http://201.182.242.130:8002/play/a0ak/index.m3u8
-#EXTINF:-1,Canal 24 Horas HD
-http://201.182.242.130:8002/play/a0al/index.m3u8
 
-#EXTINF:-1,FX Movies HD
-http://201.182.242.130:8002/play/a0a3/index.m3u8
-#EXTINF:-1,Golden HD
-http://201.182.242.130:8002/play/a0a6/index.m3u8
-#EXTINF:-1,Movistar Deportes HD
-http://201.182.242.130:8002/play/a0a4/index.m3u8
+
+
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://201.182.242.130:8002/play/a09b/index.m3u8
-#EXTINF:-1,PlayBoy HD
-http://201.182.242.130:8002/play/a09l/index.m3u8
-#EXTINF:-1,Playboy HD
-http://201.182.242.130:8002/play/a09g/index.m3u8
+
 #EXTINF:-1,Las Estrellas HD
 http://201.182.242.130:8002/play/a0ao/index.m3u8
 #EXTINF:-1,Latina HD
 http://201.182.242.130:8002/play/a0ag/index.m3u8
 
-#EXTINF:-1,MEGA HD
-http://201.182.242.130:8002/play/a09o/index.m3u8
-#EXTINF:-1,Premiere Clubes HD
-http://201.182.242.130:8001/play/a0a6/index.m3u8
-#EXTINF:-1,Disney XD-ext
-http://201.182.242.130:8000/play/a03n/index.m3u8
-#EXTINF:-1,Golden Premiere 2 HD
-http://205.240.202.91:8001/play/a0d8/index.m3u8
 
-#EXTINF:-1,284 Disney 😆
-http://38.123.205.70:8000/play/a0j0/index.m3u8
 
-#EXTINF:-1,DMAX HD
-http://185.205.201.96:8001/play/a032/index.m3u8
 
-#EXTINF:-1,ТНТ HD
-http://91.219.23.234:8000/play/108/index.m3u8
-#EXTINF:-1,Caracol
-http://45.225.95.170:8000/play/a0my/index.m3u8
-#EXTINF:-1,Caracol Internacional
-http://45.225.95.170:8000/play/a0ks/index.m3u8
-#EXTINF:-1,384 FXM
-http://38.123.205.70:8000/play/a0cr/index.m3u8
-#EXTINF:-1,Sky Cinema Premieren HD
-http://185.205.201.96:8004/play/a03r/index.m3u8
+
+
+
+
+
 #EXTINF:-1,Nat Geo Wild HD
 http://91.219.23.234:8000/play/128/index.m3u8
 
-#EXTINF:-1,Disney Xd
-http://45.225.95.170:8000/play/a0o0/index.m3u8
+
 #EXTINF:-1,Las Estrellas
 http://181.78.10.235:58002/play/a0bl/index.m3u8
 #EXTINF:-1,Zona Latina
 http://45.225.95.170:8000/play/a0iz/index.m3u8
 #EXTINF:-1,Las Estrellas
 http://181.78.10.235:58002/play/a0b8/index.m3u8
-#EXTINF:-1,Venevision Plus
-http://45.225.95.170:8000/play/a0jq/index.m3u8
-#EXTINF:-1,Glitz*
-http://45.225.95.170:8000/play/a0j3/index.m3u8
-#EXTINF:-1,Movistar TV
-http://181.78.10.235:58002/play/a0af/index.m3u8
-#EXTINF:-1,Mis Peliculas
-http://45.225.95.170:8000/play/a0kd/index.m3u8
-#EXTINF:-1,Movistar Deportes
-http://45.225.95.170:8000/play/a0jg/index.m3u8
-#EXTINF:-1,Movistar Plus
-http://45.225.95.170:8000/play/a0jj/index.m3u8
-#EXTINF:-1,Movistar TV
-http://45.225.95.170:8000/play/a0mv/index.m3u8
+
 #EXTINF:-1,Las Estrellas
 http://45.225.95.170:8000/play/a0o5/index.m3u8
 #EXTINF:-1,Las Estrellas
 http://45.225.95.170:8000/play/a0ns/index.m3u8
 #EXTINF:-1,Latina
 http://45.225.95.170:8000/play/a0jf/index.m3u8
-EXTINF:-1,Disney 😆
-http://190.61.37.9:8000/play/a03y/index.m3u8
-#EXTINF:-1,MEGA
-http://45.225.95.170:8000/play/a0iw/index.m3u8
-#EXTINF:-1,Boing
-http://194.76.186.65:8000/play/a013/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1,Brazzers HD
 http://194.76.186.65:8000/play/a02r/index.m3u8
-#EXTINF:-1,PLUSTV
-http://45.225.95.170:8000/play/a0ju/index.m3u8
+
+
 #EXTINF:-1,Panamericana
 http://45.225.95.170:8000/play/a0ji/index.m3u8
 #EXTINF:-1,Hustler HD
 http://194.76.186.65:8000/play/a02s/index.m3u8
-#EXTINF:-1,TEST Mundo Fox
-http://45.225.95.170:8000/play/a0ni/index.m3u8
+
 *** CANALES INFANTILES ***
 
 #EXTINF:-1,Cartoon Network HD
