@@ -87,13 +87,13 @@ https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
 
 
 
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://201.182.242.130:8002/play/a09b/index.m3u8
+
+
 
 #EXTINF:-1,Las Estrellas HD
 http://201.182.242.130:8002/play/a0ao/index.m3u8
-#EXTINF:-1,Latina HD
-http://201.182.242.130:8002/play/a0ag/index.m3u8
+
+
 
 
 
@@ -109,8 +109,8 @@ http://91.219.23.234:8000/play/128/index.m3u8
 
 #EXTINF:-1,Las Estrellas
 http://181.78.10.235:58002/play/a0bl/index.m3u8
-#EXTINF:-1,Zona Latina
-http://45.225.95.170:8000/play/a0iz/index.m3u8
+
+
 #EXTINF:-1,Las Estrellas
 http://181.78.10.235:58002/play/a0b8/index.m3u8
 
@@ -118,8 +118,8 @@ http://181.78.10.235:58002/play/a0b8/index.m3u8
 http://45.225.95.170:8000/play/a0o5/index.m3u8
 #EXTINF:-1,Las Estrellas
 http://45.225.95.170:8000/play/a0ns/index.m3u8
-#EXTINF:-1,Latina
-http://45.225.95.170:8000/play/a0jf/index.m3u8
+
+
 
 
 
@@ -132,8 +132,9 @@ http://45.225.95.170:8000/play/a0jf/index.m3u8
 http://194.76.186.65:8000/play/a02r/index.m3u8
 
 
-#EXTINF:-1,Panamericana
-http://45.225.95.170:8000/play/a0ji/index.m3u8
+
+
+
 #EXTINF:-1,Hustler HD
 http://194.76.186.65:8000/play/a02s/index.m3u8
 
@@ -1577,11 +1578,11 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com:443
 
 EXTINF:-1,CANAL PRENDDE LIGA DE FUTBOL MX
 https://linear-193.frequency.stream:443/193/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/6aa52e21eee8c7009d9e0a931aa61080.png", Laciudadtv.cl
-https://5eaccbab48461.streamlock.net:1936/8022/8022/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/9b4795c2b8693accecf64feca033926b.png", LassTV
-https://streaming03.zas.media:1936/lasstv/lasstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/4a5bc18908397d4ada773540bf998afb.png", Planea TV
-https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
-#EXTINF:-1,
-##
+
+
+
+
+
+
+
+
