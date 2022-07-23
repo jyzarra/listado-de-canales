@@ -28,13 +28,13 @@ http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/playlist.m3u8
 https://novelisima.akamaized.net:443/hls/live/2031534/novelisimaABR/1/streamPlaylist.m3u8
 #EXTINF:-1,VALE TV
 http://vcp1.myplaytv.com:80/valetv/valetv/chunklist_w1562065729.m3u8
-#EXTINF:-1,canal i
+#EXTINF:-1,canal i 
 https://vcp.myplaytv.com:443/canali/canali/chunklist_w1757795756.m3u8
 #EXTINF:-1,Corazon Llanero
 https://vcp.myplaytv.com:443/coll/coll/chunklist_w1478988526.m3u8?PlaylistM3UCL
 #EXTINF:-1,Catatumbo TV
 https://vcp3.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8
-#EXTINF:-1,TVO
+#EXTINF:-1,TVO 
 https://vcp3.myplaytv.com/tvo/tvo/playlist.m3u8
 #EXTINF:-1,TV EPACO
 http://138.186.20.245:8000/play/a06p/index.m3u8
@@ -44,7 +44,7 @@ http://vcp1.myplaytv.com:1935/tvs/tvs/playlist.m3u8
 http://138.186.20.245:8000/play/a06m/index.m3u8
 #EXTINF:-1,CONCIENCIA tv
 http://138.186.20.245:8000/play/a06q/index.m3u8
-#EXTINF:-1,FANB
+#EXTINF:-1,FANB 
 http://138.186.20.245:8000/play/a06r/index.m3u8
 #EXTINF:-1,La Tele
 http://138.186.20.245:8000/play/a03j/index.m3u8
@@ -117,7 +117,10 @@ http://91.219.23.234:8000/play/128/index.m3u8
 http://181.78.10.235:58002/play/a0bl/index.m3u8
 
 
-#EXTINF:-1,Las Estrellas
+#EXTINF:-1,Las estrellas 
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuEEA89CjyXEwjDJ7loghzx7WCmDzkf--BsP-rJ3s9r13iBVfEqZZ9mpqiQUyQqXW21MAc_pLzB74HOotiO0uPoA0Eb82jZ3xsDbL32lEsZVq6Ah-Z00rsDPJzqjDqTQs00pdGA1oPjcrs4berMjGMKHXszT3d9ngJ11ch__En4wx-tYTl_2cV8Etr6HwtC6L7ajyX1TZQS6kn0vCfFKCBHoGqVr7hsw0gWo8lvrbAdtsMbydng2TSSA_qUEg0XB0yqDi7kcwjwY0H_K31B0bk8msR6AKxBp9oXBGIhoJzhTXVZDVHZCODZ15affgY_8okGp_XU5KT_mqZM9zX9hMr_DATyMVPZP6wA3DpYq-5xil-a4ZmlBdDOd45oKQ6WGI2bV00EkkVCBFEVIPNNYj3eq-BGw5A63wZMsV4yfataehf58L_EBPrDn8BNawQwbxkWkJP4CSV6wglA-m6LiCtqo0ZGVT9xvLTN7LTrYP1eeNEUnmG_oqsW8DX6wWgM-R_WnrZWUDGo2bGgM7L5MR_IA4j0q6MBNr_U-TsIPY6aux-ByhrMINqwVT9WfNVRRuvb1zQDrnWn-ZfecQh4hjv-VMNuyodCqE3-thxyaUyZ2PtqY9UeCzETDYtN4vH9e7NfSjAvSlmobetKpw9-n2beZAiW01YGG-yNzRIFv8FcsCUyG4S0_nBiG3fa2-ZVEjHzRgVLDXc62KwBeUFudTqmIKGbLJlBF2Hp_7miDiAJW9-xVvpAUqPEIKsl77RQYRSnmhiBdIy7teXGCks-dU992XiLlLk6-X6hJ16gkHYw9-P3uGgw1e93OA2HAK1oPHuogASoJZXUtd2VzdC0yMKEE.m3u8
+
+#EXTINF:-1,Las Estrellas 
 http://181.78.10.235:58002/play/a0b8/index.m3u8
 
 #EXTINF:-1,Las Estrellas
