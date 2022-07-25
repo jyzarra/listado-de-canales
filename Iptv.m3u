@@ -194,6 +194,10 @@ https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1,RLOTV
 https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8
+
+EXTINF:-1, ENERGEEK
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1,Energeek Radio HD
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8?nimblesessionid=4993279&PlaylistM3UCL
 #EXTINF:-1,EnerGeek HD
