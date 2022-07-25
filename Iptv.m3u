@@ -83,7 +83,8 @@ https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chun
 #EXTINF:-1,City tv
 https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
 
-
+#EXTINF:-1,Distrito Comedia
+http://45.225.95.171:8000/play/a0jo/index.m3u8
 
 
 #EXTINF:-1,CARTOONITO
