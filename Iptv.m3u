@@ -113,7 +113,11 @@ http://8.242.179.182:58001/play/a018/index.m3u8
 
 
 
+#EXTINF:-1,Discovery Kids HD
+http://8.242.179.179:58001/play/a018/index.m3u8
 
+#EXTINF:-1,Discovery Kids HD
+http://8.242.179.178:58001/play/a018/index.m3u8
 
 #EXTINF:-1,Nat Geo Wild HD
 http://91.219.23.234:8000/play/128/index.m3u8
