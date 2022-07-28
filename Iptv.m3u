@@ -86,7 +86,8 @@ https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
 #EXTINF:-1,Distrito Comedia
 http://45.225.95.171:8000/play/a0jo/index.m3u8
 
-
+#EXTINF:-1,Discovery Kids HD
+http://8.242.179.183:58001/play/a018/index.m3u
 #EXTINF:-1,CARTOONITO
 
 https://vsd157.mycdn.me:443/hls/2425269389867.m3u8/sig/cHZzQTyD5BQ/expires/1658582029848/srcIp/206.0.226.40/clientType/0/srcAg/CHROME_ANDROID/mid/4123310628395/2425269389867_high/index.m3u8
