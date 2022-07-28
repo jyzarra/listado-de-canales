@@ -119,6 +119,8 @@ http://8.242.179.182:58001/play/a018/index.m3u8
 http://91.219.23.234:8000/play/128/index.m3u8
 
 
+#EXTINF:-1,Discovery Kids HD
+http://8.242.179.180:58001/play/a018/index.m3u8
 #EXTINF:-1,Las Estrellas
 http://181.78.10.235:58002/play/a0bl/index.m3u8
 
