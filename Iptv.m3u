@@ -106,7 +106,8 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Ct8EzzaC0DPrKMlR0U7xTdPxU16
 #EXTINF:-1,GOLDEN EDGE
 https://vsd86.mycdn.me:443/hls/2771045386836.m3u8/sig/dtkam7FmeDI/expires/1658647651023/srcIp/190.97.239.67/clientType/0/srcAg/CHROME_ANDROID/mid/3922556558932/2771045386836_high/index.m3u8
 
-
+#EXTINF:-1,Discovery Kids HD
+http://8.242.179.182:58001/play/a018/index.m3u8
 
 
 
