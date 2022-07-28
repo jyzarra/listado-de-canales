@@ -140,9 +140,14 @@ http://45.225.95.170:8000/play/a0o5/index.m3u8
 #EXTINF:-1,Las Estrellas
 http://45.225.95.170:8000/play/a0ns/index.m3u8
 
-
-
-
+#EXTINF:-1,Disney 😆
+http://8.242.179.184:58002/play/a035/index.m3u8
+#EXTINF:-1,Cartoonito
+http://45.5.151.145:8000/play/a0gm/index.m3u8
+#EXTINF:-1,Chacra TV
+http://45.5.151.145:8000/play/a0ji/index.m3u8
+#EXTINF:-1,Disney Channel HD
+http://45.5.151.145:8000/play/a0le/index.m3u8
 
 
 
