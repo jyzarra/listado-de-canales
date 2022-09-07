@@ -1847,23 +1847,109 @@ http://200.122.237.28:8000/play/a00r/index.m3u8
 http://200.122.237.28:8000/play/a00a/index.m3u8
 
 
+#EXTINF:-1,TNT
+http://190.149.66.90:8000/play/a0f4/index.m3u8
+#EXTINF:-1,TNT HD
+http://190.149.66.90:8000/play/a0i9/index.m3u8
+#EXTINF:-1,Golden Edge
+http://181.39.202.98:8843/play/a134/index.m3u8
+#EXTINF:-1,Golden Premiere 2 HD
+http://181.39.202.98:8843/play/a120/index.m3u8
+#EXTINF:-1,Golden Premiere HD
+http://181.39.202.98:8843/play/a11z/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,CAMPUS TELEVISION
+http://181.189.254.33:8080/play/a05f/index.m3u8
+#EXTINF:-1,CANAL 25 SB
+http://181.189.254.33:8080/play/a059/index.m3u8
+#EXTINF:-1,CANAL 5 MX
+http://181.189.254.33:8080/play/a06c/index.m3u8
+#EXTINF:-1,CANAL 6 HD
+http://181.189.254.33:8080/play/a04p/index.m3u8
+#EXTINF:-1,CANAL ESTRELLA
+http://181.189.254.33:8080/play/a052/index.m3u8
+#EXTINF:-1,CARTOONNTHD
+http://181.189.254.33:8080/play/a0cq/index.m3u8
+#EXTINF:-1,CCI CHANNEL
+http://181.189.254.33:8080/play/a088/index.m3u8
+#EXTINF:-1,CH TV
+http://181.189.254.33:8080/play/a082/index.m3u8
+#EXTINF:-1,CHOLUSAT SUR
+http://181.189.254.33:8080/play/a05e/index.m3u8
+#EXTINF:-1,CINECANAL HD
+http://181.189.254.33:8080/play/a0g4/index.m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+http://181.189.254.33:8080/play/a055/index.m3u8
+#EXTINF:-1,DTV
+http://181.189.254.33:8080/play/a09f/index.m3u8
+#EXTINF:-1,DW channel
+http://181.189.254.33:8080/play/a08d/index.m3u8
+#EXTINF:-1,Veronica HD / Disney 😆
+http://178.251.29.82:7207/play/a02y/index.m3u8
+#EXTINF:-1,Clover
+http://138.186.76.100:8000/play/a04t/index.m3u8
+#EXTINF:-1,Clover HD
+http://138.186.76.100:8000/play/a03y/index.m3u8
+#EXTINF:-1,GLOBAL
+http://138.186.76.100:8000/play/a01w/index.m3u8
+#EXTINF:-1,TC Television
+http://131.196.194.2:8000/play/a0b8/index.m3u8
+#EXTINF:-1,Globo Internacional
+http://131.196.194.2:8000/play/a0c6/index.m3u8
+#EXTINF:-1,Movistar Plus
+http://138.186.76.100:8000/play/a01u/index.m3u8
+#EXTINF:-1,MeteoTV.TV
+http://80.86.106.207:8000/play/1/index.m3u8
+#EXTINF:-1,Premiere 2
+http://45.175.61.242:4000/play/a0af/index.m3u8
+#EXTINF:-1,Premiere 3
+http://45.175.61.242:4000/play/a0c3/index.m3u8
+#EXTINF:-1,Premiere 4
+http://45.175.61.242:4000/play/a0dw/index.m3u8
+#EXTINF:-1,Premiere 5
+http://45.175.61.242:4000/play/a0b0/index.m3u8
+#EXTINF:-1,Premiere 6
+http://45.175.61.242:4000/play/a09d/index.m3u8
+#EXTINF:-1,Premiere 7
+http://45.175.61.242:4000/play/a09h/index.m3u8
+#EXTINF:-1,Premiere 8
+http://45.175.61.242:4000/play/a08w/index.m3u8
+#EXTINF:-1,Lolly Kids HD
+http://209.45.100.118:8000/play/a0c0/index.m3u8
+#EXTINF:-1,Telecine Action
+http://45.175.61.242:4000/play/a05u/index.m3u8
+#EXTINF:-1,Telecine Cult
+http://45.175.61.242:4000/play/a04m/index.m3u8
+#EXTINF:-1,Telecine Fun
+http://45.175.61.242:4000/play/a082/index.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://45.175.61.242:4000/play/a03z/index.m3u8
+#EXTINF:-1,Telecine Premium
+http://45.175.61.242:4000/play/a071/index.m3u8
+#EXTINF:-1,Telecine Touch
+http://45.175.61.242:4000/play/a072/index.m3u8
+#EXTINF:-1,Terra Viva
+http://45.175.61.242:4000/play/a0do/index.m3u8
+#EXTINF:-1,Terra Viva HD
+http://45.175.61.242:4000/play/a0j5/index.m3u8
+#EXTINF:-1,Distrito Comedia
+http://190.61.99.191:8000/play/a06o/index.m3u8
+#EXTINF:-1,Disney 😆
+http://190.61.99.191:8000/play/a03y/index.m3u8
+#EXTINF:-1,Super TV
+http://90.84.231.177:8000/play/a001/index.m3u8
+#EXTINF:-1,01 MISTV IntelSat19
+http://14.202.204.202:8000/play/a00i/index.m3u8
+#EXTINF:-1,02 RTS IntelSat19
+http://14.202.204.202:8000/play/a010/index.m3u8
+#EXTINF:-1,03 BNTV Stream
+http://14.202.204.202:8000/play/a01q/index.m3u8
+#EXTINF:-1,04 RTS1 DVB Trans
+http://14.202.204.202:8000/play/a01l/index.m3u8
+#EXTINF:-1,05 RTRS Stream
+http://14.202.204.202:8000/play/a01r/index.m3u8
+EXTINF:-1,aliento
+http://71.187.29.54:8000/play/a06d/index.m3u8
+#EXTINF:-1,wcbs
+http://71.187.29.54:8000/play/a081/index.m3u8
 
