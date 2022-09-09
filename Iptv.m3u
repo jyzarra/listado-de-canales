@@ -4,10 +4,6 @@
 *** CANALES DE VENEZUELA Y MI FAVORITOS***
 
 
-#EXTINF:-1,GUIA DE CANALES Y PROGRAMACION
-http://168.228.194.32:4000/play/a778/index.m3u8
-#EXTINF:-1,EVENTOS
-http://168.228.194.32:4000/play/a777/index.m3u8
 #EXTINF:-1,Venevision
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
 #EXTINF:-1,TVES
@@ -228,11 +224,11 @@ http://190.83.119.67:8000/play/a0sk/index.m3u8
 #EXTINF:-1,Sony Movies HD
 http://190.83.119.67:8000/play/a0qc/index.m3u8
 #EXTINF:-1,AXN HD
-http://168.228.194.32:4000/play/a074/index.m3u8
+http://200.122.237.28:8000/play/a01z/index.m3u8
 #EXTINF:-1,AXN White
-http://45.92.69.77:8000/play/a069/index.m3u8
-#EXTINF:-1,AXN White HD
-http://45.92.69.77:8000/play/a04v/index.m3u8
+http://116.204.149.11:8000/play/a004/index.m3u8
+#EXTINF:-1,AXN spin
+http://116.204.149.11:8000/play/a002/index.m3u8
 #EXTINF:-1,SyFy HD
 http://200.122.237.28:8000/play/a02r/index.m3u8
 #EXTINF:-1,FX HD
@@ -498,9 +494,12 @@ https://linear-196.frequency.stream:443/196/hls/master/playlist_1280x720.m3u8
 
 
 
+
+**** CANALES PARA ADULTOS ****
+
+
 #EXTINF:-1,Hot
 http://45.92.69.77:8000/play/a01r/index.m3u8
-
 #EXTINF:-1,Ftv
 http://212.18.115.192:3169/play/ftv/index.m3u8
 #EXTINF:-1,Nuart
@@ -521,8 +520,6 @@ http://212.18.115.192:3169/play/a001/index.m3u8
 http://212.18.115.192:3169/play/a009/index.m3u8
 #EXTINF:-1,Penthouse Gold HD
 http://212.18.115.192:3169/play/a005/index.m3u8
-#EXTINF:-1,Penthouse Quickies HD
-http://212.18.115.192:3169/play/a006/index.m3u8
 #EXTINF:-1,Pink O TV
 http://212.18.115.192:3169/play/a00b/index.m3u8
 #EXTINF:-1,Private TV HD
@@ -533,133 +530,47 @@ http://212.18.115.192:3169/play/a004/index.m3u8
 http://212.18.115.192:3169/play/vivid/index.m3u8
 #EXTINF:-1,XY Plus
 http://212.18.115.192:3169/play/a00c/index.m3u8
-
-#EXTINF:-1,Penthouse HD1
+#EXTINF:-1,Penthouse HD
 http://45.92.69.77:8000/play/a032/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1,Nuestra Tele
 http://181.78.10.235:58002/play/a0bd/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,NPY
 http://45.179.194.114:48000/play/a0pg/index.m3u8
 #EXTINF:-1,SURTV
 http://45.179.194.114:48000/play/a0ph/index.m3u8
-
-
-
 #EXTINF:-1,CABLEMAR TV HD
 http://168.232.168.242:8089/play/a0hu/index.m3u8
-
-
 #EXTINF:-1,Movistar Deportes
 http://190.233.211.25:8000/play/a00a/index.m3u8
 #EXTINF:-1,TyC Deportes
 http://190.233.211.25:8000/play/a0aw/index.m3u8
 #EXTINF:-1,Zona Latina
 http://190.233.211.25:8000/play/a09u/index.m3u8
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,ViaX
 http://190.108.95.5:8000/play/a02f/index.m3u8
 #EXTINF:-1,WILLAX
 http://190.108.95.5:8000/play/a02p/index.m3u8
-
-
 #EXTINF:-1,EsneTV
 http://45.238.21.106:7788/play/a03q/index.m3u8
 #EXTINF:-1,PARAVISION
 http://45.179.194.114:48000/play/a0pd/index.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1,7-Teletica
 http://168.228.194.32:4000/play/a04k/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1, TV GALICIA
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1, TV CARIOCA
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
-
-
-
-
-
-
 #EXTINF:-1, Sitv
 http://190.122.104.221/Player/sitv.m3u8
-
-
 #EXTINF:-1, SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1, ACTIVATV
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 
@@ -1521,72 +1432,16 @@ http://138.36.253.12:8009/play/a00l/index.m3u8
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/b2ef8636-e1c7-42ec-b841-8a6adaee6741/5.m3u8
 
 
-#EXTINF:-1 tvg-id="DisneyChannel",Disney Channel
-http://190.131.228.59:8000/play/a05m/index.m3u8
 
 
 
-#EXTINF:-1,(CH-02) AXN Spin
-http://116.204.149.11:8000/play/a002/index.m3u8
+
+
+
 #EXTINF:-1,(CH-03) AXN Movies
 http://116.204.149.11:8000/play/a003/index.m3u8
-#EXTINF:-1,(CH-04) AXN White
-http://116.204.149.11:8000/play/a004/index.m3u8
-
-#EXTINF:-1,(CH-13) Hollywood
-http://116.204.149.11:8000/play/a00d/index.m3u8
-
-#EXTINF:-1,Champion Kids
-http://103.174.5.44:8000/play/a03s/index.m3u8
-
-#EXTINF:-1,CINEMA 2
-http://103.174.5.44:8000/play/a00n/index.m3u8
 
 
-EXTINF:-1,CANAL PRENDDE LIGA DE FUTBOL MX
-https://linear-193.frequency.stream:443/193/hls/master/playlist_1280x720.m3u8
-
-#EXTINF:-1,Cinema Classic
-http://103.174.5.44:8000/play/a00y/index.m3u8
-#EXTINF:-1,Cinema MAX
-http://103.174.5.44:8000/play/a018/index.m3u8
-#EXTINF:-1,Cinema World
-http://103.174.5.44:8000/play/a00v/index.m3u8
-#EXTINF:-1,Cinema kids
-http://103.174.5.44:8000/play/a00s/index.m3u8
-
-##EXTINF:-1,Film Action
-http://103.174.5.44:8000/play/a01k/index.m3u8
-#EXTINF:-1,Filmy World
-http://103.174.5.44:8000/play/a01n/index.m3u8
-
-
-#EXTINF:-1,&PRIVE HD (videocon d2h)
-http://103.174.5.43:8000/play/a05t/index.m3u8
-#EXTINF:-1,&flix HD (videocon d2h)
-http://103.174.5.43:8000/play/a05s/index.m3u8
-
-#EXTINF:-1,CINE MOVIES
-http://103.174.5.43:8000/play/a036/index.m3u8
-#EXTINF:-1,CINEMACHI MOVIES
-http://103.174.5.43:8000/play/a03z/index.m3u8
-
-#EXTINF:-1,GEM COMEDY
-http://103.174.5.43:8000/play/a029/index.m3u8
-#EXTINF:-1,GEM DRAMA HD
-http://103.174.5.43:8000/play/a02a/index.m3u8
-#EXTINF:-1,GEM NATURE
-http://103.174.5.43:8000/play/a02b/index.m3u8
-#EXTINF:-1,GEM SERIES HD
-http://103.174.5.43:8000/play/a02c/index.m3u8
-#EXTINF:-1,GEM TV HD
-http://103.174.5.43:8000/play/a02d/index.m3u8
-
-#EXTINF:-1,&pictures HD
-http://103.162.136.235:4500/play/a00n/index.m3u8
-
-#EXTINF:-1,HBO 3
-http://103.162.136.235:4500/play/a02p/index.m3u8
 
 
 #EXTINF:-1,Star Gold 2
@@ -1661,10 +1516,7 @@ http://200.122.237.28:8000/play/a03x/index.m3u8
 http://200.122.237.28:8000/play/a047/index.m3u8
 #EXTINF:-1,Digital 15
 http://200.122.237.28:8000/play/a00j/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://200.122.237.28:8000/play/a026/index.m3u8
-#EXTINF:-1,EJERCITO
-http://200.122.237.28:8000/play/a03m/index.m3u8
+
 #EXTINF:-1,ESPN 3
 http://200.122.237.28:8000/play/a028/index.m3u8
 #EXTINF:-1,Ecuavision HD
@@ -1684,8 +1536,7 @@ http://200.122.237.28:8000/play/a010/index.m3u8
 http://200.122.237.28:8000/play/a041/index.m3u8
 #EXTINF:-1,Gallo XC
 http://200.122.237.28:8000/play/a049/index.m3u8
-#EXTINF:-1,HBO
-http://200.122.237.28:8000/play/a01w/index.m3u8
+
 #EXTINF:-1,HispanTV
 http://200.122.237.28:8000/play/a00m/index.m3u8
 #EXTINF:-1,History Channel
@@ -1696,8 +1547,7 @@ http://200.122.237.28:8000/play/a02f/index.m3u8
 http://200.122.237.28:8000/play/a042/index.m3u8
 #EXTINF:-1,Lifetime
 http://200.122.237.28:8000/play/a02q/index.m3u8
-#EXTINF:-1,MI VALLENATO
-http://200.122.237.28:8000/play/a032/index.m3u8
+
 #EXTINF:-1,MTV
 http://200.122.237.28:8000/play/a02g/index.m3u8
 #EXTINF:-1,Maya TV
@@ -1708,28 +1558,8 @@ http://200.122.237.28:8000/play/a044/index.m3u8
 http://200.122.237.28:8000/play/a012/index.m3u8
 
 
-#EXTINF:-1,Oromar TV
-http://200.122.237.28:8000/play/a01b/index.m3u8
-#EXTINF:-1,RADIO NACIONAL
-http://200.122.237.28:8000/play/a03k/index.m3u8
-#EXTINF:-1,RADIONICA
-http://200.122.237.28:8000/play/a03l/index.m3u8
-#EXTINF:-1,RADIONICA CALI
-http://200.122.237.28:8000/play/a03q/index.m3u8
-#EXTINF:-1,RADNAL BQUILLA
-http://200.122.237.28:8000/play/a03n/index.m3u8
-#EXTINF:-1,RADNAL CHAPARRAL
-http://200.122.237.28:8000/play/a03u/index.m3u8
-#EXTINF:-1,RADNAL CONVENCION
-http://200.122.237.28:8000/play/a03s/index.m3u8
-#EXTINF:-1,RADNAL FONSECA
-http://200.122.237.28:8000/play/a03r/index.m3u8
-#EXTINF:-1,RADNAL QUIBDO
-http://200.122.237.28:8000/play/a03o/index.m3u8
-#EXTINF:-1,RADNAL SAN JACINTO
-http://200.122.237.28:8000/play/a03t/index.m3u8
-#EXTINF:-1,RADNAL VVICENCIO
-http://200.122.237.28:8000/play/a03p/index.m3u8
+
+
 #EXTINF:-1,SENAL COLOMBIA (R)
 http://200.122.237.28:8000/play/a03b/index.m3u8
 #EXTINF:-1,SEO TV
@@ -1744,12 +1574,7 @@ http://200.122.237.28:8000/play/a02j/index.m3u8
 http://200.122.237.28:8000/play/a00y/index.m3u8
 #EXTINF:-1,Sony
 http://200.122.237.28:8000/play/a01y/index.m3u8
-#EXTINF:-1,Space
-http://200.122.237.28:8000/play/a020/index.m3u8
-#EXTINF:-1,SyFy
-http://200.122.237.28:8000/play/a02r/index.m3u8
-#EXTINF:-1,TCM
-http://200.122.237.28:8000/play/a02k/index.m3u8
+
 #EXTINF:-1,TELEANTIOQUIA (R)
 http://200.122.237.28:8000/play/a03f/index.m3u8
 #EXTINF:-1,TELECAFE (R)
@@ -1767,16 +1592,7 @@ http://200.122.237.28:8000/play/a00r/index.m3u8
 http://200.122.237.28:8000/play/a00a/index.m3u8
 
 
-#EXTINF:-1,TNT
-http://190.149.66.90:8000/play/a0f4/index.m3u8
-#EXTINF:-1,TNT HD
-http://190.149.66.90:8000/play/a0i9/index.m3u8
-#EXTINF:-1,Golden Edge
-http://181.39.202.98:8843/play/a134/index.m3u8
-#EXTINF:-1,Golden Premiere 2 HD
-http://181.39.202.98:8843/play/a120/index.m3u8
-#EXTINF:-1,Golden Premiere HD
-http://181.39.202.98:8843/play/a11z/index.m3u8
+
 
 #EXTINF:-1,CAMPUS TELEVISION
 http://181.189.254.33:8080/play/a05f/index.m3u8
