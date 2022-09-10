@@ -619,38 +619,15 @@ http://190.122.104.221/Player/sitv.m3u8
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1, ACTIVATV
 https://streamtv.mediasector.es/hls/activatv/.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up
+#EXTINF:-1, Solo Stand Up
 https://paneltv.online:1936/8116/8116/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png", Mundo de la Musica TV
+#EXTINF:-1, Mundo de la Musica TV
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/8c2f2173bc185136286b7335795f678b.png", TVV
+#EXTINF:-1, TVV
 https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist.m3u8
 
 
@@ -696,101 +673,36 @@ https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 
 #EXTINF:-1,Urban tv
 https://urbanrevolution.es:8443/live/TV/chunklist_w1659759335.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DqCASDFb1BA/YE1UxfihGbI/AAAAAAABAoE/bK1rgKUWLvM3DNRKfj9CXfbSBX3HykNzgCK8BGAsYHg/s512/2021-03-13.png", Urbancrist2 Worship
+#EXTINF:-1, Urbancrist2 Worship
 https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4UNQ-eaQbUk/YE1UUzjDO3I/AAAAAAABAn8/QbEyp6jNP7MsJ90tDqBUMDyGXQVlXxkBgCK8BGAsYHg/s512/2021-03-13.png", Urbancris TV
+#EXTINF:-1, Urbancris TV
 https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-kl7V7U5q7f0/YI830_FLyoI/AAAAAAABCJg/VWmNBlxJKzYppBYkN1vC4Rz9WjB7jBrfQCK8BGAsYHg/s512/2021-05-02.png", La Fe Mueve Montanas
+#EXTINF:-1, La Fe Mueve Montanas
 https://inliveserver.com:1936/10020/10020/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1, enlace juvenil
 https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
 #EXTINF:-1, CANAL EL TRECE 
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, enlace tv
-https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1,A+TV
 https://vxlive.cdn.antel.net.uy:443/auth_V_AmasV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQW1hc1YlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTY1NDE3ODA3MyZyYW5kb209U2V0NjNyT3ZmdCZjLWlwPTE4Ni4xODUuMTY3LjIxNSZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzaDhxLGE5Mjc0NDBlMGZiNzU5OGQ1ZjgxNTQxYTMzOGMxMGRkZWFmNmE2MjkwYjYzYmYzN2E2YmYxMjYwNWYyNjkyZWE=/vxfmt=hls/h_06a4e64321ce21c4430cbac47fe7a5f9/var1200000/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1,EVTV
 https://streannliveevtv.cachefly.net:443/evtv1/evtv1/chunks.m3u8
 #EXTINF:-1, VIVO PLAY
 https://vp01-vivoplayiptv.delivery.fuugo.com:443/ngrp:vp01-VIVOplay_IPTV-aa730fa2_all/chunklist_b2179072.m3u8
-
-
-
-
-
 #EXTINF:-1,visit X TV
 http://stream.visit-x.tv:80/vxtv/live/chunklist_w1068976249.m3u8
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 ,Telecanal
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1, Global Got Talent
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,love nature
 https://bamus-spa-roku.amagi.tv:443/playlist1080-p.m3u8
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,OLDMusic
 http://138.36.253.12:8009/play/a00e/index.m3u8
 #EXTINF:-1,mundo y sabor
@@ -801,115 +713,22 @@ http://138.36.253.12:8009/play/a008/index.m3u8
 http://138.36.253.12:8009/play/a006/index.m3u8
 #EXTINF:-1,KARAVANA URBANO
 http://138.36.253.12:8009/play/a005/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,Inter TV
 http://138.36.253.12:8009/play/a015/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,TELERITMO
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1, CDM INTERNACIONAL
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w152721132.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E_i3NMhXprE/XzgiJBP-YeI/AAAAAAAA4YY/htokywgIrT8erB8ThIjJED5hRTUpqwGBwCK8BGAsYHg/s0/2020-08-15.png", Mundo +
+#EXTINF:-1, Mundo +
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png", RCKTV
+#EXTINF:-1, RCKTV
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1,KPOP
 http://138.36.253.12:8009/play/a007/index.m3u8
 #EXTINF:-1,PLANETA TV MUSIC 
 https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w1013592556_b2820000.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,Viwix TV Music
 https://cloudvideo.servers10.com:8081/8210/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,vallenato internacional
 https://59a564764e2b6.streamlock.net:443/vallenato/Vallenato2/chunklist_w2144489645.m3u8
 #EXTINF:-1, MEGAVISION CANAL 43
@@ -918,17 +737,7 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w208725964.m3u8
 https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w545828669.m3u8
 #EXTINF:-1,MEGATV 
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/129d176f2117a7985aefe938703c34a5.png", Ziza TV
-https://v2.tustreaming.cl:443/zizatv/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", EvaVisión
+#EXTINF:-1, EvaVisión
 https://stmv2.voxtvhd.com.br/puertonatales/puertonatales/playlist.m3u8
 
 
@@ -1294,19 +1103,8 @@ http://190.83.119.67:8000/play/a0qw/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o4.png",PXTV
+#EXTINF:-1,PXTV
 http://190.83.119.67:8000/play/a0o4/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ow.png",Playboy
-http://190.83.119.67:8000/play/a0ow/index.m3u8
-#EXTINF:-1, PLAYBOY HD
-https://edge1.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
 #EXTINF:-1,discovery science
 http://190.61.37.173:9010/play/a01j/index.m3u8
 #EXTINF:-1,discovery turbo
@@ -1319,119 +1117,51 @@ http://190.83.119.67:8000/play/a0nq/index.m3u8
 http://190.83.119.67:8000/play/a0r5/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ti.png",RT Noticas
 http://190.83.119.67:8000/play/a0ti/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nn.png",SERTV - PAN
+#EXTINF:-1,SERTV - PAN
 http://190.83.119.67:8000/play/a0nn/index.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rm.png",Sembrador
+#EXTINF:-1,Sembrador
 http://190.83.119.67:8000/play/a0rm/index.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r9.png",Sun Channel
+#EXTINF:-1,Sun Channel
 http://190.83.119.67:8000/play/a0r9/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pv.png",TBN Enlace
-http://190.83.119.67:8000/play/a0pv/index.m3u8
 #EXTINF:-1,TBS
 http://190.83.119.67:8000/play/a0pj/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oa.png",TD+2 HD CR
+#EXTINF:-1,TD+2 HD CR
 http://190.83.119.67:8000/play/a0oa/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o9.png",TD+HD CR
+#EXTINF:-1,TD+HD CR
 http://190.83.119.67:8000/play/a0o9/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sd.png",TLC
+#EXTINF:-1,TLC
 http://190.83.119.67:8000/play/a0sd/index.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0no.png",TV Oriente ESA
+#EXTINF:-1,TV Oriente ESA
 http://190.83.119.67:8000/play/a0no/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nw.png",TVChile
+#EXTINF:-1,TVChile
 http://190.83.119.67:8000/play/a0nw/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o6.png",TVE
+#EXTINF:-1,TVE
 http://190.83.119.67:8000/play/a0o6/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nr.png",TVM25 -  ESA
+#EXTINF:-1,TVM25 -  ESA
 http://190.83.119.67:8000/play/a0nr/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p1.png",Tele Antillas - RD
+#EXTINF:-1,Tele Antillas - RD
 http://190.83.119.67:8000/play/a0p1/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rz.png",TeleMicro - RD
+#EXTINF:-1,TeleMicro - RD
 http://190.83.119.67:8000/play/a0rz/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qu.png",Telecentro - RD
+#EXTINF:-1,Telecentro - RD
 http://190.83.119.67:8000/play/a0qu/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p3.png",Telesistema RD
+#EXTINF:-1,Telesistema RD
 http://190.83.119.67:8000/play/a0p3/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qr.png",Teleuniverso - RD
+#EXTINF:-1,Teleuniverso - RD
 http://190.83.119.67:8000/play/a0qr/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0of.png",Televida RD
+#EXTINF:-1,Televida RD
 http://190.83.119.67:8000/play/a0of/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sn.png",Tigo Sports HD
+#EXTINF:-1,Tigo Sports HD
 http://190.83.119.67:8000/play/a0sn/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pe.png",Tru TV
+#EXTINF:-1,Tru TV
 http://190.83.119.67:8000/play/a0pe/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v0.png",Univision HD
+#EXTINF:-1,Univision HD
 http://190.83.119.67:8000/play/a0v0/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rn.png",VENUS
+#EXTINF:-1,VENUS
 http://190.83.119.67:8000/play/a0rn/index.m3u8
-#EXTINF:-1,VENUS HD
-https://edge1.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
 #EXTINF:-1,SEXTREME HD
 https://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r1.png",VTV Canal 35 ESA
+#EXTINF:-1,VTV Canal 35 ESA
 http://190.83.119.67:8000/play/a0r1/index.m3u8
 
 
