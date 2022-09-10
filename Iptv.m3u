@@ -580,8 +580,10 @@ http://212.18.115.192:3169/play/a00c/index.m3u8
 http://45.92.69.77:8000/play/a032/index.m3u8
 #EXTINF:-1,visit X TV
 http://stream.visit-x.tv:80/vxtv/live/chunklist_w1068976249.m3u8
-
-
+#EXTINF:-1,VENUS
+http://190.83.119.67:8000/play/a0rn/index.m3u8
+#EXTINF:-1,SEXTREME HD
+https://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
 
 
 ****CANALES VARIADOS INTERNACIONALES****
@@ -688,16 +690,6 @@ https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w545828669.m3u8
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 #EXTINF:-1, EvaVisión
 https://stmv2.voxtvhd.com.br/puertonatales/puertonatales/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1057,11 +1049,11 @@ http://190.61.37.173:9010/play/a01j/index.m3u8
 http://190.61.37.173:9010/play/a04r/index.m3u8
 #EXTINF:-1,ID
 http://190.61.37.173:9010/play/a04z/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nq.png",RCN - GUA
+#EXTINF:-1,RCN - GUA
 http://190.83.119.67:8000/play/a0nq/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r5.png",RCN Novelas
+#EXTINF:-1,RCN Novelas
 http://190.83.119.67:8000/play/a0r5/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ti.png",RT Noticas
+#EXTINF:-1,RT Noticas
 http://190.83.119.67:8000/play/a0ti/index.m3u8
 #EXTINF:-1,SERTV - PAN
 http://190.83.119.67:8000/play/a0nn/index.m3u8
@@ -1103,10 +1095,7 @@ http://190.83.119.67:8000/play/a0sn/index.m3u8
 http://190.83.119.67:8000/play/a0pe/index.m3u8
 #EXTINF:-1,Univision HD
 http://190.83.119.67:8000/play/a0v0/index.m3u8
-#EXTINF:-1,VENUS
-http://190.83.119.67:8000/play/a0rn/index.m3u8
-#EXTINF:-1,SEXTREME HD
-https://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
+
 #EXTINF:-1,VTV Canal 35 ESA
 http://190.83.119.67:8000/play/a0r1/index.m3u8
 
