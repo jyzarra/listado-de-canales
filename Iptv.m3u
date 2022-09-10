@@ -578,12 +578,13 @@ http://212.18.115.192:3169/play/vivid/index.m3u8
 http://212.18.115.192:3169/play/a00c/index.m3u8
 #EXTINF:-1,Penthouse HD
 http://45.92.69.77:8000/play/a032/index.m3u8
+#EXTINF:-1,visit X TV
+http://stream.visit-x.tv:80/vxtv/live/chunklist_w1068976249.m3u8
 
 
 
 
-
-
+****CANALES VARIADOS INTERNACIONALES****
 
 #EXTINF:-1,Nuestra Tele
 http://181.78.10.235:58002/play/a0bd/index.m3u8
@@ -603,74 +604,30 @@ http://190.233.211.25:8000/play/a09u/index.m3u8
 http://190.108.95.5:8000/play/a02f/index.m3u8
 #EXTINF:-1,WILLAX
 http://190.108.95.5:8000/play/a02p/index.m3u8
-#EXTINF:-1,EsneTV
-http://45.238.21.106:7788/play/a03q/index.m3u8
 #EXTINF:-1,PARAVISION
 http://45.179.194.114:48000/play/a0pd/index.m3u8
-#EXTINF:-1,7-Teletica
-http://168.228.194.32:4000/play/a04k/index.m3u8
 #EXTINF:-1, TV GALICIA
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1, TV CARIOCA
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
 #EXTINF:-1, Sitv
 http://190.122.104.221/Player/sitv.m3u8
-#EXTINF:-1, SEÑAL COLOMBIA
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1, ACTIVATV
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 #EXTINF:-1, Solo Stand Up
 https://paneltv.online:1936/8116/8116/playlist.m3u8
-
-
-
-
 #EXTINF:-1, Mundo de la Musica TV
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8
 #EXTINF:-1, TVV
 https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png", Caracola TV
+#EXTINF:-1, Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretencion
+#EXTINF:-1,13 Entretencion
 https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png", 13 Prime
+#EXTINF:-1,13 Prime
 https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries
+#EXTINF:-1,13 Teleseries
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,Urban tv
 https://urbanrevolution.es:8443/live/TV/chunklist_w1659759335.m3u8?PlaylistM3UCL
 #EXTINF:-1, Urbancrist2 Worship
@@ -679,12 +636,6 @@ https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8
 https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8
 #EXTINF:-1, La Fe Mueve Montanas
 https://inliveserver.com:1936/10020/10020/playlist.m3u8
-
-
-
-
-
-
 #EXTINF:-1, enlace juvenil
 https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
 #EXTINF:-1, CANAL EL TRECE 
@@ -695,8 +646,6 @@ https://vxlive.cdn.antel.net.uy:443/auth_V_AmasV,vxttoken=cGF0aFVSST0lMkZhdXRoX1
 https://streannliveevtv.cachefly.net:443/evtv1/evtv1/chunks.m3u8
 #EXTINF:-1, VIVO PLAY
 https://vp01-vivoplayiptv.delivery.fuugo.com:443/ngrp:vp01-VIVOplay_IPTV-aa730fa2_all/chunklist_b2179072.m3u8
-#EXTINF:-1,visit X TV
-http://stream.visit-x.tv:80/vxtv/live/chunklist_w1068976249.m3u8
 #EXTINF:-1 ,Telecanal
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 #EXTINF:-1, Global Got Talent
@@ -1050,8 +999,6 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nz.png",Hola!TV
-http://190.83.119.67:8000/play/a0nz/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ss.png",Home & Health HD
 http://190.83.119.67:8000/play/a0ss/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nx.png",Home Garden Latino
@@ -1062,8 +1009,7 @@ http://190.83.119.67:8000/play/a0pl/index.m3u8
 http://190.83.119.67:8000/play/a0rd/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qx.png",MASTV - PAN
 http://190.83.119.67:8000/play/a0qx/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rf.png",MTV 00s
-http://190.83.119.67:8000/play/a0rf/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sw.png",MTV 00s HD
 http://190.83.119.67:8000/play/a0sw/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0po.png",MTV 80s
