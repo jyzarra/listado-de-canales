@@ -130,9 +130,9 @@ https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
 #EXTINF:-1,Discovery Kids HD
 http://190.83.119.67:8000/play/a0ob/index.m3u8
 #EXTINF:-1,NicK HD
-http://190.83.119.254:8000/play/a0wl/index.m3u8
+http://201.234.194.58:6020/play/a0av/index.m3u8
 #EXTINF:-1,Nick Jr
-http://190.83.119.67:8000/play/a0p9/index.m3u8
+http://201.234.194.58:6020/play/a08i/index.m3u8
 #EXTINF:-1,Nick Toons HD
 http://212.18.115.193:3531/play/a05d/index.m3u8
 #EXTINF:-1,Teen Nick HD
@@ -142,9 +142,9 @@ http://212.18.115.194:3531/play/a02h/index.m3u8
 #EXTINF:-1,Disney Channel HD
 http://190.131.228.59:8000/play/a05m/index.m3u8
 #EXTINF:-1,Disney Junior HD
-http://45.92.69.77:8000/play/a03t/index.m3u8
+http://201.234.194.58:6020/play/a097/index.m3u8
 #EXTINF:-1,cartoonito HD
-https://edge1.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomerang.m3u8
+http://201.234.194.58:6020/play/a0aw/index.m3u8
 #EXTINF:-1,Tooncast
 http://190.83.119.67:8000/play/a0s3/index.m3u8
 #EXTINF:-1,Baby First
@@ -252,15 +252,15 @@ http://181.65.181.187:8000/play/a02d/index.m3u8
 #EXTINF:-1,Space HD
 http://200.122.237.28:8000/play/a020/index.m3u8
 #EXTINF:-1,TNT HD
-http://190.83.119.67:8000/play/a0sq/index.m3u8
+http://201.234.194.58:6020/play/a0cn/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://190.83.119.67:8000/play/a0ta/index.m3u8
 #EXTINF:-1,WARNER HD
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1,CINECANAL HD
-http://190.83.119.67:8000/play/a0sl/index.m3u8
+http://201.234.194.58:6020/play/a0ag/index.m3u8
 #EXTINF:-1,CINEMAX HD
-https://edge1.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
+http://201.234.194.58:6020/play/a0b4/index.m3u8
 #EXTINF:-1,SONY HD
 http://200.122.237.28:8000/play/a01y/index.m3u8
 #EXTINF:-1,Sony Movies HD
@@ -276,7 +276,7 @@ http://116.204.149.11:8000/play/a002/index.m3u8
 #EXTINF:-1,SyFy HD
 http://200.122.237.28:8000/play/a02r/index.m3u8
 #EXTINF:-1,FX HD
-http://190.83.119.67:8000/play/a0qa/index.m3u8
+http://142.132.154.83:8080/FX/index.m3u8
 #EXTINF:-1,I-SAT
 http://200.122.237.28:8000/play/a02f/index.m3u8
 #EXTINF:-1,Paramount HD
@@ -1142,16 +1142,6 @@ http://200.122.237.28:8000/play/a03i/index.m3u8
 http://200.122.237.28:8000/play/a03h/index.m3u8
 
 
-#EXTINF:-1,FX HD
-http://142.132.154.83:8080/FX/index.m3u8
-
-#EXTINF:-1,TNT
-http://201.234.194.58:6020/play/a0cn/index.m3u8
-
-#EXTINF:-1,Nick Jr
-http://201.234.194.58:6020/play/a08i/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://201.234.194.58:6020/play/a0av/index.m3u8
 
 
 
