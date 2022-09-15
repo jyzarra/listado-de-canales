@@ -1143,5 +1143,21 @@ http://200.122.237.28:8000/play/a03h/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Cinecanal",Cinecanal
+http://8.243.97.218:2040/play/a0cv/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://8.243.97.218:2040/play/a01k/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://8.243.97.218:2040/play/a07l/index.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
