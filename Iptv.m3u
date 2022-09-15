@@ -128,7 +128,7 @@ http://200.122.237.28:8000/play/a00n/index.m3u8
 #EXTINF:-1,Cartoon Network HD
 https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
 #EXTINF:-1,Discovery Kids HD
-http://190.83.119.67:8000/play/a0ob/index.m3u8
+http://201.234.194.58:6020/play/a0c8/index.m3u8
 #EXTINF:-1,NicK HD
 http://201.234.194.58:6020/play/a0av/index.m3u8
 #EXTINF:-1,Nick Jr
