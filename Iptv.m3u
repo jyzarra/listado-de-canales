@@ -1148,7 +1148,10 @@ http://142.132.154.83:8080/FX/index.m3u8
 #EXTINF:-1,TNT
 http://201.234.194.58:6020/play/a0cn/index.m3u8
 
-
+#EXTINF:-1,Nick Jr
+http://201.234.194.58:6020/play/a08i/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://201.234.194.58:6020/play/a0av/index.m3u8
 
 
 
