@@ -76,14 +76,8 @@ http://138.186.20.245:8000/play/a07o/index.m3u8
 https://stream1.livescast.com/video/vhosts/20070/back/live/stream_360/index.m3u8
 #EXTINF:-1,EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,CONECTADOS CON DIOS
-http://200.122.237.28:8000/play/a03x/index.m3u8
-#EXTINF:-1,ALIENTO TV
-http://71.187.29.54:8000/play/a06d/index.m3u8
 #EXTINF:-1,movie fe
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1598904428.m3u8
-#EXTINF:-1,GO tv
-http://200.122.237.28:8000/play/a041/index.m3u8
 #EXTINF:-1,PANAVISION
 https://vcp.myplaytv.com:443/panavision/panavision/chunklist_w786594979.m3u8
 #EXTINF:-1,VPITV NOTICIAS
@@ -94,30 +88,11 @@ https://cdn01.yowi.tv/KPFPGJU8A6/live-600.m3u8
 https://vcp.myplaytv.com:443/nubehtv/nubehtv/chunklist_w1542997801.m3u8
 #EXTINF:-1,OXIGENO NETWORK TV
 https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w1424555001.m3u8
-#EXTINF:-1,LA KALLE TV 
-http://200.122.237.28:8000/play/a037/index.m3u8
-#EXTINF:-1,ShowVen te
-http://200.122.237.28:8000/play/a00y/index.m3u8
 #EXTINF:-1,IVC
 https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
 #EXTINF:-1,City tv
 https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
-#EXTINF:-1, ENLACE 
-http://200.122.237.28:8000/play/a02n/index.m3u8
-#EXTINF:-1,ESNE TV 
-http://200.122.237.28:8000/play/a027/index.m3u8
-#EXTINF:-1,HISPAN TV 
-http://200.122.237.28:8000/play/a00m/index.m3u8
-#EXTINF:-1,señal colombiano
-http://200.122.237.28:8000/play/a03b/index.m3u8
-#EXTINF:-1,telecaribe 
-http://200.122.237.28:8000/play/a03g/index.m3u8
-#EXTINF:-1,CUBAVISION INTERNACIONAL
-http://200.122.237.28:8000/play/a01q/index.m3u8
-#EXTINF:-1,CLAVE
-http://200.122.237.28:8000/play/a01p/index.m3u8
-#EXTINF:-1,CGTN español
-http://200.122.237.28:8000/play/a00n/index.m3u8
+
 
 
 
@@ -127,60 +102,22 @@ http://200.122.237.28:8000/play/a00n/index.m3u8
 
 #EXTINF:-1,Cartoon Network HD
 https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
-#EXTINF:-1,Discovery Kids HD
-http://201.234.194.58:6020/play/a0c8/index.m3u8
-#EXTINF:-1,NicK HD
-http://201.234.194.58:6020/play/a0av/index.m3u8
-#EXTINF:-1,Nick Jr
-http://201.234.194.58:6020/play/a08i/index.m3u8
-#EXTINF:-1,Nick Toons HD
-http://212.18.115.193:3531/play/a05d/index.m3u8
-#EXTINF:-1,Teen Nick HD
-http://190.83.119.67:8000/play/a0q1/index.m3u8
-#EXTINF:-1,Nick Music
-http://212.18.115.194:3531/play/a02h/index.m3u8
 #EXTINF:-1,Disney Channel HD
 http://190.131.228.59:8000/play/a05m/index.m3u8
-#EXTINF:-1,Disney Junior HD
-http://201.234.194.58:6020/play/a097/index.m3u8
-#EXTINF:-1,cartoonito HD
-http://201.234.194.58:6020/play/a0aw/index.m3u8
-#EXTINF:-1,Tooncast
-http://190.83.119.67:8000/play/a0s3/index.m3u8
-#EXTINF:-1,Baby First
-http://200.48.212.114:8000/play/a00n/index.m3u8
-#EXTINF:-1,Baby TV
-http://190.83.119.67:8000/play/a0ns/index.m3u8
-#EXTINF:-1,CHICOS ipe
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1,Pequeradio 
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1,CANAL ZAZ TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
-#EXTINF:-1, PLANETA KIDS
-https://mediacpstreamchile.com:1936/8152/8152/chunklist_w350987082.m3u8
 #EXTINF:-1,Chavo TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1,CSTV
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1,RLOTV
 https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8
-#EXTINF:-1,Bitme
-http://190.83.119.254:8000/play/a0u1/index.m3u8
-#EXTINF:-1,Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1,SEMILLITAS
-http://190.83.119.67:8000/play/a0pd/index.m3u8
-#EXTINF:-1,Paka Paka
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1,ACS Network TV
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 #EXTINF:-1,Kids90
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8
 #EXTINF:-1,Cloud Server Kids
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
-#EXTINF:-1,Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1,Mi TV Televisión Clásica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1,CHINOLA TV 
@@ -189,12 +126,8 @@ https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
 https://stmv1.srvif.com:443/animetv/animetv/chunklist_w1642444041.m3u8
 #EXTINF:-1,Anime Zone TV
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1,CONtv Anime
-https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
 #EXTINF:-1,LATINO KIDS
 https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w2082715386.m3u8
-#EXTINF:-1,Aniplus
-https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 #EXTINF:-1,Chiquilines
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 #EXTINF:-1,ZooMoo
@@ -211,7 +144,6 @@ http://190.83.119.67:8000/play/a0nt/index.m3u8
 
 #EXTINF:-1,NuestraVision 
 https://siloh-ns1.plutotv.net:443/lilo/production/Nuestravision/master_1.m3u8
-
 #EXTINF:-1,Retro Plus TV Señal 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1,EvaRETRO
@@ -234,30 +166,18 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv:443/3000.m3u8
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv:443/3000.m3u8
 #EXTINF:-1,Rakuten TV Shows
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv:443/3000.m3u8
-#EXTINF:-1,Europa HD
-http://190.83.119.67:8000/play/a0qb/index.m3u8
-#EXTINF:-1,EURO Channel
-http://190.83.119.67:8000/play/a0r6/index.m3u8
-#EXTINF:-1,DHE HD
-http://190.83.119.67:8000/play/a0qd/index.m3u8
 #EXTINF:-1,Estrella TV
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
 #EXTINF:-1,Nitida TV
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
 #EXTINF:-1,DAN TV HD
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
-#EXTINF:-1,GEN TV
-https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1,CINE ARGENTINO
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1, CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com:443/CineSureno-roku/master_6.m3u8
 #EXTINF:-1,Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:-1,PlanetaTV Movies
-https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
-#EXTINF:-1,APlus TV
-https://stmv1.voxtvhd.com.br:443/aplustv/aplustv/chunklist_w325268689.m3u8?PlaylistM3UCL
 #EXTINF:-1,WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w2074580381.m3u8
 #EXTINF:-1,ORBIT TV
