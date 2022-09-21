@@ -148,7 +148,7 @@ http://201.234.194.58:6020/play/a0aw/index.m3u8
 #EXTINF:-1,Tooncast
 http://190.83.119.67:8000/play/a0s3/index.m3u8
 #EXTINF:-1,Baby First
-http://190.83.119.67:8000/play/a0r3/index.m3u8
+http://200.48.212.114:8000/play/a00n/index.m3u8
 #EXTINF:-1,Baby TV
 http://190.83.119.67:8000/play/a0ns/index.m3u8
 #EXTINF:-1,CBeebies 
@@ -310,7 +310,7 @@ http://190.83.119.67:8000/play/a0ui/index.m3u8
 #EXTINF:-1,UNIVERSAL REALITY HD
 http://190.83.119.67:8000/play/a0sz/index.m3u8
 #EXTINF:-1,A&E HD
-http://190.83.119.67:8000/play/a0q7/index.m3u8
+http://200.48.212.114:8000/play/a01o/index.m3u8
 #EXTINF:-1,AMC HD
 http://8.243.104.155:8083/play/a026/index.m3u8
 #EXTINF:-1,Golden
@@ -508,7 +508,7 @@ http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:-1,AMERICA TV
 http://8.243.104.155:8083/play/a01u/index.m3u8
 #EXTINF:-1,Animal Planet HD
-http://190.83.119.67:8000/play/a0q4/index.m3u8
+http://200.48.212.114:8000/play/a01f/index.m3u8
 #EXTINF:-1,Discovery Channel HD
 http://190.83.119.67:8000/play/a0tb/index.m3u8
 #EXTINF:-1,Discovery ID HD
@@ -645,7 +645,7 @@ https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
 #EXTINF:-1, CANAL EL TRECE 
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,A+TV
-https://vxlive.cdn.antel.net.uy:443/auth_V_AmasV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQW1hc1YlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTY1NDE3ODA3MyZyYW5kb209U2V0NjNyT3ZmdCZjLWlwPTE4Ni4xODUuMTY3LjIxNSZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzaDhxLGE5Mjc0NDBlMGZiNzU5OGQ1ZjgxNTQxYTMzOGMxMGRkZWFmNmE2MjkwYjYzYmYzN2E2YmYxMjYwNWYyNjkyZWE=/vxfmt=hls/h_06a4e64321ce21c4430cbac47fe7a5f9/var1200000/playlist.m3u8
+http://200.48.212.114:8000/play/a02h/index.m3u8
 #EXTINF:-1,EVTV
 https://streannliveevtv.cachefly.net:443/evtv1/evtv1/chunks.m3u8
 #EXTINF:-1, VIVO PLAY
