@@ -312,7 +312,7 @@ http://190.83.119.67:8000/play/a0sz/index.m3u8
 #EXTINF:-1,A&E HD
 http://190.83.119.67:8000/play/a0q7/index.m3u8
 #EXTINF:-1,AMC HD
-http://190.83.119.67:8000/play/a0q8/index.m3u8
+http://8.243.104.155:8083/play/a026/index.m3u8
 #EXTINF:-1,Golden
 http://190.83.119.67:8000/play/a0rh/index.m3u8
 #EXTINF:-1,GOLDEN EDGE
@@ -496,7 +496,7 @@ http://138.36.253.12:8009/play/a018/index.m3u8
 #EXTINF:-1,Caracol Internacional HD
 http://190.83.2.121:8080/play/a06o/index.m3u8
 #EXTINF:-1,Frecuencia Latina HD
-http://190.108.95.5:8000/play/a00g/index.m3u8
+http://8.243.104.155:8083/play/a01v/index.m3u8
 #EXTINF:-1,Panamericana TV
 http://190.108.95.5:8000/play/a02t/index.m3u8
 #EXTINF:-1,Mega
@@ -505,6 +505,8 @@ http://45.238.21.106:7788/play/a00z/index.m3u8
 https://marine2.miplay.cl/chilevision/playlist.m3u8
 #EXTINF:-1,global tv 
 http://190.108.83.142:8000/play/a00x/index.m3u8
+#EXTINF:-1,AMERICA TV
+http://8.243.104.155:8083/play/a01u/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://190.83.119.67:8000/play/a0q4/index.m3u8
 #EXTINF:-1,Discovery Channel HD
@@ -522,13 +524,13 @@ http://200.122.237.28:8000/play/a026/index.m3u8
 #EXTINF:-1,E! Entertairment HD
 http://190.83.119.67:8000/play/a0q5/index.m3u8
 #EXTINF:-1,Nat Geo HD
-http://190.83.119.67:8000/play/a0t8/index.m3u8
+http://8.243.104.155:8083/play/a025/index.m3u8
 #EXTINF:-1,Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1,History Channel HD
 http://200.122.237.28:8000/play/a02c/index.m3u8
 #EXTINF:-1,History channer 2
-http://190.83.119.67:8000/play/a0r7/index.m3u8
+http://8.243.104.155:8083/play/a021/index.m3u8
 #EXTINF:-1,CANAL PRENDE CINE CLUB
 https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1,CANAL PRENDE FAMILIA 
@@ -597,7 +599,7 @@ http://45.179.194.114:48000/play/a0ph/index.m3u8
 #EXTINF:-1,CABLEMAR TV HD
 http://168.232.168.242:8089/play/a0hu/index.m3u8
 #EXTINF:-1,Movistar Deportes
-http://190.233.211.25:8000/play/a00a/index.m3u8
+http://8.243.104.155:8083/play/a01t/index.m3u8
 #EXTINF:-1,TyC Deportes
 http://190.233.211.25:8000/play/a0aw/index.m3u8
 #EXTINF:-1,Zona Latina
@@ -795,7 +797,7 @@ http://190.83.119.67:8000/play/a0oq/index.m3u8
 #EXTINF:-1,Digital 15 - RD
 http://190.83.119.67:8000/play/a0qp/index.m3u8
 #EXTINF:-1,ESPN
-http://190.83.119.67:8000/play/a0se/index.m3u8
+http://8.243.104.155:8083/play/a01y/index.m3u8
 #EXTINF:-1,ESPN  +
 http://190.83.119.67:8000/play/a0py/index.m3u8
 #EXTINF:-1,ESPN 2
@@ -834,8 +836,8 @@ http://190.83.119.67:8000/play/a0pm/index.m3u8
 http://190.83.119.67:8000/play/a0pu/index.m3u8
 #EXTINF:-1,Golf Channel
 http://190.83.119.67:8000/play/a0o3/index.m3u8
-#EXTINF:-1,Golf Channel HD
-http://190.83.119.67:8000/play/a0qg/index.m3u8
+#EXTINF:-1,Golfperu HD
+http://8.243.104.155:8083/play/a01w/index.m3u8
 #EXTINF:-1,Guatevision - GUA
 http://190.83.119.67:8000/play/a0oz/index.m3u8
 #EXTINF:-1,HOLA! TV HD
