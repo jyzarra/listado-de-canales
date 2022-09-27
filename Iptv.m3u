@@ -5,8 +5,35 @@
 
 
 
-#EXTINF:-1,ENERGEEK FANPOP
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8?nimblesessionid=2881980
+
+
+
+#EXTINF:-1,Cine Familiar
+http://181.176.148.142:8000/play/a023
+#EXTINF:-1,Cine Hispano
+http://181.176.148.142:8000/play/a024
+#EXTINF:-1,Cine Premium
+http://181.176.148.142:8000/play/a025
+#EXTINF:-1,COSMO
+http://181.176.148.142:8000/play/a026
+#EXTINF:-1,ITV
+http://181.176.148.142:8000/play/a02n
+#EXTINF:-1,OLD CITY
+http://181.176.148.142:8000/play/a02u
+#EXTINF:-1,RETRO
+http://181.176.148.142:8000/play/a02x
+#EXTINF:-1,RETRO CLUB
+http://181.176.148.142:8000/play/a02y
+#EXTINF:-1,MOVIE CLUB
+http://181.176.148.142:8000/play/a02s
+#EXTINF:-1,MOVIE MOTION
+http://181.176.148.142:8000/play/a02r
+#EXTINF:-1,FMH Kids
+http://181.176.148.142:8000/play/a01z
+#EXTINF:-1,Canal Infantil
+http://181.176.148.142:8000/play/a020
+#EXTINF:-1,CARTOONS
+http://181.176.148.142:8000/play/a021
 #EXTINF:-1,Gogoplay tv
 https://cloud.odysee.live:443/live/df30cee626e25e9c4a8d24b1712a8db10d688ec9.m3u8
 #EXTINF:-1,Venevision
@@ -2601,17 +2628,6 @@ http://198.255.5.106:25461/gambauserdirect/xsndjufhdhddjskdsjd/1296
 http://198.255.5.106:25461/gambauserdirect/xsndjufhdhddjskdsjd/1287
 #EXTINF:-1,Vh1 Classics MEXICO ISMA
 http://198.255.5.106:25461/gambauserdirect/xsndjufhdhddjskdsjd/1019
-
-
-
-
-
-
-
-
-
-
-
 
 
 
