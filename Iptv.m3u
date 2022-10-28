@@ -396,8 +396,36 @@ http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w110658420.m3u8
 ****CULTURA ,VARIEDAD Y ENTRETENIMIENTO****
 
 
+#EXTINF:-1,Telemundo HD
+http://190.83.119.67:8000/play/a0q9
+#EXTINF:-1,Pasiones HD
+http://190.83.119.67:8000/play/a0td
 
+#EXTINF:-1,Animal Planet HD
+http://190.83.119.67:8000/play/a0q4
+#EXTINF:-1,Discovery Channel HD
+http://190.83.119.67:8000/play/a0tb
+#EXTINF:-1,Discovery ID HD
+http://190.83.119.67:8000/play/a0tf
+#EXTINF:-1,Discovery World HD
+http://190.83.119.67:8000/play/a0tc
 
+#EXTINF:-1,Nat Geo HD
+http://190.83.119.67:8000/play/a0t8
+#EXTINF:-1,History HD
+http://190.83.119.67:8000/play/a0px
+#EXTINF:-1,Film & arts HD
+http://190.83.119.67:8000/play/a0q6
+#EXTINF:-1,Europa HD
+http://190.83.119.67:8000/play/a0qb
+#EXTINF:-1,E! Entertairment HD
+http://190.83.119.67:8000/play/a0q5
+#EXTINF:-1,AZ click HD
+http://190.83.119.67:8000/play/a0qe
+#EXTINF:-1,Tru TV
+http://190.83.119.67:8000/play/a0pe
+#EXTINF:-1,Univision HD
+http://190.83.119.67:8000/play/a0v0
 
 
 
