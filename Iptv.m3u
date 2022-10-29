@@ -49,7 +49,8 @@ https://vcp3.myplaytv.com/tvo/tvo/playlist.m3u8
 http://138.186.20.245:8000/play/a06p/index.m3u8
 #EXTINF:-1,TVR 
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1,PLTV
+https://vcp.myplaytv.com/pltv/pltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,FANB 
 http://138.186.20.245:8000/play/a06r/index.m3u8
 #EXTINF:-1,La Tele
