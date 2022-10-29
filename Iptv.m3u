@@ -13,7 +13,7 @@ http://200.122.237.28:8000/play/a00u/index.m3u8
 http://200.6.154.43:1935/canal11/live/chunklist_w534727154.m3u8
 #EXTINF:-1,televen
 https://cloud.streamingconnect.tv/hls/televen/televenmoviles.m3u8
-#EXTINF:-1,TVR MARACAY
+#EXTINF:-1,TVS MARACAY
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1,PROMAR TV
 https://vcp.myplaytv.com:443/promar/promar/chunklist_w995873390.m3u8
@@ -47,8 +47,6 @@ https://vcp3.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8
 https://vcp3.myplaytv.com/tvo/tvo/playlist.m3u8
 #EXTINF:-1,TV EPACO
 http://138.186.20.245:8000/play/a06p/index.m3u8
-#EXTINF:-1,TVS Maracay
-http://vcp1.myplaytv.com:1935/tvs/tvs/playlist.m3u8
 #EXTINF:-1,TVR 
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
 #EXTINF:-1,ANTV
@@ -91,6 +89,11 @@ https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w1424555001.m3u8
 https://vp01-ivciptv.delivery.fuugo.com:443/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
 #EXTINF:-1,City tv
 https://citytv.cachefly.net:443/citytv1/citytv1/chunks.m3u8
+#EXTINF:-1,EXC TV
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1, CANTINA tv
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+
 
 
 
