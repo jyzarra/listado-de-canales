@@ -14,13 +14,13 @@ http://200.6.154.43:1935/canal11/live/chunklist_w534727154.m3u8
 #EXTINF:-1,televen
 https://cloud.streamingconnect.tv/hls/televen/televenmoviles.m3u8
 #EXTINF:-1,TVR MARACAY
-http://vcp1.myplaytv.com:80/trv/trv/chunklist_w262800341.m3u8
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1,PROMAR TV
 https://vcp.myplaytv.com:443/promar/promar/chunklist_w995873390.m3u8
 #EXTINF:-1,TELEARAGUA
 http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-1,Anzoategui TV
-http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/playlist.m3u8
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1,NOVELISIMA
 https://novelisima.akamaized.net:443/hls/live/2031534/novelisimaABR/1/streamPlaylist.m3u8
 #EXTINF:-1,VALE TV
@@ -49,6 +49,8 @@ https://vcp3.myplaytv.com/tvo/tvo/playlist.m3u8
 http://138.186.20.245:8000/play/a06p/index.m3u8
 #EXTINF:-1,TVS Maracay
 http://vcp1.myplaytv.com:1935/tvs/tvs/playlist.m3u8
+#EXTINF:-1,TVR 
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
 #EXTINF:-1,ANTV
 http://138.186.20.245:8000/play/a06m/index.m3u8
 #EXTINF:-1,FANB 
