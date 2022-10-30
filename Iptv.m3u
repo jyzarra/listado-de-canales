@@ -407,7 +407,8 @@ http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w110658420.m3u8
 http://190.83.119.67:8000/play/a0q9
 #EXTINF:-1,Pasiones HD
 http://190.83.119.67:8000/play/a0td
-
+#EXTINF:-1,Canal de las Estrellas HD
+http://45.232.177.17:8000/play/a02d
 #EXTINF:-1,Animal Planet HD
 http://190.83.119.67:8000/play/a0q4
 #EXTINF:-1,Discovery Channel HD
@@ -449,8 +450,8 @@ https://linear-194.frequency.stream:443/194/hls/master/playlist_1280x720.m3u8
 https://linear-196.frequency.stream:443/196/hls/master/playlist_1280x720.m3u8
 
 
+#EXTINF:-1,
 #
-
 
 
 
