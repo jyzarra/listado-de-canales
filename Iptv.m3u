@@ -354,7 +354,7 @@ http://181.78.78.105:8000/play/a08u/index.m3u8
 http://181.78.78.105:8000/play/a094/index.m3u8
 
 #EXTINF:-1,Venevision
-http://181.78.78.105:8000/play/a092/index.m3u8
+https://venevision.akamaized.net:443/hls/live/2098814/VENEVISION/3/streamPlaylist.m3u8
 
 #EXTINF:-1,Vive TV
 http://181.78.78.105:8000/play/a02p/index.m3u8
