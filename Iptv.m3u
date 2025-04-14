@@ -9,6 +9,9 @@ https://ia800201.us.archive.org/35/items/escalofrios-temporada-1/1x02%20-%20La%2
 #EXTINF:-1,ZAZ
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=13012&live=1&avod=1&hls_marker=1&pod_duration=120&ssai_enabled=false&content_language=es&content_network=VIVA&position=preroll&app_bundle=VIVA&min_ad_duration=6&max_ad_duration=120&app_name=VIVA
 
+#EXTINF:-1,toons kids 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
+
 #EXTINF:-1,ANIMOTION
 http://138.36.253.13:8008/play/a02i/index.m3u8
 
