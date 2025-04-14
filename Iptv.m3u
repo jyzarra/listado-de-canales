@@ -519,7 +519,7 @@ https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
 #EXTINF:-1,animeTV
 https://stmv1.srvif.com:443/animetv/animetv/chunklist_w1642444041.m3u8
 #EXTINF:-1,Anime Zone TV
-http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1,LATINO KIDS
 https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w2082715386.m3u8
 #EXTINF:-1,Chiquilines
