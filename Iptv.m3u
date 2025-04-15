@@ -395,7 +395,7 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-1,Anzoategui TV
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1,NOVELISIMA
-https://novelisima.akamaized.net:443/hls/live/2031534/novelisimaABR/1/streamPlaylist.m3u8
+https://novelisima-ottera.akamaized.net:443/hls/live/2093267/NOVELISIMA_OTTERA/0/streamPlaylist.m3u8
 #EXTINF:-1,VALE TV
 http://vcp1.myplaytv.com:80/valetv/valetv/chunklist_w1562065729.m3u8
 #EXTINF:-1,ANTV
