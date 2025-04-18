@@ -42,6 +42,9 @@ http://190.119.25.155:10000/play/a023/index.m3u8
 #EXTINF:-1,FMH Movies
 http://190.119.25.155:10000/play/a024/index.m3u8
 
+#EXTINF:-1, kizzi HD
+http://190.119.25.155:10000/play/a02a/index.m3u8
+
 #EXTINF:-1,CLAN
 http://191.97.60.193:10000/play/a02g/index.m3u8
 
