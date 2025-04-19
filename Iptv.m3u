@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, magic kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
 #EXTINF:-1, el chavo del 8 TV
 https://live.sdfgnksbounce.com:8080/NDUuMTg2LjIwMC4yMDA=/355_.m3u8?token=PUY1z04-OsfadAkY-Thk3Q&expires=1745013969
 
