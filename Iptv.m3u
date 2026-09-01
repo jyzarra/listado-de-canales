@@ -287,7 +287,7 @@ http://190.211.250.148:8000/play/a052
 http://190.60.32.178:8178/play/a097/index.m3u8
 
 #EXTINF:-1,cine premiun
-http://190.60.32.178:8178/play/a07f/index.m3u8
+http://209.61.12.128:9000/play/a03d/index.m3u8
 
 #EXTINF:-1,CINE MEXICANO
 http://190.242.46.20:8000/play/a07b/index.m3u8
@@ -296,10 +296,10 @@ http://190.242.46.20:8000/play/a07b/index.m3u8
 http://190.242.46.20:8000/play/a06y/index.m3u8
 
 #EXTINF:-1,CINE FAMILIAR
-http://190.61.44.122:8000/play/a09e/index.m3u8
+http://209.61.12.128:9000/play/a042/index.m3u8
 
 #EXTINF:-1,CINE HISPANO
-http://190.61.44.122:8000/play/a09g/index.m3u8
+http://209.61.12.128:9000/play/a03e/index.m3u8
 
 #EXTINF:-1,CINE INFANTIL
 http://190.61.44.122:8000/play/a09h/index.m3u8
