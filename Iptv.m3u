@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, Cine Latino
+http://45.5.117.188:8000/play/a059/index.m3u8
+
 #EXTINF:-1, Bendicion TV
 http://38.199.30.178:8001/play/a01j/index.m3u8
 
