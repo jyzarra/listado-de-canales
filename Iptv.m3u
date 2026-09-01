@@ -3,6 +3,15 @@
 #EXTINF:-1, Cine Latino
 http://45.5.117.188:8000/play/a059/index.m3u8
 
+#EXTINF:-1, Memorias Film
+http://181.225.96.98:8000/play/a022/index.m3u8
+
+#EXTINF:-1,Memorias Series
+http://181.225.96.98:8000/play/a025/index.m3u8
+
+#EXTINF:-1, Memorias Toon
+http://181.225.96.98:8000/play/a026/index.m3u8
+
 #EXTINF:-1, Bendicion TV
 http://38.199.30.178:8001/play/a01j/index.m3u8
 
