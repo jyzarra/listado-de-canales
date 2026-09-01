@@ -207,7 +207,8 @@ http://191.97.60.193:10000/play/a045/index.m3u8
 #EXTINF:-1,CANAL INFANTIL HD
 http://191.97.60.193:10000/play/a02y/index.m3u8
 
-
+#EXTINF:-1, PanicoHD
+http://209.61.12.78:9000/play/a02w/index.m3u8
 
 #EXTINF:-1,SURAM
 http://191.97.60.193:10000/play/a04b/index.m3u8
