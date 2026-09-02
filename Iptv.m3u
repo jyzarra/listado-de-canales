@@ -6,6 +6,9 @@ http://200.10.30.241:8000/play/a0bh/index.m3u8
 #EXTINF:-1,Vallenato
 http://186.148.184.22:8000/play/a0j6/index.m3u8
 
+#EXTINF:-1, Ranchenato
+http://200.10.30.241:8000/play/a01l/index.m3u8
+
 #EXTINF:-1, Cine Latino
 http://45.5.117.188:8000/play/a059/index.m3u8
 
