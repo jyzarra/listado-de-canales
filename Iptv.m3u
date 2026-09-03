@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,NSTV
+http://38.97.240.11:8000/play/a0no/index.m3u8
+
 #EXTINF:-1, PATRON tv
 http://38.224.48.4:8000/play/a0fn/index.m3u8
 
