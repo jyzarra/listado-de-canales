@@ -1,5 +1,10 @@
 #EXTM3U
 
+EXTINF:-1, TV URANIO
+
+#EXTINF:-1, TV ORION
+http://38.224.175.2:8000/play/a0nh/index.m3u8
+
 #EXTINF:-1, IDStv
 http://204.157.185.4:8000/play/a0js/index.m3u8
 
