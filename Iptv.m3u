@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, EVENTOS
+http://209.14.119.178:8000/play/a05c/index.m3u8
+
 #EXTINF:-1, INTAlNET TV 
 http://181.119.86.1:8000/play/a055
 
