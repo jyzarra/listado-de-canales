@@ -1,6 +1,9 @@
 #EXTM3U
 
-EXTINF:-1, TV URANIO
+#EXTINF:-1, INTAlNET TV 
+http://181.119.86.1:8000/play/a055
+
+#EXTINF:-1, TV URANIO
 
 #EXTINF:-1, TV ORION
 http://38.224.175.2:8000/play/a0nh/index.m3u8
