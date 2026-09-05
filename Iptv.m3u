@@ -808,7 +808,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w2074580381.m3u8
 #EXTINF:-1,ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1458385159.m3u8
 #EXTINF:-1,Mega Cine TV
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1,Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 #EXTINF:-1,13 MAX HD
