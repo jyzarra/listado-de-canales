@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,cinema platino CINE+
+http://181.174.228.40:8000/play/a0g4/index.m3u8
+
 #EXTINF:-1, PURUWA TV
 http://167.250.133.214:8000/play/a01a
 
