@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1, PURUWA TV
+http://167.250.133.214:8000/play/a01a
+
+#EXTINF:-1, premier tv
+http://167.250.133.214:8000/play/a04p
+
+#EXTINF:-1, Avi tv
+http://167.250.133.214:8000/play/a053
+
+#EXTINF:-1, autentica tv
+http://167.250.133.214:8000/play/a021
+
+#EXTINF:-1,austral tv
+http://167.250.133.214:8000/play/a058
+
+#EXTINF:-1,atv
+http://167.250.133.214:8000/play/a05p
+
+#EXTINF:-1,tlv tv 
+http://168.228.44.241:9998/play/a03z/index.m3u8
+
+EXTINF:-1, tu canal 
+http://168.228.44.241:9998/play/a070/index.m3u8
+
 #EXTINF:-1, X-TIME
 http://209.14.115.253:8000/play/a09g/index.m3u8
 
