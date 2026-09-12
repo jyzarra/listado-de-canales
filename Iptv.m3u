@@ -1,5 +1,16 @@
 #EXTM3U
 
+
+
+#EXTINF:-1, tiempo real
+http://190.242.59.52:8000/play/a08a/index.m3u8
+
+#EXTINF:-1, dulce stereo
+http://190.242.59.52:8000/play/a087/index.m3u8
+
+#EXTINF:-1, alerta naranja
+http://190.242.59.52:8000/play/a088/index.m3u8
+
 #EXTINF:-1, mexicanal
 http://187.245.231.228:8000/play/a0uz/index.m3u8
 
