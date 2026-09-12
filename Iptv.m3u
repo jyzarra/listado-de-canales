@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, mexicanal
+http://187.245.231.228:8000/play/a0uz/index.m3u8
+
+#EXTINF:-1, tv lagarto
+http://187.245.231.228:8000/play/a0v3/index.m3u8
+
 #EXTINF:-1, tele arte 
 http://200.35.176.154:8000/play/a05d/index.m3u8
 
