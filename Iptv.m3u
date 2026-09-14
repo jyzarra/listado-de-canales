@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1, IDS tv digital
+http://204.157.185.4:8000/play/a0js/index.m3u8
 
 #EXTINF:-1, tiempo real
 http://190.242.59.52:8000/play/a08a/index.m3u8
