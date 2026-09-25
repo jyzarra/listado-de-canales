@@ -1,6 +1,15 @@
 #EXTM3U
 
 
+#EXTINF:-1, canal premiun CINEMA ETELCOMT SAS
+http://190.0.240.195:8000/play/a08z/index.m3u8
+
+#EXTINF:-1, canal 4 tv mojana
+http://181.78.21.38:8000/play/a03w/index.m3u8
+
+#EXTINF:-1, canal de sincelejo
+http://181.78.21.38:8000/play/a0df/index.m3u8
+
 #EXTINF:-1, FREE live
 http://181.78.21.171:8000/play/a07i/index.m3u8
 
