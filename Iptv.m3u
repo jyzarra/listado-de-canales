@@ -1,6 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 SUR TV vallenatos 
+
+#EXTINF:-1, FREE live
+http://181.78.21.171:8000/play/a07i/index.m3u8
+
+#EXTINF:-, FREE familia
+http://181.78.21.171:8000/play/a07h/index.m3u8
+
+#EXTINF:-1, FREE Drama
+http://181.78.21.171:8000/play/a07f/index.m3u8
+
+#EXTINF:-1,FREE clasico
+http://181.78.21.171:8000/play/a07k/index.m3u8
+
+
+#EXTINF:-1,FREE action
+http://181.78.21.171:8000/play/a07g/index.m3u8
+
+
+#EXTINF:-1,SUR TV vallenatos 
 http://138.94.3.106:8000/play/a02k/index.m3u8
 
 #EXTINF:-1, megangue
