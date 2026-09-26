@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+#EXTINF:-1, television tarapoto
+http://181.66.249.246:8000/play/a04f/66035548.m3u8
+
+#EXTINF:-1, super tv
+http://181.66.249.246:8000/play/a0ij/35868774.m3u8
+
 #EXTINF:-1, delta tv 
 http://181.66.249.246:8000/play/a0ks/13189705.m3u8
 
