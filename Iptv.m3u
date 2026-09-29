@@ -1,7 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1, MAXTV
+http://38.250.178.205:8000/play/a001/index.m3u8
 
-#EXTINF:-1 cosmos tv
+#EXTINF:-1 ,cosmos tv
 http://38.190.4.166:8000/play/a0fc/index.m3u8
 
 #EXTINF:-1, floklore tv
