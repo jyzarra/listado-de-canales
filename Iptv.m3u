@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 cosmos tv
+http://38.190.4.166:8000/play/a0fc/index.m3u8
+
 #EXTINF:-1, floklore tv
 http://209.14.108.45:8000/play/a0ia
 
