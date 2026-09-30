@@ -120,6 +120,9 @@ http://167.250.133.214:8000/play/a01a
 #EXTINF:-1, premier tv
 http://167.250.133.214:8000/play/a04p
 
+#EXTINF:-1, Avi Rewind
+http://200.7.99.59:8000/play/a0d4/index.m3u8
+
 #EXTINF:-1, Avi tv
 http://167.250.133.214:8000/play/a053
 
