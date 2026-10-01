@@ -927,8 +927,8 @@ http://190.83.119.67:8000/play/a0o5
 http://190.83.119.67:8000/play/a0ue
 #EXTINF:-1,NuestraVision
 https://siloh-ns1.plutotv.net:443/lilo/production/Nuestravision/master_1.m3u8
-#EXTINF:-1,Retro Plus TV Señal 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:-1,Retro Plus TV 
+http://209.14.102.21:8000/play/a01h/index.m3u8
 #EXTINF:-1,EvaRETRO
 https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
 #EXTINF:-1,PLANETA TV
