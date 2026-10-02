@@ -76,6 +76,12 @@ http://181.78.21.171:8000/play/a07f/index.m3u8
 #EXTINF:-1,FREE clasico
 http://181.78.21.171:8000/play/a07k/index.m3u8
 
+#EXTINF:-1, FREE stelar
+http://152.231.30.106:8000/play/a0gb/index.m3u8
+
+#EXTINF:-1, FREE hits
+http://152.231.30.106:8000/play/a0g9/index.m3u8
+
 
 #EXTINF:-1,FREE action
 http://181.78.21.171:8000/play/a07g/index.m3u8
