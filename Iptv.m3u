@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1, tv norte 
+http://190.60.59.163:8000/play/Norte/index.m3u8
+
 #EXTINF:-1, tele sucre
 http://181.78.21.38:8000/play/a0dg/index.m3u8
 
