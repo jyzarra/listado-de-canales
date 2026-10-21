@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1, dragon ball
+http://167.249.29.105:8000/play/a06s/index.m3u8
+
 #EXTINF:-1, tv norte 
 http://190.60.59.163:8000/play/Norte/index.m3u8
 
