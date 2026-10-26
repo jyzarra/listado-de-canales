@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1, fortaleza tv
+http://167.249.29.106:8000/play/a070/index.m3u8
+
 #EXTINF:-1, total concent
 http://167.249.29.105:8000/play/a06m/index.m3u8
 
