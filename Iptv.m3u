@@ -623,6 +623,9 @@ http://45.191.196.10:8000/play/a01k
 #EXTINF:-1,MX OLD
 http://45.191.196.10:8000/play/a009
 
+#EXTINF:-1, OLD CINE
+http://190.102.247.126:8000/play/a011/index.m3u8
+
 #EXTINF:-1,TCS_PELICULAS
 http://45.191.196.10:8000/play/a00k
 
