@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, K-POP
+http://190.102.247.126:8000/play/a01w/index.m3u8
+
 #EXTINF:-1,flashback
 http://190.102.247.126:8000/play/a017/index.m3u8
 
