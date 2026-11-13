@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1,zona tv plus
+http://181.78.8.199:8000/play/a0ie/index.m3u8
 
 #EXTINF:-1,chanmagua tv
 http://190.83.9.222:8000/play/ca022/index.m3u8
