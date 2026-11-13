@@ -1,5 +1,21 @@
 #EXTM3U
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, barbe tv 
+http://190.60.53.132:8000/play/DC012/index.m3u8
+
+#EXTINF:-1, vision tv
+http://190.60.53.132:8000/play/DC008/index.m3u8
+
 #EXTINF:-1,zona tv plus
 http://181.78.8.199:8000/play/a0ie/index.m3u8
 
