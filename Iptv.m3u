@@ -2,10 +2,17 @@
 
 
 
+
+
+
+
+
+
+#EXTINF:-1, bendicion tv 
+http://190.60.47.178:8000/play/a0h0/index.m3u8
+
 #EXTINF:-1, guakislandia tv
 http://190.60.59.163:8000/play/a016/index.m3u8
-
-
 
 #EXTINF:-1, evol tv
 http://190.60.47.180:8000/play/a0bl/index.m3u8
