@@ -4,7 +4,8 @@
 
 
 
-
+#EXTINF:-1, prime time 
+http://190.121.206.47:8000/play/a0f8/index.m3u8
 
 #EXTINF:-1, muy tuyo tv
 http://190.121.206.47:8000/play/a0em/index.m3u8
