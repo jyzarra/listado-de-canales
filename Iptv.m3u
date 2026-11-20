@@ -6,6 +6,12 @@
 
 
 
+#EXTINF:-1, muy tuyo tv
+http://190.121.206.47:8000/play/a0em/index.m3u8
+
+#EXTINF:-1, intercable tv
+http://190.121.206.47:8000/play/a07g/index.m3u8
+
 
 
 #EXTINF:-1, bendicion tv 
