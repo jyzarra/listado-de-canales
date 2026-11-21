@@ -1,8 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1, teleputumayo
+http://38.191.190.2:8000/play/a161/index.m3u8
 
-
-
+#EXTINF:-1,gamavision 
+http://38.191.190.2:8000/play/a123/index.m3u8
 
 #EXTINF:-1, prime time 
 http://190.121.206.47:8000/play/a0f8/index.m3u8
@@ -13,7 +15,8 @@ http://190.121.206.47:8000/play/a0em/index.m3u8
 #EXTINF:-1, intercable tv
 http://190.121.206.47:8000/play/a07g/index.m3u8
 
-
+#EXTINF:-1, cmb tv 
+http://38.191.190.2:8000/play/a164/index.m3u8
 
 #EXTINF:-1, bendicion tv 
 http://190.60.47.178:8000/play/a0h0/index.m3u8
