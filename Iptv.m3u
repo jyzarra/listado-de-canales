@@ -1,5 +1,14 @@
 #EXTM3U
 
+
+
+
+
+
+
+#EXTINF:-1, nina tv 
+http://45.160.12.200:8008/play/133
+
 #EXTINF:-1, teleputumayo
 http://38.191.190.2:8000/play/a161/index.m3u8
 
